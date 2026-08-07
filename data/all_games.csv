@@ -1,0 +1,1901 @@
+home_team,away_team,date,referee,home_fouls,away_fouls,home_yellow,away_yellow,total_fouls,total_yellows
+Brentford,Arsenal,"Friday August 13, 2021",Michael Oliver,15,8,0,0,23,0
+Manchester United,Leeds United,"Saturday August 14, 2021",Paul Tierney,15,12,1,2,27,3
+Watford,Aston Villa,"Saturday August 14, 2021",Mike Dean,21,15,3,1,36,4
+Chelsea,Crystal Palace,"Saturday August 14, 2021",Jonathan Moss,16,17,0,0,33,0
+Everton,Southampton,"Saturday August 14, 2021",Andy Madley,13,18,2,0,31,2
+Burnley,Brighton & Hove Albion,"Saturday August 14, 2021",David Coote,14,7,2,1,21,3
+Leicester City,Wolverhampton Wanderers,"Saturday August 14, 2021",Craig Pawson,6,13,1,2,19,3
+Norwich City,Liverpool,"Saturday August 14, 2021",Andre Marriner,4,17,1,1,21,2
+Newcastle United,West Ham United,"Sunday August 15, 2021",Martin Atkinson,7,4,1,0,11,1
+Tottenham Hotspur,Manchester City,"Sunday August 15, 2021",Anthony Taylor,12,12,2,1,24,3
+Liverpool,Burnley,"Saturday August 21, 2021",Mike Dean,7,15,0,0,22,0
+Leeds United,Everton,"Saturday August 21, 2021",Darren England,6,14,2,4,20,6
+Aston Villa,Newcastle United,"Saturday August 21, 2021",David Coote,8,18,3,4,26,7
+Crystal Palace,Brentford,"Saturday August 21, 2021",Martin Atkinson,14,13,3,1,27,4
+Manchester City,Norwich City,"Saturday August 21, 2021",Graham Scott,14,7,1,0,21,1
+Brighton & Hove Albion,Watford,"Saturday August 21, 2021",Anthony Taylor,10,8,4,0,18,4
+Southampton,Manchester United,"Sunday August 22, 2021",Craig Pawson,14,15,2,3,29,5
+Wolverhampton Wanderers,Tottenham Hotspur,"Sunday August 22, 2021",Stuart Attwell,10,8,1,4,18,5
+Arsenal,Chelsea,"Sunday August 22, 2021",Paul Tierney,15,6,3,0,21,3
+West Ham United,Leicester City,"Monday August 23, 2021",Michael Oliver,9,8,0,1,17,1
+Manchester City,Arsenal,"Saturday August 28, 2021",Martin Atkinson,6,6,1,2,12,3
+West Ham United,Crystal Palace,"Saturday August 28, 2021",Stuart Attwell,10,9,1,0,19,1
+Norwich City,Leicester City,"Saturday August 28, 2021",Robert Jones,12,9,2,1,21,3
+Brighton & Hove Albion,Everton,"Saturday August 28, 2021",Jonathan Moss,12,14,1,2,26,3
+Newcastle United,Southampton,"Saturday August 28, 2021",Paul Tierney,19,5,3,3,24,6
+Aston Villa,Brentford,"Saturday August 28, 2021",Peter Bankes,16,17,3,3,33,6
+Liverpool,Chelsea,"Saturday August 28, 2021",Anthony Taylor,14,6,0,2,20,2
+Burnley,Leeds United,"Sunday August 29, 2021",Michael Oliver,14,11,4,3,25,7
+Tottenham Hotspur,Watford,"Sunday August 29, 2021",Andre Marriner,10,17,3,3,27,6
+Wolverhampton Wanderers,Manchester United,"Sunday August 29, 2021",Mike Dean,10,13,3,4,23,7
+Crystal Palace,Tottenham Hotspur,"Saturday September 11, 2021",Jonathan Moss,17,18,2,4,35,6
+Southampton,West Ham United,"Saturday September 11, 2021",David Coote,16,14,3,4,30,7
+Manchester United,Newcastle United,"Saturday September 11, 2021",Anthony Taylor,12,5,1,0,17,1
+Arsenal,Norwich City,"Saturday September 11, 2021",Michael Oliver,12,14,2,2,26,4
+Leicester City,Manchester City,"Saturday September 11, 2021",Paul Tierney,6,15,1,2,21,3
+Watford,Wolverhampton Wanderers,"Saturday September 11, 2021",Peter Bankes,17,15,3,3,32,6
+Brentford,Brighton & Hove Albion,"Saturday September 11, 2021",Graham Scott,11,13,3,2,24,5
+Chelsea,Aston Villa,"Saturday September 11, 2021",Stuart Attwell,13,12,1,4,25,5
+Leeds United,Liverpool,"Sunday September 12, 2021",Craig Pawson,11,8,2,1,19,3
+Everton,Burnley,"Monday September 13, 2021",Martin Atkinson,3,7,1,1,10,2
+Newcastle United,Leeds United,"Friday September 17, 2021",Mike Dean,11,13,2,2,24,4
+Wolverhampton Wanderers,Brentford,"Saturday September 18, 2021",Darren England,13,8,4,5,21,9
+Liverpool,Crystal Palace,"Saturday September 18, 2021",Andy Madley,16,11,3,1,27,4
+Norwich City,Watford,"Saturday September 18, 2021",Robert Jones,13,14,1,1,27,2
+Manchester City,Southampton,"Saturday September 18, 2021",Jonathan Moss,10,19,0,2,29,2
+Burnley,Arsenal,"Saturday September 18, 2021",Anthony Taylor,9,11,2,1,20,3
+Aston Villa,Everton,"Saturday September 18, 2021",Craig Pawson,10,13,1,1,23,2
+West Ham United,Manchester United,"Sunday September 19, 2021",Martin Atkinson,7,10,0,0,17,0
+Brighton & Hove Albion,Leicester City,"Sunday September 19, 2021",Stuart Attwell,12,11,2,1,23,3
+Tottenham Hotspur,Chelsea,"Sunday September 19, 2021",Paul Tierney,7,18,0,1,25,1
+Chelsea,Manchester City,"Saturday September 25, 2021",Michael Oliver,17,13,3,2,30,5
+Manchester United,Aston Villa,"Saturday September 25, 2021",Mike Dean,11,17,2,2,28,4
+Everton,Norwich City,"Saturday September 25, 2021",David Coote,13,13,2,3,26,5
+Leeds United,West Ham United,"Saturday September 25, 2021",Kevin Friend,12,9,3,2,21,5
+Watford,Newcastle United,"Saturday September 25, 2021",Jarred Gillett,20,12,4,3,32,7
+Leicester City,Burnley,"Saturday September 25, 2021",Chris Kavanagh,11,11,2,4,22,6
+Brentford,Liverpool,"Saturday September 25, 2021",Stuart Attwell,11,8,1,1,19,2
+Southampton,Wolverhampton Wanderers,"Sunday September 26, 2021",Andy Madley,15,11,0,0,26,0
+Arsenal,Tottenham Hotspur,"Sunday September 26, 2021",Craig Pawson,15,13,2,1,28,3
+Crystal Palace,Brighton & Hove Albion,"Monday September 27, 2021",Andre Marriner,13,12,2,4,25,6
+Manchester United,Everton,"Saturday October 2, 2021",Michael Oliver,14,9,1,1,23,2
+Leeds United,Watford,"Saturday October 2, 2021",Simon Hooper,10,18,0,3,28,3
+Wolverhampton Wanderers,Newcastle United,"Saturday October 2, 2021",Graham Scott,19,9,0,2,28,2
+Burnley,Norwich City,"Saturday October 2, 2021",Kevin Friend,15,6,5,2,21,7
+Chelsea,Southampton,"Saturday October 2, 2021",Martin Atkinson,11,20,1,3,31,4
+Brighton & Hove Albion,Arsenal,"Saturday October 2, 2021",Jonathan Moss,10,6,2,1,16,3
+Crystal Palace,Leicester City,"Sunday October 3, 2021",Anthony Taylor,16,15,2,3,31,5
+West Ham United,Brentford,"Sunday October 3, 2021",Peter Bankes,16,16,2,3,32,5
+Tottenham Hotspur,Aston Villa,"Sunday October 3, 2021",Chris Kavanagh,12,20,2,1,32,3
+Liverpool,Manchester City,"Sunday October 3, 2021",Paul Tierney,14,12,3,3,26,6
+Watford,Liverpool,"Saturday October 16, 2021",Jonathan Moss,7,11,0,0,18,0
+Leicester City,Manchester United,"Saturday October 16, 2021",Craig Pawson,9,20,0,3,29,3
+Southampton,Leeds United,"Saturday October 16, 2021",David Coote,18,16,2,3,34,5
+Manchester City,Burnley,"Saturday October 16, 2021",Martin Atkinson,12,9,1,0,21,1
+Aston Villa,Wolverhampton Wanderers,"Saturday October 16, 2021",Michael Oliver,12,21,2,2,33,4
+Norwich City,Brighton & Hove Albion,"Saturday October 16, 2021",Peter Bankes,8,21,3,5,29,8
+Brentford,Chelsea,"Saturday October 16, 2021",Anthony Taylor,16,8,1,1,24,2
+Everton,West Ham United,"Sunday October 17, 2021",Stuart Attwell,6,3,0,2,9,2
+Newcastle United,Tottenham Hotspur,"Sunday October 17, 2021",Andre Marriner,15,7,7,1,22,8
+Arsenal,Crystal Palace,"Monday October 18, 2021",Mike Dean,7,9,1,1,16,2
+Arsenal,Aston Villa,"Friday October 22, 2021",Craig Pawson,21,13,2,5,34,7
+Chelsea,Norwich City,"Saturday October 23, 2021",Andy Madley,16,18,0,5,34,5
+Southampton,Burnley,"Saturday October 23, 2021",Chris Kavanagh,12,14,1,3,26,4
+Crystal Palace,Newcastle United,"Saturday October 23, 2021",Darren England,15,15,3,4,30,7
+Everton,Watford,"Saturday October 23, 2021",Graham Scott,9,14,4,3,23,7
+Leeds United,Wolverhampton Wanderers,"Saturday October 23, 2021",Robert Jones,16,18,2,3,34,5
+Brighton & Hove Albion,Manchester City,"Saturday October 23, 2021",Kevin Friend,13,7,2,3,20,5
+West Ham United,Tottenham Hotspur,"Sunday October 24, 2021",Paul Tierney,13,4,2,1,17,3
+Brentford,Leicester City,"Sunday October 24, 2021",Simon Hooper,15,9,1,1,24,2
+Manchester United,Liverpool,"Sunday October 24, 2021",Anthony Taylor,10,10,6,0,20,6
+Leicester City,Arsenal,"Saturday October 30, 2021",Michael Oliver,13,13,2,0,26,2
+Watford,Southampton,"Saturday October 30, 2021",Peter Bankes,19,6,2,2,25,4
+Newcastle United,Chelsea,"Saturday October 30, 2021",Paul Tierney,17,13,3,2,30,5
+Liverpool,Brighton & Hove Albion,"Saturday October 30, 2021",Mike Dean,12,6,2,2,18,4
+Burnley,Brentford,"Saturday October 30, 2021",Jonathan Moss,12,15,1,1,27,2
+Manchester City,Crystal Palace,"Saturday October 30, 2021",Andre Marriner,11,14,2,3,25,5
+Tottenham Hotspur,Manchester United,"Saturday October 30, 2021",Stuart Attwell,13,16,2,3,29,5
+Norwich City,Leeds United,"Sunday October 31, 2021",Anthony Taylor,17,27,1,4,44,5
+Aston Villa,West Ham United,"Sunday October 31, 2021",Chris Kavanagh,7,13,1,2,20,3
+Wolverhampton Wanderers,Everton,"Monday November 1, 2021",Martin Atkinson,11,8,1,1,19,2
+Southampton,Aston Villa,"Friday November 5, 2021",Andy Madley,15,12,2,2,27,4
+Manchester United,Manchester City,"Saturday November 6, 2021",Michael Oliver,15,13,1,2,28,3
+Crystal Palace,Wolverhampton Wanderers,"Saturday November 6, 2021",Graham Scott,17,14,2,1,31,3
+Chelsea,Burnley,"Saturday November 6, 2021",Andre Marriner,6,12,1,4,18,5
+Brentford,Norwich City,"Saturday November 6, 2021",Jarred Gillett,13,15,2,3,28,5
+Brighton & Hove Albion,Newcastle United,"Saturday November 6, 2021",David Coote,16,13,3,4,29,7
+Leeds United,Leicester City,"Sunday November 7, 2021",Darren England,12,11,1,1,23,2
+Everton,Tottenham Hotspur,"Sunday November 7, 2021",Chris Kavanagh,14,18,2,4,32,6
+Arsenal,Watford,"Sunday November 7, 2021",Kevin Friend,7,20,4,5,27,9
+West Ham United,Liverpool,"Sunday November 7, 2021",Craig Pawson,14,7,1,1,21,2
+Leicester City,Chelsea,"Saturday November 20, 2021",Paul Tierney,18,8,3,1,26,4
+Newcastle United,Brentford,"Saturday November 20, 2021",Robert Jones,13,15,2,2,28,4
+Aston Villa,Brighton & Hove Albion,"Saturday November 20, 2021",Anthony Taylor,10,14,3,3,24,6
+Watford,Manchester United,"Saturday November 20, 2021",Jonathan Moss,10,5,2,4,15,6
+Norwich City,Southampton,"Saturday November 20, 2021",Martin Atkinson,12,10,3,2,22,5
+Wolverhampton Wanderers,West Ham United,"Saturday November 20, 2021",Mike Dean,8,11,1,1,19,2
+Burnley,Crystal Palace,"Saturday November 20, 2021",Simon Hooper,16,17,2,3,33,5
+Liverpool,Arsenal,"Saturday November 20, 2021",Michael Oliver,15,13,2,0,28,2
+Manchester City,Everton,"Sunday November 21, 2021",Stuart Attwell,7,9,1,1,16,2
+Tottenham Hotspur,Leeds United,"Sunday November 21, 2021",Andre Marriner,13,13,1,4,26,5
+Arsenal,Newcastle United,"Saturday November 27, 2021",Stuart Attwell,8,17,1,3,25,4
+Crystal Palace,Aston Villa,"Saturday November 27, 2021",Michael Salisbury,14,11,3,3,25,6
+Norwich City,Wolverhampton Wanderers,"Saturday November 27, 2021",Simon Hooper,11,10,2,2,21,4
+Liverpool,Southampton,"Saturday November 27, 2021",Andre Marriner,7,15,0,1,22,1
+Brighton & Hove Albion,Leeds United,"Saturday November 27, 2021",Craig Pawson,16,16,1,3,32,4
+Brentford,Everton,"Sunday November 28, 2021",Darren England,8,12,4,3,20,7
+Leicester City,Watford,"Sunday November 28, 2021",Andy Madley,6,20,0,0,26,0
+Manchester City,West Ham United,"Sunday November 28, 2021",Michael Oliver,8,8,2,0,16,2
+Chelsea,Manchester United,"Sunday November 28, 2021",Anthony Taylor,14,15,2,5,29,7
+Newcastle United,Norwich City,"Tuesday November 30, 2021",Andy Madley,7,13,0,0,20,0
+Leeds United,Crystal Palace,"Tuesday November 30, 2021",Kevin Friend,19,15,5,3,34,8
+Wolverhampton Wanderers,Burnley,"Wednesday December 1, 2021",John Brooks,5,10,2,3,15,5
+Southampton,Leicester City,"Wednesday December 1, 2021",Robert Jones,16,12,1,3,28,4
+Watford,Chelsea,"Wednesday December 1, 2021",David Coote,25,19,4,3,44,7
+West Ham United,Brighton & Hove Albion,"Wednesday December 1, 2021",Chris Kavanagh,11,10,1,1,21,2
+Everton,Liverpool,"Wednesday December 1, 2021",Paul Tierney,9,18,4,3,27,7
+Aston Villa,Manchester City,"Wednesday December 1, 2021",Mike Dean,11,15,0,0,26,0
+Tottenham Hotspur,Brentford,"Thursday December 2, 2021",Jonathan Moss,16,15,0,0,31,0
+Manchester United,Arsenal,"Thursday December 2, 2021",Martin Atkinson,10,12,1,0,22,1
+West Ham United,Chelsea,"Saturday December 4, 2021",Andre Marriner,10,11,1,3,21,4
+Wolverhampton Wanderers,Liverpool,"Saturday December 4, 2021",Chris Kavanagh,7,9,2,2,16,4
+Southampton,Brighton & Hove Albion,"Saturday December 4, 2021",Anthony Taylor,19,16,4,2,35,6
+Newcastle United,Burnley,"Saturday December 4, 2021",Paul Tierney,13,13,1,1,26,2
+Watford,Manchester City,"Saturday December 4, 2021",Simon Hooper,15,7,3,0,22,3
+Tottenham Hotspur,Norwich City,"Sunday December 5, 2021",Jarred Gillett,12,7,1,2,19,3
+Manchester United,Crystal Palace,"Sunday December 5, 2021",Craig Pawson,19,11,2,2,30,4
+Leeds United,Brentford,"Sunday December 5, 2021",David Coote,13,10,5,3,23,8
+Aston Villa,Leicester City,"Sunday December 5, 2021",Michael Oliver,15,28,1,1,43,2
+Everton,Arsenal,"Monday December 6, 2021",Mike Dean,8,13,2,2,21,4
+Brentford,Watford,"Friday December 10, 2021",Michael Oliver,14,22,4,0,36,4
+Manchester City,Wolverhampton Wanderers,"Saturday December 11, 2021",Jonathan Moss,14,8,3,5,22,8
+Liverpool,Aston Villa,"Saturday December 11, 2021",Stuart Attwell,16,10,1,2,26,3
+Chelsea,Leeds United,"Saturday December 11, 2021",Chris Kavanagh,11,18,2,5,29,7
+Arsenal,Southampton,"Saturday December 11, 2021",Jarred Gillett,6,11,2,0,17,2
+Norwich City,Manchester United,"Saturday December 11, 2021",Darren England,8,17,1,1,25,2
+Burnley,West Ham United,"Sunday December 12, 2021",Graham Scott,14,12,2,1,26,3
+Leicester City,Newcastle United,"Sunday December 12, 2021",Peter Bankes,14,17,2,3,31,5
+Crystal Palace,Everton,"Sunday December 12, 2021",Andy Madley,15,15,0,2,30,2
+Norwich City,Aston Villa,"Tuesday December 14, 2021",David Coote,19,11,3,1,30,4
+Manchester City,Leeds United,"Tuesday December 14, 2021",Paul Tierney,7,18,1,1,25,2
+Crystal Palace,Southampton,"Wednesday December 15, 2021",Simon Hooper,16,21,2,4,37,6
+Brighton & Hove Albion,Wolverhampton Wanderers,"Wednesday December 15, 2021",Tony Harrington,13,17,2,0,30,2
+Arsenal,West Ham United,"Wednesday December 15, 2021",Anthony Taylor,10,8,2,3,18,5
+Chelsea,Everton,"Thursday December 16, 2021",Michael Oliver,11,12,2,3,23,5
+Liverpool,Newcastle United,"Thursday December 16, 2021",Mike Dean,11,12,1,3,23,4
+Leeds United,Arsenal,"Saturday December 18, 2021",Andre Marriner,12,11,3,1,23,4
+Wolverhampton Wanderers,Chelsea,"Sunday December 19, 2021",David Coote,12,10,0,2,22,2
+Newcastle United,Manchester City,"Sunday December 19, 2021",Martin Atkinson,10,7,1,2,17,3
+Tottenham Hotspur,Liverpool,"Sunday December 19, 2021",Paul Tierney,14,13,4,4,27,8
+West Ham United,Southampton,"Sunday December 26, 2021",Kevin Friend,10,12,3,3,22,6
+Manchester City,Leicester City,"Sunday December 26, 2021",Chris Kavanagh,14,12,1,2,26,3
+Norwich City,Arsenal,"Sunday December 26, 2021",Graham Scott,15,10,1,2,25,3
+Tottenham Hotspur,Crystal Palace,"Sunday December 26, 2021",Jonathan Moss,17,15,1,4,32,5
+Aston Villa,Chelsea,"Sunday December 26, 2021",Martin Atkinson,11,15,3,1,26,4
+Brighton & Hove Albion,Brentford,"Sunday December 26, 2021",Darren England,10,10,1,3,20,4
+Newcastle United,Manchester United,"Monday December 27, 2021",Craig Pawson,11,10,3,3,21,6
+Southampton,Tottenham Hotspur,"Tuesday December 28, 2021",Anthony Taylor,17,6,5,2,23,7
+Crystal Palace,Norwich City,"Tuesday December 28, 2021",Paul Tierney,9,16,1,2,25,3
+Watford,West Ham United,"Tuesday December 28, 2021",Darren England,13,13,0,1,26,1
+Leicester City,Liverpool,"Tuesday December 28, 2021",Michael Oliver,9,14,0,1,23,1
+Chelsea,Brighton & Hove Albion,"Wednesday December 29, 2021",Mike Dean,16,10,4,1,26,5
+Brentford,Manchester City,"Wednesday December 29, 2021",David Coote,14,11,0,0,25,0
+Manchester United,Burnley,"Thursday December 30, 2021",Jonathan Moss,6,12,0,0,18,0
+Arsenal,Manchester City,"Saturday January 1, 2022",Stuart Attwell,12,6,6,2,18,8
+Watford,Tottenham Hotspur,"Saturday January 1, 2022",Robert Jones,15,10,0,1,25,1
+Crystal Palace,West Ham United,"Saturday January 1, 2022",Darren England,8,17,0,2,25,2
+Leeds United,Burnley,"Sunday January 2, 2022",Paul Tierney,15,9,2,1,24,3
+Everton,Brighton & Hove Albion,"Sunday January 2, 2022",John Brooks,5,14,1,1,19,2
+Brentford,Aston Villa,"Sunday January 2, 2022",Craig Pawson,17,14,2,2,31,4
+Chelsea,Liverpool,"Sunday January 2, 2022",Anthony Taylor,9,16,1,2,25,3
+Manchester United,Wolverhampton Wanderers,"Monday January 3, 2022",Mike Dean,11,11,3,1,22,4
+Southampton,Brentford,"Tuesday January 11, 2022",Stuart Attwell,11,8,0,1,19,1
+West Ham United,Norwich City,"Wednesday January 12, 2022",Simon Hooper,9,11,0,0,20,0
+Brighton & Hove Albion,Crystal Palace,"Friday January 14, 2022",Robert Jones,13,11,0,2,24,2
+Manchester City,Chelsea,"Saturday January 15, 2022",Craig Pawson,14,11,0,2,25,2
+Newcastle United,Watford,"Saturday January 15, 2022",Paul Tierney,16,16,3,2,32,5
+Wolverhampton Wanderers,Southampton,"Saturday January 15, 2022",Michael Salisbury,13,15,2,3,28,5
+Norwich City,Everton,"Saturday January 15, 2022",Andy Madley,13,18,3,1,31,4
+Aston Villa,Manchester United,"Saturday January 15, 2022",David Coote,11,15,1,2,26,3
+West Ham United,Leeds United,"Sunday January 16, 2022",Mike Dean,7,12,3,2,19,5
+Liverpool,Brentford,"Sunday January 16, 2022",Jonathan Moss,6,11,0,1,17,1
+Brighton & Hove Albion,Chelsea,"Tuesday January 18, 2022",Kevin Friend,10,9,1,2,19,3
+Leicester City,Tottenham Hotspur,"Wednesday January 19, 2022",Jonathan Moss,9,16,1,2,25,3
+Brentford,Manchester United,"Wednesday January 19, 2022",Andre Marriner,10,10,0,0,20,0
+Watford,Norwich City,"Friday January 21, 2022",Mike Dean,16,12,3,1,28,4
+Everton,Aston Villa,"Saturday January 22, 2022",Craig Pawson,18,18,5,4,36,9
+Manchester United,West Ham United,"Saturday January 22, 2022",Jonathan Moss,10,10,1,1,20,2
+Brentford,Wolverhampton Wanderers,"Saturday January 22, 2022",Peter Bankes,9,9,2,3,18,5
+Leeds United,Newcastle United,"Saturday January 22, 2022",Chris Kavanagh,11,12,4,2,23,6
+Southampton,Manchester City,"Saturday January 22, 2022",Simon Hooper,16,7,3,0,23,3
+Leicester City,Brighton & Hove Albion,"Sunday January 23, 2022",Martin Atkinson,6,11,0,1,17,1
+Crystal Palace,Liverpool,"Sunday January 23, 2022",Kevin Friend,16,12,4,1,28,5
+Arsenal,Burnley,"Sunday January 23, 2022",David Coote,12,19,0,2,31,2
+Chelsea,Tottenham Hotspur,"Sunday January 23, 2022",Paul Tierney,18,14,2,1,32,3
+Burnley,Watford,"Saturday February 5, 2022",Craig Pawson,17,13,1,2,30,3
+Newcastle United,Everton,"Tuesday February 8, 2022",Anthony Taylor,15,17,2,3,32,5
+West Ham United,Watford,"Tuesday February 8, 2022",Martin Atkinson,3,7,1,0,10,1
+Burnley,Manchester United,"Tuesday February 8, 2022",Mike Dean,13,12,2,1,25,3
+Tottenham Hotspur,Southampton,"Wednesday February 9, 2022",David Coote,9,15,2,3,24,5
+Manchester City,Brentford,"Wednesday February 9, 2022",Darren England,7,13,0,0,20,0
+Norwich City,Crystal Palace,"Wednesday February 9, 2022",Paul Tierney,17,16,1,2,33,3
+Aston Villa,Leeds United,"Wednesday February 9, 2022",Jarred Gillett,10,14,4,3,24,7
+Wolverhampton Wanderers,Arsenal,"Thursday February 10, 2022",Michael Oliver,15,14,2,6,29,8
+Liverpool,Leicester City,"Thursday February 10, 2022",Chris Kavanagh,11,9,1,0,20,1
+Manchester United,Southampton,"Saturday February 12, 2022",Stuart Attwell,13,16,4,0,29,4
+Brentford,Crystal Palace,"Saturday February 12, 2022",Simon Hooper,13,11,1,0,24,1
+Everton,Leeds United,"Saturday February 12, 2022",Graham Scott,12,10,1,1,22,2
+Watford,Brighton & Hove Albion,"Saturday February 12, 2022",Jonathan Moss,16,9,3,2,25,5
+Norwich City,Manchester City,"Saturday February 12, 2022",Andre Marriner,11,8,0,2,19,2
+Tottenham Hotspur,Wolverhampton Wanderers,"Sunday February 13, 2022",Kevin Friend,14,17,3,1,31,4
+Burnley,Liverpool,"Sunday February 13, 2022",Martin Atkinson,8,8,0,1,16,1
+Newcastle United,Aston Villa,"Sunday February 13, 2022",Craig Pawson,26,19,3,4,45,7
+Leicester City,West Ham United,"Sunday February 13, 2022",Michael Oliver,15,10,1,2,25,3
+Manchester United,Brighton & Hove Albion,"Tuesday February 15, 2022",Peter Bankes,9,14,3,1,23,4
+West Ham United,Newcastle United,"Saturday February 19, 2022",Chris Kavanagh,5,13,3,3,18,6
+Aston Villa,Watford,"Saturday February 19, 2022",Robert Jones,13,9,1,2,22,3
+Liverpool,Norwich City,"Saturday February 19, 2022",Mike Dean,8,15,0,1,23,1
+Crystal Palace,Chelsea,"Saturday February 19, 2022",David Coote,6,24,1,3,30,4
+Arsenal,Brentford,"Saturday February 19, 2022",Jonathan Moss,12,8,1,1,20,2
+Southampton,Everton,"Saturday February 19, 2022",Andy Madley,8,11,0,2,19,2
+Brighton & Hove Albion,Burnley,"Saturday February 19, 2022",Kevin Friend,12,14,1,4,26,5
+Manchester City,Tottenham Hotspur,"Saturday February 19, 2022",Anthony Taylor,6,11,0,3,17,3
+Leeds United,Manchester United,"Sunday February 20, 2022",Paul Tierney,15,21,6,3,36,9
+Wolverhampton Wanderers,Leicester City,"Sunday February 20, 2022",Craig Pawson,17,13,4,4,30,8
+Burnley,Tottenham Hotspur,"Wednesday February 23, 2022",Graham Scott,8,12,0,0,20,0
+Watford,Crystal Palace,"Wednesday February 23, 2022",Andre Marriner,14,11,2,1,25,3
+Liverpool,Leeds United,"Wednesday February 23, 2022",Michael Oliver,6,18,0,3,24,3
+Arsenal,Wolverhampton Wanderers,"Thursday February 24, 2022",Martin Atkinson,11,11,1,1,22,2
+Southampton,Norwich City,"Friday February 25, 2022",Simon Hooper,13,13,1,2,26,3
+Leeds United,Tottenham Hotspur,"Saturday February 26, 2022",Craig Pawson,19,13,4,2,32,6
+Crystal Palace,Burnley,"Saturday February 26, 2022",Jonathan Moss,10,20,0,2,30,2
+Brighton & Hove Albion,Aston Villa,"Saturday February 26, 2022",John Brooks,18,12,4,5,30,9
+Manchester United,Watford,"Saturday February 26, 2022",Kevin Friend,4,7,0,0,11,0
+Brentford,Newcastle United,"Saturday February 26, 2022",Mike Dean,8,8,3,1,16,4
+Everton,Manchester City,"Saturday February 26, 2022",Paul Tierney,12,16,3,2,28,5
+West Ham United,Wolverhampton Wanderers,"Sunday February 27, 2022",Anthony Taylor,9,3,1,0,12,1
+Burnley,Leicester City,"Tuesday March 1, 2022",Chris Kavanagh,11,13,1,1,24,2
+Leicester City,Leeds United,"Saturday March 5, 2022",David Coote,12,15,1,2,27,3
+Wolverhampton Wanderers,Crystal Palace,"Saturday March 5, 2022",Andy Madley,13,12,0,3,25,3
+Aston Villa,Southampton,"Saturday March 5, 2022",Peter Bankes,14,8,1,1,22,2
+Newcastle United,Brighton & Hove Albion,"Saturday March 5, 2022",Martin Atkinson,14,10,1,1,24,2
+Norwich City,Brentford,"Saturday March 5, 2022",Anthony Taylor,16,22,2,5,38,7
+Burnley,Chelsea,"Saturday March 5, 2022",Andre Marriner,15,7,2,0,22,2
+Liverpool,West Ham United,"Saturday March 5, 2022",Jonathan Moss,9,10,2,1,19,3
+Watford,Arsenal,"Sunday March 6, 2022",Craig Pawson,7,10,1,2,17,3
+Manchester City,Manchester United,"Sunday March 6, 2022",Michael Oliver,10,15,0,1,25,1
+Tottenham Hotspur,Everton,"Monday March 7, 2022",Stuart Attwell,21,14,2,0,35,2
+Wolverhampton Wanderers,Watford,"Thursday March 10, 2022",Darren England,11,13,2,2,24,4
+Southampton,Newcastle United,"Thursday March 10, 2022",Kevin Friend,9,10,1,1,19,2
+Norwich City,Chelsea,"Thursday March 10, 2022",Martin Atkinson,10,18,0,2,28,2
+Leeds United,Aston Villa,"Thursday March 10, 2022",Simon Hooper,19,12,5,3,31,8
+Brighton & Hove Albion,Liverpool,"Saturday March 12, 2022",Mike Dean,14,17,3,1,31,4
+Brentford,Burnley,"Saturday March 12, 2022",Paul Tierney,6,9,1,1,15,2
+Manchester United,Tottenham Hotspur,"Saturday March 12, 2022",Jonathan Moss,11,13,2,1,24,3
+Leeds United,Norwich City,"Sunday March 13, 2022",Stuart Attwell,20,10,3,1,30,4
+Chelsea,Newcastle United,"Sunday March 13, 2022",David Coote,18,21,4,3,39,7
+West Ham United,Aston Villa,"Sunday March 13, 2022",Jarred Gillett,10,4,1,0,14,1
+Southampton,Watford,"Sunday March 13, 2022",Graham Scott,10,14,3,2,24,5
+Everton,Wolverhampton Wanderers,"Sunday March 13, 2022",Michael Oliver,16,13,5,1,29,6
+Arsenal,Leicester City,"Sunday March 13, 2022",Anthony Taylor,10,13,0,3,23,3
+Crystal Palace,Manchester City,"Monday March 14, 2022",Martin Atkinson,7,11,3,1,18,4
+Brighton & Hove Albion,Tottenham Hotspur,"Wednesday March 16, 2022",Robert Jones,14,15,2,2,29,4
+Arsenal,Liverpool,"Wednesday March 16, 2022",Andre Marriner,9,13,0,1,22,1
+Everton,Newcastle United,"Thursday March 17, 2022",Craig Pawson,19,14,2,1,33,3
+Wolverhampton Wanderers,Leeds United,"Friday March 18, 2022",Kevin Friend,14,14,4,5,28,9
+Aston Villa,Arsenal,"Saturday March 19, 2022",Andy Madley,15,17,3,3,32,6
+Leicester City,Brentford,"Sunday March 20, 2022",Darren England,15,11,1,2,26,3
+Tottenham Hotspur,West Ham United,"Sunday March 20, 2022",Anthony Taylor,14,8,0,1,22,1
+Liverpool,Watford,"Saturday April 2, 2022",Stuart Attwell,9,12,1,1,21,2
+Leeds United,Southampton,"Saturday April 2, 2022",Anthony Taylor,16,9,1,1,25,2
+Burnley,Manchester City,"Saturday April 2, 2022",Craig Pawson,14,6,1,0,20,1
+Wolverhampton Wanderers,Aston Villa,"Saturday April 2, 2022",Darren England,18,9,4,3,27,7
+Chelsea,Brentford,"Saturday April 2, 2022",Andy Madley,13,7,0,0,20,0
+Brighton & Hove Albion,Norwich City,"Saturday April 2, 2022",Simon Hooper,14,13,1,1,27,2
+Manchester United,Leicester City,"Saturday April 2, 2022",Andre Marriner,15,13,2,2,28,4
+West Ham United,Everton,"Sunday April 3, 2022",Michael Oliver,10,14,1,5,24,6
+Tottenham Hotspur,Newcastle United,"Sunday April 3, 2022",Martin Atkinson,10,8,2,3,18,5
+Crystal Palace,Arsenal,"Monday April 4, 2022",Paul Tierney,13,17,0,2,30,2
+Burnley,Everton,"Wednesday April 6, 2022",Mike Dean,14,17,2,2,31,4
+Newcastle United,Wolverhampton Wanderers,"Friday April 8, 2022",Peter Bankes,6,16,1,1,22,2
+Everton,Manchester United,"Saturday April 9, 2022",Jonathan Moss,5,11,2,2,16,4
+Arsenal,Brighton & Hove Albion,"Saturday April 9, 2022",David Coote,13,19,3,4,32,7
+Southampton,Chelsea,"Saturday April 9, 2022",Kevin Friend,13,13,1,0,26,1
+Watford,Leeds United,"Saturday April 9, 2022",Andre Marriner,13,14,2,0,27,2
+Aston Villa,Tottenham Hotspur,"Saturday April 9, 2022",Graham Scott,21,18,2,3,39,5
+Norwich City,Burnley,"Sunday April 10, 2022",Michael Oliver,18,11,1,1,29,2
+Brentford,West Ham United,"Sunday April 10, 2022",Martin Atkinson,4,8,0,1,12,1
+Leicester City,Crystal Palace,"Sunday April 10, 2022",Robert Jones,14,18,1,1,32,2
+Manchester City,Liverpool,"Sunday April 10, 2022",Anthony Taylor,10,13,1,4,23,5
+Tottenham Hotspur,Brighton & Hove Albion,"Saturday April 16, 2022",Craig Pawson,19,14,3,3,33,6
+Manchester United,Norwich City,"Saturday April 16, 2022",Andy Madley,7,11,0,0,18,0
+Southampton,Arsenal,"Saturday April 16, 2022",Peter Bankes,9,7,2,1,16,3
+Watford,Brentford,"Saturday April 16, 2022",Simon Hooper,14,10,2,1,24,3
+West Ham United,Burnley,"Sunday April 17, 2022",Paul Tierney,10,12,2,2,22,4
+Newcastle United,Leicester City,"Sunday April 17, 2022",Jarred Gillett,12,13,2,2,25,4
+Liverpool,Manchester United,"Tuesday April 19, 2022",Martin Atkinson,5,9,1,2,14,3
+Everton,Leicester City,"Wednesday April 20, 2022",David Coote,10,18,4,2,28,6
+Chelsea,Arsenal,"Wednesday April 20, 2022",Jonathan Moss,10,8,3,1,18,4
+Newcastle United,Crystal Palace,"Wednesday April 20, 2022",Tony Harrington,14,15,1,1,29,2
+Manchester City,Brighton & Hove Albion,"Wednesday April 20, 2022",Mike Dean,12,11,0,3,23,3
+Burnley,Southampton,"Thursday April 21, 2022",Stuart Attwell,9,8,2,2,17,4
+Arsenal,Manchester United,"Saturday April 23, 2022",Craig Pawson,11,12,3,4,23,7
+Manchester City,Watford,"Saturday April 23, 2022",Kevin Friend,11,9,1,0,20,1
+Leicester City,Aston Villa,"Saturday April 23, 2022",Andy Madley,19,20,3,2,39,5
+Norwich City,Newcastle United,"Saturday April 23, 2022",Chris Kavanagh,13,11,0,2,24,2
+Brentford,Tottenham Hotspur,"Saturday April 23, 2022",Martin Atkinson,9,10,2,1,19,3
+Chelsea,West Ham United,"Sunday April 24, 2022",Michael Oliver,12,11,1,0,23,1
+Burnley,Wolverhampton Wanderers,"Sunday April 24, 2022",Anthony Taylor,8,9,3,1,17,4
+Brighton & Hove Albion,Southampton,"Sunday April 24, 2022",Robert Jones,14,11,1,0,25,1
+Liverpool,Everton,"Sunday April 24, 2022",Stuart Attwell,8,14,2,5,22,7
+Crystal Palace,Leeds United,"Monday April 25, 2022",Darren England,12,19,2,2,31,4
+Manchester United,Chelsea,"Thursday April 28, 2022",Mike Dean,13,14,0,1,27,1
+Newcastle United,Liverpool,"Saturday April 30, 2022",Andre Marriner,18,11,1,3,29,4
+Watford,Burnley,"Saturday April 30, 2022",Craig Pawson,15,9,1,2,24,3
+Southampton,Crystal Palace,"Saturday April 30, 2022",Jarred Gillett,15,13,1,3,28,4
+Wolverhampton Wanderers,Brighton & Hove Albion,"Saturday April 30, 2022",Simon Hooper,9,4,2,1,13,3
+Aston Villa,Norwich City,"Saturday April 30, 2022",John Brooks,16,11,4,1,27,5
+Leeds United,Manchester City,"Saturday April 30, 2022",Paul Tierney,18,5,1,2,23,3
+Tottenham Hotspur,Leicester City,"Sunday May 1, 2022",Jonathan Moss,17,10,2,3,27,5
+Everton,Chelsea,"Sunday May 1, 2022",Kevin Friend,15,13,3,5,28,8
+West Ham United,Arsenal,"Sunday May 1, 2022",Mike Dean,7,10,2,2,17,4
+Manchester United,Brentford,"Monday May 2, 2022",Chris Kavanagh,5,9,1,0,14,1
+Chelsea,Wolverhampton Wanderers,"Saturday May 7, 2022",Peter Bankes,9,13,1,3,22,4
+Brentford,Southampton,"Saturday May 7, 2022",Michael Salisbury,13,11,0,1,24,1
+Crystal Palace,Watford,"Saturday May 7, 2022",Graham Scott,12,17,2,4,29,6
+Burnley,Aston Villa,"Saturday May 7, 2022",David Coote,15,13,1,2,28,3
+Brighton & Hove Albion,Manchester United,"Saturday May 7, 2022",Andy Madley,15,14,0,2,29,2
+Liverpool,Tottenham Hotspur,"Saturday May 7, 2022",Michael Oliver,13,12,3,2,25,5
+Norwich City,West Ham United,"Sunday May 8, 2022",Robert Jones,15,13,1,1,28,2
+Arsenal,Leeds United,"Sunday May 8, 2022",Chris Kavanagh,14,16,2,2,30,4
+Leicester City,Everton,"Sunday May 8, 2022",Craig Pawson,16,7,3,0,23,3
+Manchester City,Newcastle United,"Sunday May 8, 2022",Stuart Attwell,6,16,1,3,22,4
+Aston Villa,Liverpool,"Tuesday May 10, 2022",Jonathan Moss,13,14,0,0,27,0
+Leeds United,Chelsea,"Wednesday May 11, 2022",Anthony Taylor,13,14,1,0,27,1
+Leicester City,Norwich City,"Wednesday May 11, 2022",Simon Hooper,12,10,0,0,22,0
+Watford,Everton,"Wednesday May 11, 2022",Mike Dean,11,14,1,2,25,3
+Wolverhampton Wanderers,Manchester City,"Wednesday May 11, 2022",Martin Atkinson,4,12,0,1,16,1
+Tottenham Hotspur,Arsenal,"Thursday May 12, 2022",Paul Tierney,10,15,1,6,25,7
+Tottenham Hotspur,Burnley,"Sunday May 15, 2022",Kevin Friend,12,11,3,2,23,5
+Watford,Leicester City,"Sunday May 15, 2022",Jarred Gillett,4,9,0,1,13,1
+West Ham United,Manchester City,"Sunday May 15, 2022",Anthony Taylor,11,5,3,1,16,4
+Leeds United,Brighton & Hove Albion,"Sunday May 15, 2022",Mike Dean,18,9,3,2,27,5
+Wolverhampton Wanderers,Norwich City,"Sunday May 15, 2022",Tony Harrington,6,11,0,3,17,3
+Aston Villa,Crystal Palace,"Sunday May 15, 2022",Chris Kavanagh,14,17,1,3,31,4
+Everton,Brentford,"Sunday May 15, 2022",Michael Oliver,9,10,0,3,19,3
+Newcastle United,Arsenal,"Monday May 16, 2022",Darren England,11,11,0,3,22,3
+Southampton,Liverpool,"Tuesday May 17, 2022",Martin Atkinson,9,10,2,0,19,2
+Everton,Crystal Palace,"Thursday May 19, 2022",Anthony Taylor,10,14,2,3,24,5
+Aston Villa,Burnley,"Thursday May 19, 2022",Paul Tierney,13,19,0,1,32,1
+Chelsea,Leicester City,"Thursday May 19, 2022",Stuart Attwell,15,10,4,1,25,5
+Brighton & Hove Albion,West Ham United,"Sunday May 22, 2022",Kevin Friend,8,10,1,1,18,2
+Brentford,Leeds United,"Sunday May 22, 2022",Paul Tierney,13,16,5,1,29,6
+Leicester City,Southampton,"Sunday May 22, 2022",Jonathan Moss,10,10,0,1,20,1
+Arsenal,Everton,"Sunday May 22, 2022",Andre Marriner,8,12,0,1,20,1
+Crystal Palace,Manchester United,"Sunday May 22, 2022",Martin Atkinson,15,24,2,4,39,6
+Norwich City,Tottenham Hotspur,"Sunday May 22, 2022",Chris Kavanagh,17,9,3,1,26,4
+Burnley,Newcastle United,"Sunday May 22, 2022",Craig Pawson,11,10,1,0,21,1
+Liverpool,Wolverhampton Wanderers,"Sunday May 22, 2022",Anthony Taylor,6,5,1,0,11,1
+Manchester City,Aston Villa,"Sunday May 22, 2022",Michael Oliver,6,12,0,2,18,2
+Chelsea,Watford,"Sunday May 22, 2022",Mike Dean,13,14,0,0,27,0
+Fulham,Arsenal,"Saturday September 12, 2020",Chris Kavanagh,14,13,2,2,27,4
+Crystal Palace,Southampton,"Saturday September 12, 2020",Jonathan Moss,16,11,2,1,27,3
+Liverpool,Leeds United,"Saturday September 12, 2020",Michael Oliver,9,8,1,0,17,1
+West Ham United,Newcastle United,"Saturday September 12, 2020",Stuart Attwell,14,11,2,2,25,4
+West Bromwich Albion,Leicester City,"Sunday September 13, 2020",Anthony Taylor,12,11,1,1,23,2
+Tottenham Hotspur,Everton,"Sunday September 13, 2020",Martin Atkinson,17,10,1,0,27,1
+Sheffield United,Wolverhampton Wanderers,"Monday September 14, 2020",Mike Dean,17,10,2,1,27,3
+Brighton & Hove Albion,Chelsea,"Monday September 14, 2020",Craig Pawson,10,13,1,0,23,1
+Everton,West Bromwich Albion,"Saturday September 19, 2020",Mike Dean,12,12,1,0,24,1
+Leeds United,Fulham,"Saturday September 19, 2020",Anthony Taylor,15,18,1,2,33,3
+Manchester United,Crystal Palace,"Saturday September 19, 2020",Martin Atkinson,14,10,2,1,24,3
+Arsenal,West Ham United,"Saturday September 19, 2020",Michael Oliver,12,16,0,1,28,1
+Southampton,Tottenham Hotspur,"Sunday September 20, 2020",David Coote,24,20,4,3,44,7
+Newcastle United,Brighton & Hove Albion,"Sunday September 20, 2020",Kevin Friend,18,15,3,0,33,3
+Chelsea,Liverpool,"Sunday September 20, 2020",Paul Tierney,13,8,0,0,21,0
+Leicester City,Burnley,"Sunday September 20, 2020",Lee Mason,12,18,1,2,30,3
+Aston Villa,Sheffield United,"Monday September 21, 2020",Graham Scott,12,13,3,1,25,4
+Wolverhampton Wanderers,Manchester City,"Monday September 21, 2020",Andre Marriner,10,8,0,3,18,3
+Brighton & Hove Albion,Manchester United,"Saturday September 26, 2020",Chris Kavanagh,19,19,4,2,38,6
+Crystal Palace,Everton,"Saturday September 26, 2020",Kevin Friend,18,20,3,1,38,4
+West Bromwich Albion,Chelsea,"Saturday September 26, 2020",Jonathan Moss,9,17,1,3,26,4
+Burnley,Southampton,"Saturday September 26, 2020",Andre Marriner,10,11,1,0,21,1
+Sheffield United,Leeds United,"Sunday September 27, 2020",Paul Tierney,19,7,2,1,26,3
+Tottenham Hotspur,Newcastle United,"Sunday September 27, 2020",Peter Bankes,15,9,1,4,24,5
+Manchester City,Leicester City,"Sunday September 27, 2020",Michael Oliver,13,11,1,3,24,4
+West Ham United,Wolverhampton Wanderers,"Sunday September 27, 2020",Martin Atkinson,8,12,0,1,20,1
+Fulham,Aston Villa,"Monday September 28, 2020",Stuart Attwell,20,18,6,3,38,9
+Liverpool,Arsenal,"Monday September 28, 2020",Craig Pawson,13,11,2,2,24,4
+Chelsea,Crystal Palace,"Saturday October 3, 2020",Michael Oliver,18,15,2,0,33,2
+Everton,Brighton & Hove Albion,"Saturday October 3, 2020",Simon Hooper,14,16,0,1,30,1
+Leeds United,Manchester City,"Saturday October 3, 2020",Mike Dean,16,15,2,1,31,3
+Newcastle United,Burnley,"Saturday October 3, 2020",David Coote,14,17,2,3,31,5
+Leicester City,West Ham United,"Sunday October 4, 2020",Andy Madley,12,13,2,2,25,4
+Southampton,West Bromwich Albion,"Sunday October 4, 2020",Chris Kavanagh,20,12,2,1,32,3
+Arsenal,Sheffield United,"Sunday October 4, 2020",Lee Mason,3,10,0,1,13,1
+Wolverhampton Wanderers,Fulham,"Sunday October 4, 2020",Darren England,16,9,1,1,25,2
+Manchester United,Tottenham Hotspur,"Sunday October 4, 2020",Anthony Taylor,16,17,2,1,33,3
+Aston Villa,Liverpool,"Sunday October 4, 2020",Martin Atkinson,9,11,2,1,20,3
+Everton,Liverpool,"Saturday October 17, 2020",Michael Oliver,20,11,3,2,31,5
+Chelsea,Southampton,"Saturday October 17, 2020",Peter Bankes,11,11,1,1,22,2
+Manchester City,Arsenal,"Saturday October 17, 2020",Chris Kavanagh,17,14,4,1,31,5
+Newcastle United,Manchester United,"Saturday October 17, 2020",Craig Pawson,15,16,1,1,31,2
+Sheffield United,Fulham,"Sunday October 18, 2020",Andre Marriner,12,12,0,2,24,2
+Crystal Palace,Brighton & Hove Albion,"Sunday October 18, 2020",Stuart Attwell,14,13,3,2,27,5
+Tottenham Hotspur,West Ham United,"Sunday October 18, 2020",Paul Tierney,13,15,0,5,28,5
+Leicester City,Aston Villa,"Sunday October 18, 2020",Jonathan Moss,22,19,4,3,41,7
+West Bromwich Albion,Burnley,"Monday October 19, 2020",Anthony Taylor,21,18,2,2,39,4
+Leeds United,Wolverhampton Wanderers,"Monday October 19, 2020",David Coote,15,13,2,1,28,3
+Aston Villa,Leeds United,"Friday October 23, 2020",Paul Tierney,17,23,2,2,40,4
+West Ham United,Manchester City,"Saturday October 24, 2020",Anthony Taylor,15,8,2,0,23,2
+Fulham,Crystal Palace,"Saturday October 24, 2020",Graham Scott,12,12,0,1,24,1
+Manchester United,Chelsea,"Saturday October 24, 2020",Martin Atkinson,9,7,3,1,16,4
+Liverpool,Sheffield United,"Saturday October 24, 2020",Mike Dean,8,23,0,3,31,3
+Southampton,Everton,"Sunday October 25, 2020",Kevin Friend,14,11,1,2,25,3
+Wolverhampton Wanderers,Newcastle United,"Sunday October 25, 2020",Lee Mason,11,10,0,1,21,1
+Arsenal,Leicester City,"Sunday October 25, 2020",Craig Pawson,14,10,3,5,24,8
+Brighton & Hove Albion,West Bromwich Albion,"Monday October 26, 2020",Jonathan Moss,19,12,2,0,31,2
+Burnley,Tottenham Hotspur,"Monday October 26, 2020",Michael Oliver,12,9,2,0,21,2
+Wolverhampton Wanderers,Crystal Palace,"Friday October 30, 2020",Martin Atkinson,14,5,0,2,19,2
+Sheffield United,Manchester City,"Saturday October 31, 2020",Michael Oliver,19,7,0,0,26,0
+Burnley,Chelsea,"Saturday October 31, 2020",David Coote,10,17,1,0,27,1
+Liverpool,West Ham United,"Saturday October 31, 2020",Kevin Friend,16,15,0,1,31,1
+Aston Villa,Southampton,"Sunday November 1, 2020",Darren England,12,18,1,2,30,3
+Newcastle United,Everton,"Sunday November 1, 2020",Stuart Attwell,10,13,2,4,23,6
+Manchester United,Arsenal,"Sunday November 1, 2020",Mike Dean,16,15,3,3,31,6
+Tottenham Hotspur,Brighton & Hove Albion,"Sunday November 1, 2020",Graham Scott,14,13,2,1,27,3
+Fulham,West Bromwich Albion,"Monday November 2, 2020",Simon Hooper,15,15,3,2,30,5
+Leeds United,Leicester City,"Monday November 2, 2020",Andre Marriner,10,10,1,1,20,2
+Brighton & Hove Albion,Burnley,"Friday November 6, 2020",Mike Dean,11,5,1,0,16,1
+Southampton,Newcastle United,"Friday November 6, 2020",Peter Bankes,12,11,1,2,23,3
+Everton,Manchester United,"Saturday November 7, 2020",Paul Tierney,16,22,4,2,38,6
+Crystal Palace,Leeds United,"Saturday November 7, 2020",Chris Kavanagh,10,19,0,2,29,2
+Chelsea,Sheffield United,"Saturday November 7, 2020",Jonathan Moss,6,18,0,2,24,2
+West Ham United,Fulham,"Saturday November 7, 2020",Robert Jones,13,10,2,2,23,4
+West Bromwich Albion,Tottenham Hotspur,"Sunday November 8, 2020",Andy Madley,19,12,1,0,31,1
+Leicester City,Wolverhampton Wanderers,"Sunday November 8, 2020",Anthony Taylor,15,10,2,3,25,5
+Manchester City,Liverpool,"Sunday November 8, 2020",Craig Pawson,21,11,3,1,32,4
+Arsenal,Aston Villa,"Sunday November 8, 2020",Martin Atkinson,14,15,0,0,29,0
+Newcastle United,Chelsea,"Saturday November 21, 2020",Craig Pawson,13,14,2,0,27,2
+Aston Villa,Brighton & Hove Albion,"Saturday November 21, 2020",Michael Oliver,7,19,2,4,26,6
+Tottenham Hotspur,Manchester City,"Saturday November 21, 2020",Mike Dean,17,20,2,2,37,4
+Manchester United,West Bromwich Albion,"Saturday November 21, 2020",David Coote,15,19,1,1,34,2
+Fulham,Everton,"Sunday November 22, 2020",Andy Madley,16,12,2,0,28,2
+Sheffield United,West Ham United,"Sunday November 22, 2020",Martin Atkinson,9,9,0,0,18,0
+Leeds United,Arsenal,"Sunday November 22, 2020",Anthony Taylor,14,10,3,0,24,3
+Liverpool,Leicester City,"Sunday November 22, 2020",Chris Kavanagh,20,8,0,2,28,2
+Burnley,Crystal Palace,"Monday November 23, 2020",Kevin Friend,15,10,2,0,25,2
+Wolverhampton Wanderers,Southampton,"Monday November 23, 2020",Andre Marriner,17,17,2,0,34,2
+Crystal Palace,Newcastle United,"Friday November 27, 2020",Graham Scott,11,11,2,2,22,4
+Brighton & Hove Albion,Liverpool,"Saturday November 28, 2020",Stuart Attwell,9,15,2,1,24,3
+Manchester City,Burnley,"Saturday November 28, 2020",Lee Mason,13,5,0,0,18,0
+Everton,Leeds United,"Saturday November 28, 2020",Chris Kavanagh,10,19,1,2,29,3
+West Bromwich Albion,Sheffield United,"Saturday November 28, 2020",Mike Dean,11,14,2,3,25,5
+Southampton,Manchester United,"Sunday November 29, 2020",Jonathan Moss,13,13,1,0,26,1
+Chelsea,Tottenham Hotspur,"Sunday November 29, 2020",Paul Tierney,22,11,4,2,33,6
+Arsenal,Wolverhampton Wanderers,"Sunday November 29, 2020",Michael Oliver,16,14,3,4,30,7
+Leicester City,Fulham,"Monday November 30, 2020",Simon Hooper,9,23,0,2,32,2
+West Ham United,Aston Villa,"Monday November 30, 2020",Peter Bankes,22,8,1,1,30,2
+Burnley,Everton,"Saturday December 5, 2020",Anthony Taylor,12,10,0,0,22,0
+Manchester City,Fulham,"Saturday December 5, 2020",Jonathan Moss,10,10,0,0,20,0
+West Ham United,Manchester United,"Saturday December 5, 2020",Andre Marriner,11,12,0,0,23,0
+Chelsea,Leeds United,"Saturday December 5, 2020",Kevin Friend,15,10,0,2,25,2
+West Bromwich Albion,Crystal Palace,"Sunday December 6, 2020",Paul Tierney,11,18,2,2,29,4
+Sheffield United,Leicester City,"Sunday December 6, 2020",Stuart Attwell,18,9,1,3,27,4
+Tottenham Hotspur,Arsenal,"Sunday December 6, 2020",Martin Atkinson,18,14,1,2,32,3
+Liverpool,Wolverhampton Wanderers,"Sunday December 6, 2020",Craig Pawson,8,16,1,1,24,2
+Brighton & Hove Albion,Southampton,"Monday December 7, 2020",David Coote,14,13,3,3,27,6
+Leeds United,West Ham United,"Friday December 11, 2020",Michael Oliver,18,10,1,2,28,3
+Wolverhampton Wanderers,Aston Villa,"Saturday December 12, 2020",Mike Dean,22,17,5,8,39,13
+Newcastle United,West Bromwich Albion,"Saturday December 12, 2020",Darren England,12,15,2,3,27,5
+Manchester United,Manchester City,"Saturday December 12, 2020",Chris Kavanagh,16,10,1,1,26,2
+Everton,Chelsea,"Saturday December 12, 2020",Jonathan Moss,12,12,2,3,24,5
+Southampton,Sheffield United,"Sunday December 13, 2020",Andy Madley,9,17,0,1,26,1
+Crystal Palace,Tottenham Hotspur,"Sunday December 13, 2020",Kevin Friend,17,13,1,1,30,2
+Fulham,Liverpool,"Sunday December 13, 2020",Andre Marriner,12,6,3,1,18,4
+Leicester City,Brighton & Hove Albion,"Sunday December 13, 2020",Martin Atkinson,13,14,2,1,27,3
+Arsenal,Burnley,"Sunday December 13, 2020",Graham Scott,7,12,2,1,19,3
+Wolverhampton Wanderers,Chelsea,"Tuesday December 15, 2020",Stuart Attwell,16,16,2,2,32,4
+Manchester City,West Bromwich Albion,"Tuesday December 15, 2020",Peter Bankes,5,11,2,3,16,5
+Leeds United,Newcastle United,"Wednesday December 16, 2020",Simon Hooper,12,15,3,1,27,4
+Arsenal,Southampton,"Wednesday December 16, 2020",Paul Tierney,14,14,4,3,28,7
+Leicester City,Everton,"Wednesday December 16, 2020",Lee Mason,16,10,2,3,26,5
+Liverpool,Tottenham Hotspur,"Wednesday December 16, 2020",Anthony Taylor,9,11,0,2,20,2
+West Ham United,Crystal Palace,"Wednesday December 16, 2020",David Coote,9,14,0,4,23,4
+Fulham,Brighton & Hove Albion,"Wednesday December 16, 2020",Robert Jones,15,12,1,0,27,1
+Aston Villa,Burnley,"Thursday December 17, 2020",Craig Pawson,18,26,1,1,44,2
+Sheffield United,Manchester United,"Thursday December 17, 2020",Michael Oliver,22,11,3,2,33,5
+Crystal Palace,Liverpool,"Saturday December 19, 2020",Jonathan Moss,8,16,1,0,24,1
+Southampton,Manchester City,"Saturday December 19, 2020",Mike Dean,12,13,2,2,25,4
+Everton,Arsenal,"Saturday December 19, 2020",Andre Marriner,10,11,1,3,21,4
+Newcastle United,Fulham,"Saturday December 19, 2020",Graham Scott,9,16,1,3,25,4
+Brighton & Hove Albion,Sheffield United,"Sunday December 20, 2020",Peter Bankes,9,12,1,5,21,6
+Tottenham Hotspur,Leicester City,"Sunday December 20, 2020",Craig Pawson,16,19,2,2,35,4
+Manchester United,Leeds United,"Sunday December 20, 2020",Anthony Taylor,7,10,1,0,17,1
+West Bromwich Albion,Aston Villa,"Sunday December 20, 2020",Martin Atkinson,15,10,1,2,25,3
+Burnley,Wolverhampton Wanderers,"Monday December 21, 2020",Lee Mason,15,16,2,1,31,3
+Chelsea,West Ham United,"Monday December 21, 2020",Chris Kavanagh,14,7,0,0,21,0
+Leicester City,Manchester United,"Saturday December 26, 2020",Mike Dean,15,21,2,1,36,3
+Fulham,Southampton,"Saturday December 26, 2020",Darren England,15,12,2,0,27,2
+Aston Villa,Crystal Palace,"Saturday December 26, 2020",Anthony Taylor,16,18,4,4,34,8
+Arsenal,Chelsea,"Saturday December 26, 2020",Michael Oliver,16,15,2,1,31,3
+Sheffield United,Everton,"Saturday December 26, 2020",David Coote,15,13,2,4,28,6
+Manchester City,Newcastle United,"Saturday December 26, 2020",Andre Marriner,6,14,2,2,20,4
+Leeds United,Burnley,"Sunday December 27, 2020",Robert Jones,12,15,0,3,27,3
+West Ham United,Brighton & Hove Albion,"Sunday December 27, 2020",Simon Hooper,9,11,0,0,20,0
+Liverpool,West Bromwich Albion,"Sunday December 27, 2020",Kevin Friend,9,7,0,1,16,1
+Wolverhampton Wanderers,Tottenham Hotspur,"Sunday December 27, 2020",Paul Tierney,24,16,4,1,40,5
+Crystal Palace,Leicester City,"Monday December 28, 2020",Graham Scott,16,7,0,1,23,1
+Chelsea,Aston Villa,"Monday December 28, 2020",Stuart Attwell,21,5,3,1,26,4
+Burnley,Sheffield United,"Tuesday December 29, 2020",Chris Kavanagh,15,19,1,2,34,3
+West Bromwich Albion,Leeds United,"Tuesday December 29, 2020",Lee Mason,11,10,0,1,21,1
+Brighton & Hove Albion,Arsenal,"Tuesday December 29, 2020",Martin Atkinson,12,6,2,0,18,2
+Southampton,West Ham United,"Tuesday December 29, 2020",Andy Madley,18,18,3,1,36,4
+Manchester United,Wolverhampton Wanderers,"Tuesday December 29, 2020",Jonathan Moss,13,14,1,1,27,2
+Newcastle United,Liverpool,"Wednesday December 30, 2020",Paul Tierney,10,13,2,3,23,5
+Everton,West Ham United,"Friday January 1, 2021",Kevin Friend,14,9,2,0,23,2
+Manchester United,Aston Villa,"Friday January 1, 2021",Michael Oliver,28,13,4,0,41,4
+Tottenham Hotspur,Leeds United,"Saturday January 2, 2021",David Coote,19,16,5,1,35,6
+Crystal Palace,Sheffield United,"Saturday January 2, 2021",Stuart Attwell,10,22,1,3,32,4
+Brighton & Hove Albion,Wolverhampton Wanderers,"Saturday January 2, 2021",Andy Madley,18,12,2,1,30,3
+West Bromwich Albion,Arsenal,"Saturday January 2, 2021",Martin Atkinson,8,5,1,2,13,3
+Newcastle United,Leicester City,"Sunday January 3, 2021",Robert Jones,15,14,0,2,29,2
+Chelsea,Manchester City,"Sunday January 3, 2021",Anthony Taylor,14,12,3,1,26,4
+Southampton,Liverpool,"Monday January 4, 2021",Andre Marriner,8,15,1,3,23,4
+Sheffield United,Newcastle United,"Tuesday January 12, 2021",Andy Madley,14,14,2,6,28,8
+Burnley,Manchester United,"Tuesday January 12, 2021",Kevin Friend,20,13,1,2,33,3
+Wolverhampton Wanderers,Everton,"Tuesday January 12, 2021",Martin Atkinson,8,12,2,2,20,4
+Manchester City,Brighton & Hove Albion,"Wednesday January 13, 2021",Darren England,5,14,0,2,19,2
+Tottenham Hotspur,Fulham,"Wednesday January 13, 2021",Paul Tierney,14,19,1,2,33,3
+Arsenal,Crystal Palace,"Thursday January 14, 2021",Andre Marriner,11,12,1,1,23,2
+Wolverhampton Wanderers,West Bromwich Albion,"Saturday January 16, 2021",Michael Oliver,11,21,2,1,32,3
+Leeds United,Brighton & Hove Albion,"Saturday January 16, 2021",Kevin Friend,9,11,1,1,20,2
+West Ham United,Burnley,"Saturday January 16, 2021",Chris Kavanagh,16,11,2,1,27,3
+Fulham,Chelsea,"Saturday January 16, 2021",Peter Bankes,12,13,2,3,25,5
+Leicester City,Southampton,"Saturday January 16, 2021",Stuart Attwell,11,16,2,2,27,4
+Sheffield United,Tottenham Hotspur,"Sunday January 17, 2021",Andre Marriner,20,5,4,0,25,4
+Liverpool,Manchester United,"Sunday January 17, 2021",Paul Tierney,15,10,2,1,25,3
+Manchester City,Crystal Palace,"Sunday January 17, 2021",Lee Mason,11,8,0,0,19,0
+Arsenal,Newcastle United,"Monday January 18, 2021",David Coote,11,10,0,0,21,0
+West Ham United,West Bromwich Albion,"Tuesday January 19, 2021",Graham Scott,11,11,0,1,22,1
+Leicester City,Chelsea,"Tuesday January 19, 2021",Craig Pawson,12,20,1,3,32,4
+Manchester City,Aston Villa,"Wednesday January 20, 2021",Jonathan Moss,11,12,0,2,23,2
+Fulham,Manchester United,"Wednesday January 20, 2021",Martin Atkinson,10,12,3,1,22,4
+Liverpool,Burnley,"Thursday January 21, 2021",Mike Dean,11,10,2,1,21,3
+Aston Villa,Newcastle United,"Saturday January 23, 2021",Simon Hooper,9,20,0,3,29,3
+Newcastle United,Leeds United,"Tuesday January 26, 2021",Anthony Taylor,11,17,1,3,28,4
+Crystal Palace,West Ham United,"Tuesday January 26, 2021",Stuart Attwell,13,9,0,0,22,0
+Southampton,Arsenal,"Tuesday January 26, 2021",Kevin Friend,14,7,1,2,21,3
+West Bromwich Albion,Manchester City,"Tuesday January 26, 2021",Chris Kavanagh,11,8,2,0,19,2
+Burnley,Aston Villa,"Wednesday January 27, 2021",Paul Tierney,18,8,1,0,26,1
+Chelsea,Wolverhampton Wanderers,"Wednesday January 27, 2021",Andy Madley,15,11,1,1,26,2
+Brighton & Hove Albion,Fulham,"Wednesday January 27, 2021",Craig Pawson,11,18,2,1,29,3
+Everton,Leicester City,"Wednesday January 27, 2021",Mike Dean,16,13,1,1,29,2
+Manchester United,Sheffield United,"Wednesday January 27, 2021",Peter Bankes,10,15,1,1,25,2
+Tottenham Hotspur,Liverpool,"Thursday January 28, 2021",Martin Atkinson,13,11,1,2,24,3
+Everton,Newcastle United,"Saturday January 30, 2021",Stuart Attwell,15,11,3,4,26,7
+West Bromwich Albion,Fulham,"Saturday January 30, 2021",Anthony Taylor,13,11,1,0,24,1
+Manchester City,Sheffield United,"Saturday January 30, 2021",David Coote,10,12,0,3,22,3
+Crystal Palace,Wolverhampton Wanderers,"Saturday January 30, 2021",Simon Hooper,10,14,1,2,24,3
+Arsenal,Manchester United,"Saturday January 30, 2021",Michael Oliver,12,18,1,3,30,4
+Southampton,Aston Villa,"Saturday January 30, 2021",Lee Mason,13,12,1,0,25,1
+Chelsea,Burnley,"Sunday January 31, 2021",Graham Scott,9,10,0,1,19,1
+Leicester City,Leeds United,"Sunday January 31, 2021",Chris Kavanagh,17,17,0,3,34,3
+West Ham United,Liverpool,"Sunday January 31, 2021",Jonathan Moss,10,8,2,0,18,2
+Brighton & Hove Albion,Tottenham Hotspur,"Sunday January 31, 2021",Peter Bankes,13,13,2,1,26,3
+Wolverhampton Wanderers,Arsenal,"Tuesday February 2, 2021",Craig Pawson,12,7,3,2,19,5
+Sheffield United,West Bromwich Albion,"Tuesday February 2, 2021",Paul Tierney,12,14,2,1,26,3
+Manchester United,Southampton,"Tuesday February 2, 2021",Mike Dean,11,6,2,3,17,5
+Newcastle United,Crystal Palace,"Tuesday February 2, 2021",Darren England,15,11,1,3,26,4
+Burnley,Manchester City,"Wednesday February 3, 2021",Martin Atkinson,12,5,2,1,17,3
+Fulham,Leicester City,"Wednesday February 3, 2021",Robert Jones,18,15,3,1,33,4
+Leeds United,Everton,"Wednesday February 3, 2021",Michael Oliver,12,12,2,3,24,5
+Liverpool,Brighton & Hove Albion,"Wednesday February 3, 2021",Kevin Friend,12,7,1,0,19,1
+Aston Villa,West Ham United,"Wednesday February 3, 2021",Andy Madley,15,19,1,1,34,2
+Tottenham Hotspur,Chelsea,"Thursday February 4, 2021",Andre Marriner,22,18,2,3,40,5
+Aston Villa,Arsenal,"Saturday February 6, 2021",Chris Kavanagh,14,15,3,2,29,5
+Newcastle United,Southampton,"Saturday February 6, 2021",Craig Pawson,16,15,5,1,31,6
+Burnley,Brighton & Hove Albion,"Saturday February 6, 2021",Anthony Taylor,8,11,2,0,19,2
+Fulham,West Ham United,"Saturday February 6, 2021",Mike Dean,11,12,1,3,23,4
+Manchester United,Everton,"Saturday February 6, 2021",Jonathan Moss,15,14,2,1,29,3
+Tottenham Hotspur,West Bromwich Albion,"Sunday February 7, 2021",Stuart Attwell,17,15,1,2,32,3
+Wolverhampton Wanderers,Leicester City,"Sunday February 7, 2021",Martin Atkinson,13,19,1,3,32,4
+Liverpool,Manchester City,"Sunday February 7, 2021",Michael Oliver,15,8,2,1,23,3
+Sheffield United,Chelsea,"Sunday February 7, 2021",Kevin Friend,13,10,1,0,23,1
+Leeds United,Crystal Palace,"Monday February 8, 2021",Andre Marriner,7,9,0,2,16,2
+Leicester City,Liverpool,"Saturday February 13, 2021",Anthony Taylor,10,7,1,2,17,3
+Crystal Palace,Burnley,"Saturday February 13, 2021",Michael Oliver,20,18,0,0,38,0
+Manchester City,Tottenham Hotspur,"Saturday February 13, 2021",Paul Tierney,16,16,1,3,32,4
+Brighton & Hove Albion,Aston Villa,"Saturday February 13, 2021",Darren England,16,14,2,3,30,5
+Southampton,Wolverhampton Wanderers,"Sunday February 14, 2021",Graham Scott,10,9,2,2,19,4
+West Bromwich Albion,Manchester United,"Sunday February 14, 2021",Craig Pawson,16,11,5,0,27,5
+Arsenal,Leeds United,"Sunday February 14, 2021",Stuart Attwell,9,20,0,2,29,2
+Everton,Fulham,"Sunday February 14, 2021",Andy Madley,8,17,1,1,25,2
+West Ham United,Sheffield United,"Monday February 15, 2021",Simon Hooper,12,14,0,2,26,2
+Chelsea,Newcastle United,"Monday February 15, 2021",Peter Bankes,10,15,0,0,25,0
+Burnley,Fulham,"Wednesday February 17, 2021",Jonathan Moss,8,15,1,1,23,2
+Everton,Manchester City,"Wednesday February 17, 2021",Andre Marriner,9,10,2,1,19,3
+Wolverhampton Wanderers,Leeds United,"Friday February 19, 2021",David Coote,15,9,1,0,24,1
+Southampton,Chelsea,"Saturday February 20, 2021",Anthony Taylor,18,10,1,1,28,2
+Burnley,West Bromwich Albion,"Saturday February 20, 2021",Mike Dean,19,12,3,0,31,3
+Liverpool,Everton,"Saturday February 20, 2021",Chris Kavanagh,10,14,2,1,24,3
+Fulham,Sheffield United,"Saturday February 20, 2021",Martin Atkinson,11,16,1,2,27,3
+West Ham United,Tottenham Hotspur,"Sunday February 21, 2021",Craig Pawson,16,8,4,3,24,7
+Aston Villa,Leicester City,"Sunday February 21, 2021",Michael Oliver,15,14,2,1,29,3
+Arsenal,Manchester City,"Sunday February 21, 2021",Jonathan Moss,18,12,2,2,30,4
+Manchester United,Newcastle United,"Sunday February 21, 2021",Paul Tierney,10,12,1,2,22,3
+Brighton & Hove Albion,Crystal Palace,"Monday February 22, 2021",Kevin Friend,12,7,2,0,19,2
+Leeds United,Southampton,"Tuesday February 23, 2021",Andre Marriner,16,15,1,2,31,3
+Manchester City,West Ham United,"Saturday February 27, 2021",Michael Oliver,8,13,1,1,21,2
+West Bromwich Albion,Brighton & Hove Albion,"Saturday February 27, 2021",Lee Mason,12,15,0,0,27,0
+Leeds United,Aston Villa,"Saturday February 27, 2021",Peter Bankes,17,17,3,2,34,5
+Newcastle United,Wolverhampton Wanderers,"Saturday February 27, 2021",Mike Dean,13,13,2,0,26,2
+Crystal Palace,Fulham,"Sunday February 28, 2021",Anthony Taylor,13,16,1,1,29,2
+Leicester City,Arsenal,"Sunday February 28, 2021",Paul Tierney,16,3,2,1,19,3
+Tottenham Hotspur,Burnley,"Sunday February 28, 2021",Kevin Friend,7,15,0,0,22,0
+Chelsea,Manchester United,"Sunday February 28, 2021",Stuart Attwell,17,14,1,2,31,3
+Sheffield United,Liverpool,"Sunday February 28, 2021",Jonathan Moss,14,11,0,0,25,0
+Everton,Southampton,"Monday March 1, 2021",Martin Atkinson,13,10,0,2,23,2
+Manchester City,Wolverhampton Wanderers,"Tuesday March 2, 2021",Chris Kavanagh,9,6,0,1,15,1
+Burnley,Leicester City,"Wednesday March 3, 2021",Andy Madley,6,12,0,2,18,2
+Sheffield United,Aston Villa,"Wednesday March 3, 2021",Robert Jones,18,6,1,0,24,1
+Crystal Palace,Manchester United,"Wednesday March 3, 2021",Andre Marriner,6,14,1,0,20,1
+West Bromwich Albion,Everton,"Thursday March 4, 2021",Darren England,11,8,3,1,19,4
+Fulham,Tottenham Hotspur,"Thursday March 4, 2021",David Coote,14,12,2,1,26,3
+Liverpool,Chelsea,"Thursday March 4, 2021",Martin Atkinson,9,11,0,0,20,0
+Burnley,Arsenal,"Saturday March 6, 2021",Andre Marriner,6,13,1,1,19,2
+Sheffield United,Southampton,"Saturday March 6, 2021",Paul Tierney,22,15,4,3,37,7
+Aston Villa,Wolverhampton Wanderers,"Saturday March 6, 2021",Andy Madley,15,16,1,0,31,1
+Brighton & Hove Albion,Leicester City,"Saturday March 6, 2021",Michael Oliver,16,10,0,1,26,1
+West Bromwich Albion,Newcastle United,"Sunday March 7, 2021",Martin Atkinson,16,13,0,0,29,0
+Liverpool,Fulham,"Sunday March 7, 2021",Kevin Friend,13,9,2,3,22,5
+Manchester City,Manchester United,"Sunday March 7, 2021",Anthony Taylor,12,14,0,3,26,3
+Tottenham Hotspur,Crystal Palace,"Sunday March 7, 2021",Stuart Attwell,11,19,2,3,30,5
+Chelsea,Everton,"Monday March 8, 2021",David Coote,15,21,0,3,36,3
+West Ham United,Leeds United,"Monday March 8, 2021",Mike Dean,11,14,1,1,25,2
+Manchester City,Southampton,"Wednesday March 10, 2021",Jonathan Moss,9,6,1,0,15,1
+Newcastle United,Aston Villa,"Friday March 12, 2021",Paul Tierney,15,13,2,3,28,5
+Leeds United,Chelsea,"Saturday March 13, 2021",Kevin Friend,17,7,3,0,24,3
+Crystal Palace,West Bromwich Albion,"Saturday March 13, 2021",Simon Hooper,18,18,3,1,36,4
+Everton,Burnley,"Saturday March 13, 2021",Jonathan Moss,10,12,0,4,22,4
+Fulham,Manchester City,"Saturday March 13, 2021",Andre Marriner,20,16,0,0,36,0
+Southampton,Brighton & Hove Albion,"Sunday March 14, 2021",Stuart Attwell,11,12,0,0,23,0
+Leicester City,Sheffield United,"Sunday March 14, 2021",Peter Bankes,11,14,0,2,25,2
+Arsenal,Tottenham Hotspur,"Sunday March 14, 2021",Michael Oliver,16,17,1,5,33,6
+Manchester United,West Ham United,"Sunday March 14, 2021",Martin Atkinson,12,6,4,0,18,4
+Wolverhampton Wanderers,Liverpool,"Monday March 15, 2021",Craig Pawson,19,12,2,1,31,3
+Fulham,Leeds United,"Friday March 19, 2021",David Coote,15,17,2,2,32,4
+Brighton & Hove Albion,Newcastle United,"Saturday March 20, 2021",Anthony Taylor,14,8,0,1,22,1
+West Ham United,Arsenal,"Sunday March 21, 2021",Jonathan Moss,19,9,3,1,28,4
+Aston Villa,Tottenham Hotspur,"Sunday March 21, 2021",Mike Dean,20,15,3,2,35,5
+Chelsea,West Bromwich Albion,"Saturday April 3, 2021",David Coote,11,8,4,1,19,5
+Leeds United,Sheffield United,"Saturday April 3, 2021",Graham Scott,14,16,1,2,30,3
+Leicester City,Manchester City,"Saturday April 3, 2021",Anthony Taylor,13,12,2,3,25,5
+Arsenal,Liverpool,"Saturday April 3, 2021",Stuart Attwell,13,12,1,1,25,2
+Southampton,Burnley,"Sunday April 4, 2021",Andre Marriner,17,13,0,0,30,0
+Newcastle United,Tottenham Hotspur,"Sunday April 4, 2021",Craig Pawson,17,16,3,2,33,5
+Aston Villa,Fulham,"Sunday April 4, 2021",Andy Madley,17,27,1,2,44,3
+Manchester United,Brighton & Hove Albion,"Sunday April 4, 2021",Mike Dean,14,7,2,2,21,4
+Everton,Crystal Palace,"Monday April 5, 2021",Kevin Friend,13,12,2,0,25,2
+Wolverhampton Wanderers,West Ham United,"Monday April 5, 2021",Michael Oliver,12,14,1,4,26,5
+Fulham,Wolverhampton Wanderers,"Friday April 9, 2021",Jonathan Moss,16,9,0,0,25,0
+Manchester City,Leeds United,"Saturday April 10, 2021",Andre Marriner,12,17,3,1,29,4
+Liverpool,Aston Villa,"Saturday April 10, 2021",Paul Tierney,17,14,2,4,31,6
+Crystal Palace,Chelsea,"Saturday April 10, 2021",Michael Oliver,11,14,1,0,25,1
+Burnley,Newcastle United,"Sunday April 11, 2021",Anthony Taylor,12,13,1,0,25,1
+West Ham United,Leicester City,"Sunday April 11, 2021",Mike Dean,7,13,3,3,20,6
+Tottenham Hotspur,Manchester United,"Sunday April 11, 2021",Chris Kavanagh,13,18,1,5,31,6
+Sheffield United,Arsenal,"Sunday April 11, 2021",Peter Bankes,11,7,1,1,18,2
+West Bromwich Albion,Southampton,"Monday April 12, 2021",Simon Hooper,16,11,0,1,27,1
+Brighton & Hove Albion,Everton,"Monday April 12, 2021",Darren England,13,8,1,2,21,3
+Everton,Tottenham Hotspur,"Friday April 16, 2021",Michael Oliver,9,7,1,1,16,2
+Newcastle United,West Ham United,"Saturday April 17, 2021",Kevin Friend,10,13,2,3,23,5
+Wolverhampton Wanderers,Sheffield United,"Saturday April 17, 2021",Robert Jones,10,21,1,2,31,3
+Arsenal,Fulham,"Sunday April 18, 2021",Craig Pawson,10,16,0,3,26,3
+Manchester United,Burnley,"Sunday April 18, 2021",Jonathan Moss,11,15,1,2,26,3
+Leeds United,Liverpool,"Monday April 19, 2021",Anthony Taylor,12,15,2,1,27,3
+Chelsea,Brighton & Hove Albion,"Tuesday April 20, 2021",Stuart Attwell,11,14,2,3,25,5
+Tottenham Hotspur,Southampton,"Wednesday April 21, 2021",David Coote,12,15,2,1,27,3
+Aston Villa,Manchester City,"Wednesday April 21, 2021",Peter Bankes,13,9,3,1,22,4
+Leicester City,West Bromwich Albion,"Thursday April 22, 2021",Andy Madley,16,14,0,2,30,2
+Arsenal,Everton,"Friday April 23, 2021",Jonathan Moss,13,12,1,3,25,4
+Liverpool,Newcastle United,"Saturday April 24, 2021",Andre Marriner,10,7,2,1,17,3
+West Ham United,Chelsea,"Saturday April 24, 2021",Chris Kavanagh,8,14,0,4,22,4
+Sheffield United,Brighton & Hove Albion,"Saturday April 24, 2021",Kevin Friend,18,12,3,0,30,3
+Wolverhampton Wanderers,Burnley,"Sunday April 25, 2021",Darren England,11,9,1,2,20,3
+Leeds United,Manchester United,"Sunday April 25, 2021",Craig Pawson,29,16,4,1,45,5
+Aston Villa,West Bromwich Albion,"Sunday April 25, 2021",Stuart Attwell,15,14,0,2,29,2
+Leicester City,Crystal Palace,"Monday April 26, 2021",Graham Scott,13,15,0,1,28,1
+Southampton,Leicester City,"Friday April 30, 2021",Robert Jones,12,16,1,0,28,1
+Crystal Palace,Manchester City,"Saturday May 1, 2021",David Coote,10,13,2,0,23,2
+Brighton & Hove Albion,Leeds United,"Saturday May 1, 2021",Chris Kavanagh,19,8,1,1,27,2
+Chelsea,Fulham,"Saturday May 1, 2021",Kevin Friend,19,11,1,1,30,2
+Everton,Aston Villa,"Saturday May 1, 2021",Simon Hooper,11,16,0,2,27,2
+Newcastle United,Arsenal,"Sunday May 2, 2021",Mike Dean,11,10,2,1,21,3
+Tottenham Hotspur,Sheffield United,"Sunday May 2, 2021",Andre Marriner,8,14,1,1,22,2
+West Bromwich Albion,Wolverhampton Wanderers,"Monday May 3, 2021",Paul Tierney,17,11,2,0,28,2
+Burnley,West Ham United,"Monday May 3, 2021",Anthony Taylor,7,9,2,1,16,3
+Leicester City,Newcastle United,"Friday May 7, 2021",Darren England,13,12,1,1,25,2
+Leeds United,Tottenham Hotspur,"Saturday May 8, 2021",Michael Oliver,16,13,1,2,29,3
+Sheffield United,Crystal Palace,"Saturday May 8, 2021",Simon Hooper,15,9,1,1,24,2
+Manchester City,Chelsea,"Saturday May 8, 2021",Anthony Taylor,15,12,2,0,27,2
+Liverpool,Southampton,"Saturday May 8, 2021",Kevin Friend,12,6,0,1,18,1
+Wolverhampton Wanderers,Brighton & Hove Albion,"Sunday May 9, 2021",Jonathan Moss,13,10,2,2,23,4
+Aston Villa,Manchester United,"Sunday May 9, 2021",Chris Kavanagh,13,18,4,1,31,5
+West Ham United,Everton,"Sunday May 9, 2021",Stuart Attwell,11,12,2,1,23,3
+Arsenal,West Bromwich Albion,"Sunday May 9, 2021",Peter Bankes,7,11,1,2,18,3
+Fulham,Burnley,"Monday May 10, 2021",David Coote,13,13,2,0,26,2
+Manchester United,Leicester City,"Tuesday May 11, 2021",Craig Pawson,13,13,0,0,26,0
+Southampton,Crystal Palace,"Tuesday May 11, 2021",Andy Madley,23,14,2,3,37,5
+Chelsea,Arsenal,"Wednesday May 12, 2021",Andre Marriner,8,7,0,1,15,1
+Aston Villa,Everton,"Thursday May 13, 2021",Martin Atkinson,9,17,2,1,26,3
+Manchester United,Liverpool,"Thursday May 13, 2021",Anthony Taylor,13,14,3,0,27,3
+Newcastle United,Manchester City,"Friday May 14, 2021",Kevin Friend,11,10,2,2,21,4
+Burnley,Leeds United,"Saturday May 15, 2021",Graham Scott,13,13,1,1,26,2
+Southampton,Fulham,"Saturday May 15, 2021",Craig Pawson,11,20,0,1,31,1
+Brighton & Hove Albion,West Ham United,"Saturday May 15, 2021",Andre Marriner,11,6,1,0,17,1
+Crystal Palace,Aston Villa,"Sunday May 16, 2021",David Coote,26,18,3,2,44,5
+Tottenham Hotspur,Wolverhampton Wanderers,"Sunday May 16, 2021",Martin Atkinson,11,12,1,0,23,1
+West Bromwich Albion,Liverpool,"Sunday May 16, 2021",Mike Dean,11,15,0,0,26,0
+Everton,Sheffield United,"Sunday May 16, 2021",Jonathan Moss,9,13,1,3,22,4
+Manchester United,Fulham,"Tuesday May 18, 2021",Lee Mason,13,20,2,3,33,5
+Southampton,Leeds United,"Tuesday May 18, 2021",Peter Bankes,11,13,0,3,24,3
+Brighton & Hove Albion,Manchester City,"Tuesday May 18, 2021",Stuart Attwell,14,14,3,3,28,6
+Chelsea,Leicester City,"Tuesday May 18, 2021",Mike Dean,15,16,2,5,31,7
+Tottenham Hotspur,Aston Villa,"Wednesday May 19, 2021",Craig Pawson,16,17,1,1,33,2
+Everton,Wolverhampton Wanderers,"Wednesday May 19, 2021",Andy Madley,16,13,0,2,29,2
+Newcastle United,Sheffield United,"Wednesday May 19, 2021",Robert Jones,10,13,0,2,23,2
+Crystal Palace,Arsenal,"Wednesday May 19, 2021",Anthony Taylor,11,9,2,1,20,3
+Burnley,Liverpool,"Wednesday May 19, 2021",Chris Kavanagh,14,10,0,0,24,0
+West Bromwich Albion,West Ham United,"Wednesday May 19, 2021",Michael Oliver,12,14,2,2,26,4
+Leicester City,Tottenham Hotspur,"Sunday May 23, 2021",Anthony Taylor,12,10,0,2,22,2
+Manchester City,Everton,"Sunday May 23, 2021",Michael Oliver,9,13,2,2,22,4
+Liverpool,Crystal Palace,"Sunday May 23, 2021",Craig Pawson,11,13,2,2,24,4
+Sheffield United,Burnley,"Sunday May 23, 2021",Kevin Friend,13,3,3,1,16,4
+Wolverhampton Wanderers,Manchester United,"Sunday May 23, 2021",Mike Dean,15,5,4,1,20,5
+Arsenal,Brighton & Hove Albion,"Sunday May 23, 2021",Jonathan Moss,10,15,0,0,25,0
+Leeds United,West Bromwich Albion,"Sunday May 23, 2021",David Coote,16,13,2,1,29,3
+Fulham,Newcastle United,"Sunday May 23, 2021",Chris Kavanagh,14,6,1,0,20,1
+Aston Villa,Chelsea,"Sunday May 23, 2021",Stuart Attwell,18,13,3,4,31,7
+West Ham United,Southampton,"Sunday May 23, 2021",Martin Atkinson,7,14,0,3,21,3
+Liverpool,Norwich City,"Friday August 9, 2019",Michael Oliver,10,12,0,2,22,2
+West Ham United,Manchester City,"Saturday August 10, 2019",Mike Dean,11,15,2,2,26,4
+Crystal Palace,Everton,"Saturday August 10, 2019",Jonathan Moss,18,13,2,4,31,6
+Bournemouth,Sheffield United,"Saturday August 10, 2019",Kevin Friend,10,21,2,1,31,3
+Burnley,Southampton,"Saturday August 10, 2019",Graham Scott,6,14,0,0,20,0
+Watford,Brighton & Hove Albion,"Saturday August 10, 2019",Craig Pawson,15,11,0,1,26,1
+Tottenham Hotspur,Aston Villa,"Saturday August 10, 2019",Chris Kavanagh,14,11,1,0,25,1
+Leicester City,Wolverhampton Wanderers,"Sunday August 11, 2019",Andre Marriner,6,14,0,2,20,2
+Newcastle United,Arsenal,"Sunday August 11, 2019",Martin Atkinson,13,7,1,3,20,4
+Manchester United,Chelsea,"Sunday August 11, 2019",Anthony Taylor,18,16,3,4,34,7
+Arsenal,Burnley,"Saturday August 17, 2019",Mike Dean,13,17,2,1,30,3
+Brighton & Hove Albion,West Ham United,"Saturday August 17, 2019",Anthony Taylor,16,12,0,2,28,2
+Norwich City,Newcastle United,"Saturday August 17, 2019",Stuart Attwell,11,14,1,3,25,4
+Aston Villa,Bournemouth,"Saturday August 17, 2019",Martin Atkinson,11,16,0,2,27,2
+Everton,Watford,"Saturday August 17, 2019",Lee Mason,13,11,2,3,24,5
+Southampton,Liverpool,"Saturday August 17, 2019",Andre Marriner,12,9,2,1,21,3
+Manchester City,Tottenham Hotspur,"Saturday August 17, 2019",Michael Oliver,16,6,1,0,22,1
+Sheffield United,Crystal Palace,"Sunday August 18, 2019",David Coote,18,11,3,1,29,4
+Chelsea,Leicester City,"Sunday August 18, 2019",Oliver Langford,11,15,1,0,26,1
+Wolverhampton Wanderers,Manchester United,"Monday August 19, 2019",Jonathan Moss,19,9,2,2,28,4
+Aston Villa,Everton,"Friday August 23, 2019",Michael Oliver,10,21,2,3,31,5
+Norwich City,Chelsea,"Saturday August 24, 2019",Martin Atkinson,11,8,1,1,19,2
+Brighton & Hove Albion,Southampton,"Saturday August 24, 2019",Kevin Friend,12,13,1,3,25,4
+Watford,West Ham United,"Saturday August 24, 2019",Chris Kavanagh,18,16,1,1,34,2
+Manchester United,Crystal Palace,"Saturday August 24, 2019",Paul Tierney,11,22,2,4,33,6
+Sheffield United,Leicester City,"Saturday August 24, 2019",Andy Madley,11,6,1,0,17,1
+Liverpool,Arsenal,"Saturday August 24, 2019",Anthony Taylor,11,6,1,1,17,2
+Bournemouth,Manchester City,"Sunday August 25, 2019",Andre Marriner,8,14,1,3,22,4
+Tottenham Hotspur,Newcastle United,"Sunday August 25, 2019",Mike Dean,11,10,2,2,21,4
+Wolverhampton Wanderers,Burnley,"Sunday August 25, 2019",Craig Pawson,10,16,0,2,26,2
+Southampton,Manchester United,"Saturday August 31, 2019",Mike Dean,20,9,4,2,29,6
+Leicester City,Bournemouth,"Saturday August 31, 2019",Peter Bankes,12,13,1,3,25,4
+Crystal Palace,Aston Villa,"Saturday August 31, 2019",Kevin Friend,19,15,2,7,34,9
+Manchester City,Brighton & Hove Albion,"Saturday August 31, 2019",Jonathan Moss,9,9,1,1,18,2
+Chelsea,Sheffield United,"Saturday August 31, 2019",Stuart Attwell,6,12,0,1,18,1
+West Ham United,Norwich City,"Saturday August 31, 2019",Paul Tierney,18,13,2,1,31,3
+Newcastle United,Watford,"Saturday August 31, 2019",Graham Scott,6,13,2,3,19,5
+Burnley,Liverpool,"Saturday August 31, 2019",Chris Kavanagh,14,16,0,0,30,0
+Everton,Wolverhampton Wanderers,"Sunday September 1, 2019",Anthony Taylor,12,11,1,7,23,8
+Arsenal,Tottenham Hotspur,"Sunday September 1, 2019",Martin Atkinson,13,22,3,5,35,8
+Liverpool,Newcastle United,"Saturday September 14, 2019",Andre Marriner,5,8,0,0,13,0
+Wolverhampton Wanderers,Chelsea,"Saturday September 14, 2019",Graham Scott,9,14,1,2,23,3
+Tottenham Hotspur,Crystal Palace,"Saturday September 14, 2019",Craig Pawson,18,12,4,3,30,7
+Brighton & Hove Albion,Burnley,"Saturday September 14, 2019",Michael Oliver,16,10,0,2,26,2
+Sheffield United,Southampton,"Saturday September 14, 2019",Lee Mason,13,8,1,1,21,2
+Manchester United,Leicester City,"Saturday September 14, 2019",Martin Atkinson,14,16,1,2,30,3
+Norwich City,Manchester City,"Saturday September 14, 2019",Kevin Friend,14,8,3,1,22,4
+Bournemouth,Everton,"Sunday September 15, 2019",Paul Tierney,5,15,0,4,20,4
+Watford,Arsenal,"Sunday September 15, 2019",Anthony Taylor,17,8,3,3,25,6
+Aston Villa,West Ham United,"Monday September 16, 2019",Mike Dean,14,13,2,4,27,6
+Southampton,Bournemouth,"Friday September 20, 2019",Chris Kavanagh,15,11,1,3,26,4
+Leicester City,Tottenham Hotspur,"Saturday September 21, 2019",Paul Tierney,19,16,1,2,35,3
+Burnley,Norwich City,"Saturday September 21, 2019",David Coote,12,11,0,1,23,1
+Manchester City,Watford,"Saturday September 21, 2019",Mike Dean,5,12,2,2,17,4
+Everton,Sheffield United,"Saturday September 21, 2019",Simon Hooper,10,10,1,3,20,4
+Newcastle United,Brighton & Hove Albion,"Saturday September 21, 2019",Martin Atkinson,13,10,2,1,23,3
+Crystal Palace,Wolverhampton Wanderers,"Sunday September 22, 2019",Stuart Attwell,7,9,2,4,16,6
+West Ham United,Manchester United,"Sunday September 22, 2019",Anthony Taylor,9,12,2,2,21,4
+Arsenal,Aston Villa,"Sunday September 22, 2019",Jonathan Moss,13,15,8,1,28,9
+Chelsea,Liverpool,"Sunday September 22, 2019",Michael Oliver,10,12,3,3,22,6
+Sheffield United,Liverpool,"Saturday September 28, 2019",Anthony Taylor,9,4,1,1,13,2
+Bournemouth,West Ham United,"Saturday September 28, 2019",Stuart Attwell,10,10,3,1,20,4
+Wolverhampton Wanderers,Watford,"Saturday September 28, 2019",Paul Tierney,6,11,0,1,17,1
+Aston Villa,Burnley,"Saturday September 28, 2019",Lee Mason,10,18,1,4,28,5
+Tottenham Hotspur,Southampton,"Saturday September 28, 2019",Graham Scott,4,16,3,2,20,5
+Crystal Palace,Norwich City,"Saturday September 28, 2019",Jonathan Moss,17,11,3,1,28,4
+Chelsea,Brighton & Hove Albion,"Saturday September 28, 2019",Chris Kavanagh,6,19,2,3,25,5
+Everton,Manchester City,"Saturday September 28, 2019",Michael Oliver,9,10,2,2,19,4
+Leicester City,Newcastle United,"Sunday September 29, 2019",Craig Pawson,15,9,1,1,24,2
+Manchester United,Arsenal,"Monday September 30, 2019",Kevin Friend,24,13,4,2,37,6
+Brighton & Hove Albion,Tottenham Hotspur,"Saturday October 5, 2019",Jonathan Moss,16,10,2,1,26,3
+Watford,Sheffield United,"Saturday October 5, 2019",Andre Marriner,8,7,0,2,15,2
+Liverpool,Leicester City,"Saturday October 5, 2019",Chris Kavanagh,10,22,1,4,32,5
+Norwich City,Aston Villa,"Saturday October 5, 2019",Andy Madley,15,18,1,3,33,4
+Burnley,Everton,"Saturday October 5, 2019",Graham Scott,6,11,2,4,17,6
+West Ham United,Crystal Palace,"Saturday October 5, 2019",Michael Oliver,12,10,3,2,22,5
+Manchester City,Wolverhampton Wanderers,"Sunday October 6, 2019",Craig Pawson,13,18,5,2,31,7
+Arsenal,Bournemouth,"Sunday October 6, 2019",Martin Atkinson,16,10,1,2,26,3
+Southampton,Chelsea,"Sunday October 6, 2019",Paul Tierney,12,15,0,1,27,1
+Newcastle United,Manchester United,"Sunday October 6, 2019",Mike Dean,13,13,3,3,26,6
+Everton,West Ham United,"Saturday October 19, 2019",Paul Tierney,16,16,2,2,32,4
+Wolverhampton Wanderers,Southampton,"Saturday October 19, 2019",Peter Bankes,11,18,3,2,29,5
+Chelsea,Newcastle United,"Saturday October 19, 2019",Andre Marriner,9,13,2,1,22,3
+Aston Villa,Brighton & Hove Albion,"Saturday October 19, 2019",David Coote,9,20,1,5,29,6
+Leicester City,Burnley,"Saturday October 19, 2019",Jonathan Moss,4,12,0,3,16,3
+Bournemouth,Norwich City,"Saturday October 19, 2019",Lee Mason,11,12,1,3,23,4
+Tottenham Hotspur,Watford,"Saturday October 19, 2019",Chris Kavanagh,6,9,4,3,15,7
+Crystal Palace,Manchester City,"Saturday October 19, 2019",Anthony Taylor,10,12,1,1,22,2
+Manchester United,Liverpool,"Sunday October 20, 2019",Martin Atkinson,8,15,0,1,23,1
+Sheffield United,Arsenal,"Monday October 21, 2019",Mike Dean,12,13,4,4,25,8
+Southampton,Leicester City,"Friday October 25, 2019",Andre Marriner,6,14,0,0,20,0
+Manchester City,Aston Villa,"Saturday October 26, 2019",Graham Scott,11,6,4,1,17,5
+West Ham United,Sheffield United,"Saturday October 26, 2019",David Coote,11,11,2,2,22,4
+Watford,Bournemouth,"Saturday October 26, 2019",Mike Dean,17,10,5,3,27,8
+Brighton & Hove Albion,Everton,"Saturday October 26, 2019",Andy Madley,15,15,2,1,30,3
+Burnley,Chelsea,"Saturday October 26, 2019",Michael Oliver,10,10,3,2,20,5
+Newcastle United,Wolverhampton Wanderers,"Sunday October 27, 2019",Kevin Friend,9,18,2,2,27,4
+Arsenal,Crystal Palace,"Sunday October 27, 2019",Martin Atkinson,19,9,2,0,28,2
+Liverpool,Tottenham Hotspur,"Sunday October 27, 2019",Anthony Taylor,11,12,3,3,23,6
+Norwich City,Manchester United,"Sunday October 27, 2019",Stuart Attwell,19,11,2,2,30,4
+Bournemouth,Manchester United,"Saturday November 2, 2019",Chris Kavanagh,17,13,4,3,30,7
+Sheffield United,Burnley,"Saturday November 2, 2019",Simon Hooper,10,13,1,2,23,3
+Manchester City,Southampton,"Saturday November 2, 2019",Lee Mason,13,10,3,1,23,4
+Arsenal,Wolverhampton Wanderers,"Saturday November 2, 2019",Michael Oliver,8,20,0,2,28,2
+Brighton & Hove Albion,Norwich City,"Saturday November 2, 2019",Kevin Friend,11,11,0,1,22,1
+Aston Villa,Liverpool,"Saturday November 2, 2019",Jonathan Moss,14,10,1,2,24,3
+West Ham United,Newcastle United,"Saturday November 2, 2019",Stuart Attwell,10,9,2,1,19,3
+Watford,Chelsea,"Saturday November 2, 2019",Anthony Taylor,11,7,4,2,18,6
+Crystal Palace,Leicester City,"Sunday November 3, 2019",Paul Tierney,16,17,2,2,33,4
+Everton,Tottenham Hotspur,"Sunday November 3, 2019",Martin Atkinson,8,10,1,2,18,3
+Norwich City,Watford,"Friday November 8, 2019",Andre Marriner,12,16,1,5,28,6
+Chelsea,Crystal Palace,"Saturday November 9, 2019",Mike Dean,12,17,3,2,29,5
+Southampton,Everton,"Saturday November 9, 2019",Paul Tierney,13,14,1,1,27,2
+Newcastle United,Bournemouth,"Saturday November 9, 2019",Martin Atkinson,12,7,2,0,19,2
+Burnley,West Ham United,"Saturday November 9, 2019",Kevin Friend,18,11,2,1,29,3
+Tottenham Hotspur,Sheffield United,"Saturday November 9, 2019",Graham Scott,7,13,2,2,20,4
+Leicester City,Arsenal,"Saturday November 9, 2019",Chris Kavanagh,12,16,1,1,28,2
+Manchester United,Brighton & Hove Albion,"Sunday November 10, 2019",Jonathan Moss,10,16,2,5,26,7
+Wolverhampton Wanderers,Aston Villa,"Sunday November 10, 2019",Anthony Taylor,19,12,4,3,31,7
+Liverpool,Manchester City,"Sunday November 10, 2019",Michael Oliver,14,4,0,2,18,2
+West Ham United,Tottenham Hotspur,"Saturday November 23, 2019",Michael Oliver,13,18,3,2,31,5
+Brighton & Hove Albion,Leicester City,"Saturday November 23, 2019",Mike Dean,10,4,2,0,14,2
+Watford,Burnley,"Saturday November 23, 2019",Paul Tierney,14,14,1,3,28,4
+Crystal Palace,Liverpool,"Saturday November 23, 2019",Kevin Friend,10,9,0,1,19,1
+Arsenal,Southampton,"Saturday November 23, 2019",Stuart Attwell,18,24,6,2,42,8
+Everton,Norwich City,"Saturday November 23, 2019",Anthony Taylor,14,11,3,5,25,8
+Bournemouth,Wolverhampton Wanderers,"Saturday November 23, 2019",Simon Hooper,12,13,5,1,25,6
+Manchester City,Chelsea,"Saturday November 23, 2019",Martin Atkinson,10,11,1,1,21,2
+Sheffield United,Manchester United,"Sunday November 24, 2019",Andre Marriner,15,11,1,2,26,3
+Aston Villa,Newcastle United,"Monday November 25, 2019",Lee Mason,11,10,1,1,21,2
+Newcastle United,Manchester City,"Saturday November 30, 2019",Chris Kavanagh,6,7,1,2,13,3
+Tottenham Hotspur,Bournemouth,"Saturday November 30, 2019",Lee Mason,11,15,0,2,26,2
+Burnley,Crystal Palace,"Saturday November 30, 2019",Peter Bankes,15,11,2,0,26,2
+Liverpool,Brighton & Hove Albion,"Saturday November 30, 2019",Martin Atkinson,2,11,0,0,13,0
+Chelsea,West Ham United,"Saturday November 30, 2019",Jonathan Moss,3,23,0,3,26,3
+Southampton,Watford,"Saturday November 30, 2019",Michael Oliver,7,13,1,0,20,1
+Wolverhampton Wanderers,Sheffield United,"Sunday December 1, 2019",David Coote,13,19,1,5,32,6
+Norwich City,Arsenal,"Sunday December 1, 2019",Paul Tierney,9,14,2,1,23,3
+Leicester City,Everton,"Sunday December 1, 2019",Graham Scott,8,10,0,1,18,1
+Manchester United,Aston Villa,"Sunday December 1, 2019",Craig Pawson,19,11,4,1,30,5
+Crystal Palace,Bournemouth,"Tuesday December 3, 2019",Anthony Taylor,7,17,3,3,24,6
+Burnley,Manchester City,"Tuesday December 3, 2019",Jonathan Moss,18,6,1,1,24,2
+Wolverhampton Wanderers,West Ham United,"Wednesday December 4, 2019",Andre Marriner,11,13,1,2,24,3
+Southampton,Norwich City,"Wednesday December 4, 2019",Kevin Friend,14,8,1,1,22,2
+Leicester City,Watford,"Wednesday December 4, 2019",Craig Pawson,13,20,3,2,33,5
+Chelsea,Aston Villa,"Wednesday December 4, 2019",Chris Kavanagh,19,11,2,1,30,3
+Manchester United,Tottenham Hotspur,"Wednesday December 4, 2019",Paul Tierney,9,9,0,1,18,1
+Liverpool,Everton,"Wednesday December 4, 2019",Mike Dean,14,21,1,2,35,3
+Sheffield United,Newcastle United,"Thursday December 5, 2019",Stuart Attwell,10,8,2,0,18,2
+Arsenal,Brighton & Hove Albion,"Thursday December 5, 2019",Graham Scott,12,11,3,1,23,4
+Everton,Chelsea,"Saturday December 7, 2019",Craig Pawson,18,10,3,0,28,3
+Watford,Crystal Palace,"Saturday December 7, 2019",Martin Atkinson,15,17,4,2,32,6
+Bournemouth,Liverpool,"Saturday December 7, 2019",Chris Kavanagh,7,6,0,1,13,1
+Tottenham Hotspur,Burnley,"Saturday December 7, 2019",Kevin Friend,15,11,1,1,26,2
+Manchester City,Manchester United,"Saturday December 7, 2019",Anthony Taylor,11,12,3,2,23,5
+Norwich City,Sheffield United,"Sunday December 8, 2019",Simon Hooper,8,16,0,4,24,4
+Aston Villa,Leicester City,"Sunday December 8, 2019",Michael Oliver,24,14,6,2,38,8
+Newcastle United,Southampton,"Sunday December 8, 2019",David Coote,12,18,1,3,30,4
+Brighton & Hove Albion,Wolverhampton Wanderers,"Sunday December 8, 2019",Jonathan Moss,12,10,3,0,22,3
+West Ham United,Arsenal,"Monday December 9, 2019",Mike Dean,15,6,2,0,21,2
+Liverpool,Watford,"Saturday December 14, 2019",Andre Marriner,10,10,2,1,20,3
+Burnley,Newcastle United,"Saturday December 14, 2019",Tim Robinson,17,12,0,2,29,2
+Chelsea,Bournemouth,"Saturday December 14, 2019",Graham Scott,9,14,1,2,23,3
+Sheffield United,Aston Villa,"Saturday December 14, 2019",Peter Bankes,12,9,2,2,21,4
+Leicester City,Norwich City,"Saturday December 14, 2019",Andy Madley,13,15,0,5,28,5
+Southampton,West Ham United,"Saturday December 14, 2019",Martin Atkinson,11,15,1,3,26,4
+Wolverhampton Wanderers,Tottenham Hotspur,"Sunday December 15, 2019",Stuart Attwell,15,10,4,4,25,8
+Manchester United,Everton,"Sunday December 15, 2019",Michael Oliver,10,13,1,2,23,3
+Arsenal,Manchester City,"Sunday December 15, 2019",Paul Tierney,13,24,1,4,37,5
+Crystal Palace,Brighton & Hove Albion,"Monday December 16, 2019",Craig Pawson,10,15,1,1,25,2
+Everton,Arsenal,"Saturday December 21, 2019",Kevin Friend,12,14,2,3,26,5
+Newcastle United,Crystal Palace,"Saturday December 21, 2019",Simon Hooper,15,11,2,0,26,2
+Aston Villa,Southampton,"Saturday December 21, 2019",Craig Pawson,18,18,2,1,36,3
+Brighton & Hove Albion,Sheffield United,"Saturday December 21, 2019",Robert Jones,8,14,1,3,22,4
+Norwich City,Wolverhampton Wanderers,"Saturday December 21, 2019",Peter Bankes,8,15,2,4,23,6
+Bournemouth,Burnley,"Saturday December 21, 2019",Martin Atkinson,13,22,2,4,35,6
+Manchester City,Leicester City,"Saturday December 21, 2019",Mike Dean,16,10,2,2,26,4
+Watford,Manchester United,"Sunday December 22, 2019",Lee Mason,19,11,3,1,30,4
+Tottenham Hotspur,Chelsea,"Sunday December 22, 2019",Anthony Taylor,11,12,4,3,23,7
+Tottenham Hotspur,Brighton & Hove Albion,"Thursday December 26, 2019",Graham Scott,10,10,4,2,20,6
+Chelsea,Southampton,"Thursday December 26, 2019",Jonathan Moss,10,13,3,2,23,5
+Crystal Palace,West Ham United,"Thursday December 26, 2019",Andre Marriner,7,15,0,2,22,2
+Aston Villa,Norwich City,"Thursday December 26, 2019",Chris Kavanagh,16,13,2,3,29,5
+Everton,Burnley,"Thursday December 26, 2019",Anthony Taylor,15,15,0,0,30,0
+Bournemouth,Arsenal,"Thursday December 26, 2019",Stuart Attwell,7,16,4,4,23,8
+Sheffield United,Watford,"Thursday December 26, 2019",David Coote,13,9,0,3,22,3
+Manchester United,Newcastle United,"Thursday December 26, 2019",Kevin Friend,11,9,2,2,20,4
+Leicester City,Liverpool,"Thursday December 26, 2019",Michael Oliver,8,9,1,1,17,2
+Wolverhampton Wanderers,Manchester City,"Friday December 27, 2019",Martin Atkinson,8,14,0,1,22,1
+Brighton & Hove Albion,Bournemouth,"Saturday December 28, 2019",Paul Tierney,10,13,0,2,23,2
+Newcastle United,Everton,"Saturday December 28, 2019",Lee Mason,13,16,2,2,29,4
+Southampton,Crystal Palace,"Saturday December 28, 2019",Andy Madley,17,12,1,2,29,3
+Watford,Aston Villa,"Saturday December 28, 2019",Simon Hooper,15,12,6,1,27,7
+West Ham United,Leicester City,"Saturday December 28, 2019",David Coote,23,4,4,1,27,5
+Norwich City,Tottenham Hotspur,"Saturday December 28, 2019",Kevin Friend,16,10,3,3,26,6
+Burnley,Manchester United,"Saturday December 28, 2019",Mike Dean,19,11,4,3,30,7
+Arsenal,Chelsea,"Sunday December 29, 2019",Craig Pawson,16,20,5,4,36,9
+Liverpool,Wolverhampton Wanderers,"Sunday December 29, 2019",Anthony Taylor,8,6,1,0,14,1
+Manchester City,Sheffield United,"Sunday December 29, 2019",Chris Kavanagh,8,8,1,1,16,2
+Burnley,Aston Villa,"Wednesday January 1, 2020",Michael Oliver,14,16,1,1,30,2
+Brighton & Hove Albion,Chelsea,"Wednesday January 1, 2020",Stuart Attwell,9,17,2,3,26,5
+Southampton,Tottenham Hotspur,"Wednesday January 1, 2020",Mike Dean,24,9,3,4,33,7
+Watford,Wolverhampton Wanderers,"Wednesday January 1, 2020",Andy Madley,10,8,3,1,18,4
+Newcastle United,Leicester City,"Wednesday January 1, 2020",Martin Atkinson,9,13,1,1,22,2
+Norwich City,Crystal Palace,"Wednesday January 1, 2020",Jonathan Moss,17,12,5,0,29,5
+Manchester City,Everton,"Wednesday January 1, 2020",Andre Marriner,11,15,0,4,26,4
+West Ham United,Bournemouth,"Wednesday January 1, 2020",Graham Scott,4,12,1,2,16,3
+Arsenal,Manchester United,"Wednesday January 1, 2020",Chris Kavanagh,15,16,2,0,31,2
+Liverpool,Sheffield United,"Thursday January 2, 2020",Paul Tierney,6,17,0,0,23,0
+Sheffield United,West Ham United,"Friday January 10, 2020",Michael Oliver,14,7,1,0,21,1
+Crystal Palace,Arsenal,"Saturday January 11, 2020",Paul Tierney,15,24,2,3,39,5
+Leicester City,Southampton,"Saturday January 11, 2020",Lee Mason,10,18,0,3,28,3
+Everton,Brighton & Hove Albion,"Saturday January 11, 2020",David Coote,8,10,2,1,18,3
+Chelsea,Burnley,"Saturday January 11, 2020",Kevin Friend,8,6,0,3,14,3
+Wolverhampton Wanderers,Newcastle United,"Saturday January 11, 2020",Peter Bankes,16,14,0,3,30,3
+Manchester United,Norwich City,"Saturday January 11, 2020",Anthony Taylor,19,11,0,0,30,0
+Tottenham Hotspur,Liverpool,"Saturday January 11, 2020",Martin Atkinson,9,8,0,2,17,2
+Bournemouth,Watford,"Sunday January 12, 2020",Mike Dean,5,19,1,1,24,2
+Aston Villa,Manchester City,"Sunday January 12, 2020",Jonathan Moss,8,12,2,1,20,3
+Watford,Tottenham Hotspur,"Saturday January 18, 2020",Michael Oliver,19,14,2,3,33,5
+Manchester City,Crystal Palace,"Saturday January 18, 2020",Graham Scott,9,8,1,2,17,3
+Norwich City,Bournemouth,"Saturday January 18, 2020",Paul Tierney,9,11,2,2,20,4
+Arsenal,Sheffield United,"Saturday January 18, 2020",Mike Dean,11,18,1,2,29,3
+Southampton,Wolverhampton Wanderers,"Saturday January 18, 2020",Darren England,15,13,2,1,28,3
+West Ham United,Everton,"Saturday January 18, 2020",Andre Marriner,12,16,1,0,28,1
+Brighton & Hove Albion,Aston Villa,"Saturday January 18, 2020",Andy Madley,13,15,3,3,28,6
+Newcastle United,Chelsea,"Saturday January 18, 2020",Chris Kavanagh,13,15,1,1,28,2
+Burnley,Leicester City,"Sunday January 19, 2020",Anthony Taylor,16,10,1,0,26,1
+Liverpool,Manchester United,"Sunday January 19, 2020",Craig Pawson,9,12,1,3,21,4
+Crystal Palace,Southampton,"Tuesday January 21, 2020",Andre Marriner,16,13,1,2,29,3
+Aston Villa,Watford,"Tuesday January 21, 2020",Martin Atkinson,14,21,2,2,35,4
+Everton,Newcastle United,"Tuesday January 21, 2020",Simon Hooper,15,11,1,1,26,2
+Bournemouth,Brighton & Hove Albion,"Tuesday January 21, 2020",Kevin Friend,10,14,1,1,24,2
+Sheffield United,Manchester City,"Tuesday January 21, 2020",Lee Mason,14,15,4,3,29,7
+Chelsea,Arsenal,"Tuesday January 21, 2020",Stuart Attwell,14,8,2,1,22,3
+Tottenham Hotspur,Norwich City,"Wednesday January 22, 2020",Chris Kavanagh,12,9,0,1,21,1
+Leicester City,West Ham United,"Wednesday January 22, 2020",David Coote,12,20,1,1,32,2
+Manchester United,Burnley,"Wednesday January 22, 2020",Jonathan Moss,11,10,0,2,21,2
+Wolverhampton Wanderers,Liverpool,"Thursday January 23, 2020",Michael Oliver,8,14,0,1,22,1
+West Ham United,Liverpool,"Wednesday January 29, 2020",Jonathan Moss,6,6,2,0,12,2
+Leicester City,Chelsea,"Saturday February 1, 2020",Lee Mason,19,14,2,2,33,4
+West Ham United,Brighton & Hove Albion,"Saturday February 1, 2020",Michael Oliver,10,10,1,1,20,2
+Newcastle United,Norwich City,"Saturday February 1, 2020",Martin Atkinson,13,18,2,1,31,3
+Crystal Palace,Sheffield United,"Saturday February 1, 2020",Andy Madley,8,17,3,2,25,5
+Watford,Everton,"Saturday February 1, 2020",Craig Pawson,20,14,2,5,34,7
+Bournemouth,Aston Villa,"Saturday February 1, 2020",Anthony Taylor,9,17,4,3,26,7
+Liverpool,Southampton,"Saturday February 1, 2020",Kevin Friend,8,16,0,2,24,2
+Manchester United,Wolverhampton Wanderers,"Saturday February 1, 2020",Paul Tierney,16,16,3,2,32,5
+Burnley,Arsenal,"Sunday February 2, 2020",Chris Kavanagh,9,13,1,3,22,4
+Tottenham Hotspur,Manchester City,"Sunday February 2, 2020",Mike Dean,9,16,2,6,25,8
+Everton,Crystal Palace,"Saturday February 8, 2020",David Coote,14,14,0,1,28,1
+Brighton & Hove Albion,Watford,"Saturday February 8, 2020",Kevin Friend,9,14,2,2,23,4
+Sheffield United,Bournemouth,"Sunday February 9, 2020",Jonathan Moss,12,10,2,3,22,5
+Wolverhampton Wanderers,Leicester City,"Friday February 14, 2020",Mike Dean,16,14,2,5,30,7
+Southampton,Burnley,"Saturday February 15, 2020",Simon Hooper,9,13,2,2,22,4
+Norwich City,Liverpool,"Saturday February 15, 2020",Stuart Attwell,5,11,1,2,16,3
+Aston Villa,Tottenham Hotspur,"Sunday February 16, 2020",Martin Atkinson,15,12,2,0,27,2
+Arsenal,Newcastle United,"Sunday February 16, 2020",Lee Mason,17,13,2,0,30,2
+Chelsea,Manchester United,"Monday February 17, 2020",Anthony Taylor,14,13,4,3,27,7
+Manchester City,West Ham United,"Wednesday February 19, 2020",Kevin Friend,5,9,0,1,14,1
+Chelsea,Tottenham Hotspur,"Saturday February 22, 2020",Michael Oliver,19,18,1,2,37,3
+Southampton,Aston Villa,"Saturday February 22, 2020",Craig Pawson,13,18,1,4,31,5
+Crystal Palace,Newcastle United,"Saturday February 22, 2020",Peter Bankes,16,14,2,6,30,8
+Burnley,Bournemouth,"Saturday February 22, 2020",Mike Dean,12,11,4,3,23,7
+Sheffield United,Brighton & Hove Albion,"Saturday February 22, 2020",Graham Scott,4,10,0,2,14,2
+Leicester City,Manchester City,"Saturday February 22, 2020",Paul Tierney,16,14,0,0,30,0
+Manchester United,Watford,"Sunday February 23, 2020",Martin Atkinson,7,19,0,1,26,1
+Wolverhampton Wanderers,Norwich City,"Sunday February 23, 2020",Chris Kavanagh,14,7,2,3,21,5
+Arsenal,Everton,"Sunday February 23, 2020",Stuart Attwell,12,14,0,4,26,4
+Liverpool,West Ham United,"Monday February 24, 2020",Jonathan Moss,5,11,0,3,16,3
+Norwich City,Leicester City,"Friday February 28, 2020",Craig Pawson,16,20,1,2,36,3
+Brighton & Hove Albion,Crystal Palace,"Saturday February 29, 2020",Martin Atkinson,8,14,2,1,22,3
+Bournemouth,Chelsea,"Saturday February 29, 2020",Andre Marriner,12,7,2,2,19,4
+West Ham United,Southampton,"Saturday February 29, 2020",Anthony Taylor,10,12,1,1,22,2
+Newcastle United,Burnley,"Saturday February 29, 2020",Andy Madley,14,13,4,3,27,7
+Watford,Liverpool,"Saturday February 29, 2020",Michael Oliver,9,8,0,0,17,0
+Tottenham Hotspur,Wolverhampton Wanderers,"Sunday March 1, 2020",Stuart Attwell,18,15,3,2,33,5
+Everton,Manchester United,"Sunday March 1, 2020",Chris Kavanagh,12,11,3,4,23,7
+Liverpool,Bournemouth,"Saturday March 7, 2020",Paul Tierney,9,15,0,1,24,1
+Southampton,Newcastle United,"Saturday March 7, 2020",Graham Scott,17,15,0,3,32,3
+Arsenal,West Ham United,"Saturday March 7, 2020",Martin Atkinson,11,10,1,2,21,3
+Sheffield United,Norwich City,"Saturday March 7, 2020",Simon Hooper,12,11,0,0,23,0
+Wolverhampton Wanderers,Brighton & Hove Albion,"Saturday March 7, 2020",Andre Marriner,5,10,1,3,15,4
+Crystal Palace,Watford,"Saturday March 7, 2020",Anthony Taylor,12,19,4,4,31,8
+Burnley,Tottenham Hotspur,"Saturday March 7, 2020",Jonathan Moss,19,14,5,4,33,9
+Chelsea,Everton,"Sunday March 8, 2020",Kevin Friend,8,13,1,2,21,3
+Manchester United,Manchester City,"Sunday March 8, 2020",Mike Dean,13,11,2,4,24,6
+Leicester City,Aston Villa,"Monday March 9, 2020",Michael Oliver,17,13,2,1,30,3
+Aston Villa,Sheffield United,"Wednesday June 17, 2020",Michael Oliver,13,18,1,1,31,2
+Manchester City,Arsenal,"Wednesday June 17, 2020",Anthony Taylor,9,6,1,1,15,2
+Norwich City,Southampton,"Friday June 19, 2020",Kevin Friend,14,16,1,1,30,2
+Tottenham Hotspur,Manchester United,"Friday June 19, 2020",Jonathan Moss,22,20,0,1,42,1
+Watford,Leicester City,"Saturday June 20, 2020",Craig Pawson,17,12,0,1,29,1
+Brighton & Hove Albion,Arsenal,"Saturday June 20, 2020",Martin Atkinson,16,8,2,1,24,3
+West Ham United,Wolverhampton Wanderers,"Saturday June 20, 2020",Anthony Taylor,12,7,1,1,19,2
+Bournemouth,Crystal Palace,"Saturday June 20, 2020",Stuart Attwell,15,20,3,2,35,5
+Newcastle United,Sheffield United,"Sunday June 21, 2020",David Coote,10,11,2,3,21,5
+Aston Villa,Chelsea,"Sunday June 21, 2020",Paul Tierney,12,17,2,1,29,3
+Everton,Liverpool,"Sunday June 21, 2020",Mike Dean,20,13,2,2,33,4
+Manchester City,Burnley,"Monday June 22, 2020",Andre Marriner,8,11,1,1,19,2
+Leicester City,Brighton & Hove Albion,"Tuesday June 23, 2020",Lee Mason,12,17,2,2,29,4
+Tottenham Hotspur,West Ham United,"Tuesday June 23, 2020",Craig Pawson,14,11,2,2,25,4
+Newcastle United,Aston Villa,"Wednesday June 24, 2020",Chris Kavanagh,16,17,2,2,33,4
+Norwich City,Everton,"Wednesday June 24, 2020",Andy Madley,11,14,0,1,25,1
+Wolverhampton Wanderers,Bournemouth,"Wednesday June 24, 2020",Michael Oliver,16,15,3,3,31,6
+Manchester United,Sheffield United,"Wednesday June 24, 2020",Anthony Taylor,11,11,1,0,22,1
+Liverpool,Crystal Palace,"Wednesday June 24, 2020",Martin Atkinson,9,7,0,0,16,0
+Southampton,Arsenal,"Thursday June 25, 2020",Graham Scott,11,15,0,2,26,2
+Burnley,Watford,"Thursday June 25, 2020",Mike Dean,17,16,1,0,33,1
+Chelsea,Manchester City,"Thursday June 25, 2020",Stuart Attwell,14,4,1,1,18,2
+Aston Villa,Wolverhampton Wanderers,"Saturday June 27, 2020",Craig Pawson,19,17,1,1,36,2
+Watford,Southampton,"Sunday June 28, 2020",Michael Oliver,21,10,3,0,31,3
+Crystal Palace,Burnley,"Monday June 29, 2020",Simon Hooper,14,14,1,1,28,2
+Brighton & Hove Albion,Manchester United,"Tuesday June 30, 2020",Andre Marriner,12,10,0,1,22,1
+Arsenal,Norwich City,"Wednesday July 1, 2020",Peter Bankes,11,11,1,4,22,5
+Bournemouth,Newcastle United,"Wednesday July 1, 2020",Kevin Friend,12,12,2,0,24,2
+Everton,Leicester City,"Wednesday July 1, 2020",David Coote,13,10,1,1,23,2
+West Ham United,Chelsea,"Wednesday July 1, 2020",Martin Atkinson,10,9,2,1,19,3
+Sheffield United,Tottenham Hotspur,"Thursday July 2, 2020",Chris Kavanagh,17,15,2,0,32,2
+Manchester City,Liverpool,"Thursday July 2, 2020",Anthony Taylor,10,8,2,2,18,4
+Norwich City,Brighton & Hove Albion,"Saturday July 4, 2020",Stuart Attwell,13,14,2,2,27,4
+Manchester United,Bournemouth,"Saturday July 4, 2020",Mike Dean,5,18,0,1,23,1
+Leicester City,Crystal Palace,"Saturday July 4, 2020",Jonathan Moss,20,10,2,1,30,3
+Wolverhampton Wanderers,Arsenal,"Saturday July 4, 2020",Michael Oliver,7,13,2,4,20,6
+Chelsea,Watford,"Saturday July 4, 2020",Kevin Friend,13,14,0,2,27,2
+Burnley,Sheffield United,"Sunday July 5, 2020",Peter Bankes,8,18,0,0,26,0
+Newcastle United,West Ham United,"Sunday July 5, 2020",Craig Pawson,9,11,1,0,20,1
+Liverpool,Aston Villa,"Sunday July 5, 2020",Paul Tierney,20,11,1,1,31,2
+Southampton,Manchester City,"Sunday July 5, 2020",Andre Marriner,9,8,1,2,17,3
+Tottenham Hotspur,Everton,"Monday July 6, 2020",Graham Scott,16,19,3,2,35,5
+Watford,Norwich City,"Tuesday July 7, 2020",Anthony Taylor,15,17,2,4,32,6
+Crystal Palace,Chelsea,"Tuesday July 7, 2020",David Coote,15,11,1,0,26,1
+Arsenal,Leicester City,"Tuesday July 7, 2020",Chris Kavanagh,12,16,1,0,28,1
+Sheffield United,Wolverhampton Wanderers,"Wednesday July 8, 2020",Martin Atkinson,7,10,2,0,17,2
+West Ham United,Burnley,"Wednesday July 8, 2020",Michael Oliver,7,9,1,1,16,2
+Manchester City,Newcastle United,"Wednesday July 8, 2020",Andy Madley,13,9,0,0,22,0
+Brighton & Hove Albion,Liverpool,"Wednesday July 8, 2020",Craig Pawson,8,18,1,4,26,5
+Everton,Southampton,"Thursday July 9, 2020",Lee Mason,15,15,3,3,30,6
+Bournemouth,Tottenham Hotspur,"Thursday July 9, 2020",Paul Tierney,11,16,3,2,27,5
+Aston Villa,Manchester United,"Thursday July 9, 2020",Jonathan Moss,11,17,2,3,28,5
+Norwich City,West Ham United,"Saturday July 11, 2020",Kevin Friend,13,10,1,0,23,1
+Watford,Newcastle United,"Saturday July 11, 2020",Craig Pawson,25,17,1,4,42,5
+Liverpool,Burnley,"Saturday July 11, 2020",David Coote,9,8,1,2,17,3
+Sheffield United,Chelsea,"Saturday July 11, 2020",Andre Marriner,9,6,1,0,15,1
+Brighton & Hove Albion,Manchester City,"Saturday July 11, 2020",Graham Scott,10,3,1,0,13,1
+Wolverhampton Wanderers,Everton,"Sunday July 12, 2020",Anthony Taylor,10,10,0,2,20,2
+Aston Villa,Crystal Palace,"Sunday July 12, 2020",Martin Atkinson,27,24,2,4,51,6
+Tottenham Hotspur,Arsenal,"Sunday July 12, 2020",Michael Oliver,22,15,5,3,37,8
+Bournemouth,Leicester City,"Sunday July 12, 2020",Stuart Attwell,15,15,2,1,30,3
+Manchester United,Southampton,"Monday July 13, 2020",Chris Kavanagh,18,19,1,3,37,4
+Chelsea,Norwich City,"Tuesday July 14, 2020",Jonathan Moss,12,13,2,2,25,4
+Burnley,Wolverhampton Wanderers,"Wednesday July 15, 2020",Mike Dean,11,10,0,0,21,0
+Newcastle United,Tottenham Hotspur,"Wednesday July 15, 2020",David Coote,8,13,2,3,21,5
+Manchester City,Bournemouth,"Wednesday July 15, 2020",Lee Mason,10,11,1,1,21,2
+Arsenal,Liverpool,"Wednesday July 15, 2020",Paul Tierney,19,10,3,1,29,4
+Leicester City,Sheffield United,"Thursday July 16, 2020",Michael Oliver,12,14,1,2,26,3
+Everton,Aston Villa,"Thursday July 16, 2020",Anthony Taylor,16,14,2,1,30,3
+Southampton,Brighton & Hove Albion,"Thursday July 16, 2020",Andre Marriner,8,14,1,0,22,1
+Crystal Palace,Manchester United,"Thursday July 16, 2020",Graham Scott,13,16,1,2,29,3
+West Ham United,Watford,"Friday July 17, 2020",Martin Atkinson,12,12,0,2,24,2
+Norwich City,Burnley,"Saturday July 18, 2020",Kevin Friend,7,17,0,0,24,0
+Bournemouth,Southampton,"Sunday July 19, 2020",Craig Pawson,14,12,2,2,26,4
+Tottenham Hotspur,Leicester City,"Sunday July 19, 2020",Anthony Taylor,16,11,2,1,27,3
+Sheffield United,Everton,"Monday July 20, 2020",Stuart Attwell,13,19,1,3,32,4
+Brighton & Hove Albion,Newcastle United,"Monday July 20, 2020",Simon Hooper,14,13,4,2,27,6
+Wolverhampton Wanderers,Crystal Palace,"Monday July 20, 2020",Peter Bankes,12,17,2,1,29,3
+Watford,Manchester City,"Tuesday July 21, 2020",Michael Oliver,16,12,2,0,28,2
+Aston Villa,Arsenal,"Tuesday July 21, 2020",Chris Kavanagh,15,20,2,4,35,6
+Manchester United,West Ham United,"Wednesday July 22, 2020",Paul Tierney,12,10,3,1,22,4
+Liverpool,Chelsea,"Wednesday July 22, 2020",Andre Marriner,12,14,1,0,26,1
+Burnley,Brighton & Hove Albion,"Sunday July 26, 2020",Jonathan Moss,13,10,3,0,23,3
+West Ham United,Aston Villa,"Sunday July 26, 2020",Michael Oliver,17,15,2,1,32,3
+Arsenal,Watford,"Sunday July 26, 2020",Mike Dean,11,16,3,3,27,6
+Crystal Palace,Tottenham Hotspur,"Sunday July 26, 2020",Andre Marriner,12,17,3,2,29,5
+Everton,Bournemouth,"Sunday July 26, 2020",Chris Kavanagh,14,10,1,0,24,1
+Chelsea,Wolverhampton Wanderers,"Sunday July 26, 2020",Stuart Attwell,12,18,2,3,30,5
+Newcastle United,Liverpool,"Sunday July 26, 2020",Anthony Taylor,14,5,1,0,19,1
+Leicester City,Manchester United,"Sunday July 26, 2020",Martin Atkinson,12,12,1,5,24,6
+Manchester City,Norwich City,"Sunday July 26, 2020",Craig Pawson,7,6,1,1,13,2
+Southampton,Sheffield United,"Sunday July 26, 2020",Peter Bankes,10,16,0,1,26,1
+Manchester United,Leicester City,"Friday August 10, 2018",Andre Marriner,19,8,2,1,27,3
+Newcastle United,Tottenham Hotspur,"Saturday August 11, 2018",Martin Atkinson,12,14,2,2,26,4
+Bournemouth,Cardiff City,"Saturday August 11, 2018",Kevin Friend,12,13,1,1,25,2
+Fulham,Crystal Palace,"Saturday August 11, 2018",Mike Dean,14,12,1,2,26,3
+Huddersfield Town,Chelsea,"Saturday August 11, 2018",Chris Kavanagh,13,13,2,1,26,3
+Watford,Brighton & Hove Albion,"Saturday August 11, 2018",Jonathan Moss,11,19,2,2,30,4
+Wolverhampton Wanderers,Everton,"Saturday August 11, 2018",Craig Pawson,9,6,0,1,15,1
+Southampton,Burnley,"Sunday August 12, 2018",Graham Scott,10,10,0,1,20,1
+Liverpool,West Ham United,"Sunday August 12, 2018",Anthony Taylor,15,13,1,2,28,3
+Arsenal,Manchester City,"Sunday August 12, 2018",Michael Oliver,15,16,2,2,31,4
+Cardiff City,Newcastle United,"Saturday August 18, 2018",Craig Pawson,15,21,2,2,36,4
+Everton,Southampton,"Saturday August 18, 2018",Lee Mason,8,24,0,5,32,5
+West Ham United,Bournemouth,"Saturday August 18, 2018",Stuart Attwell,14,10,6,2,24,8
+Leicester City,Wolverhampton Wanderers,"Saturday August 18, 2018",Mike Dean,11,10,2,1,21,3
+Tottenham Hotspur,Fulham,"Saturday August 18, 2018",Anthony Taylor,9,9,0,0,18,0
+Chelsea,Arsenal,"Saturday August 18, 2018",Martin Atkinson,12,12,0,2,24,2
+Manchester City,Huddersfield Town,"Sunday August 19, 2018",Andre Marriner,9,8,0,2,17,2
+Burnley,Watford,"Sunday August 19, 2018",Paul Tierney,11,20,1,2,31,3
+Brighton & Hove Albion,Manchester United,"Sunday August 19, 2018",Kevin Friend,18,13,1,1,31,2
+Crystal Palace,Liverpool,"Monday August 20, 2018",Michael Oliver,8,14,1,1,22,2
+Wolverhampton Wanderers,Manchester City,"Saturday August 25, 2018",Martin Atkinson,16,9,1,2,25,3
+Arsenal,West Ham United,"Saturday August 25, 2018",Graham Scott,17,13,1,3,30,4
+Huddersfield Town,Cardiff City,"Saturday August 25, 2018",Michael Oliver,12,12,0,1,24,1
+Southampton,Leicester City,"Saturday August 25, 2018",Jonathan Moss,14,14,4,1,28,5
+Bournemouth,Everton,"Saturday August 25, 2018",Lee Probert,12,17,0,3,29,3
+Liverpool,Brighton & Hove Albion,"Saturday August 25, 2018",Chris Kavanagh,9,18,1,1,27,2
+Watford,Crystal Palace,"Sunday August 26, 2018",Anthony Taylor,16,14,4,2,30,6
+Fulham,Burnley,"Sunday August 26, 2018",David Coote,13,10,2,1,23,3
+Newcastle United,Chelsea,"Sunday August 26, 2018",Paul Tierney,19,10,3,1,29,4
+Manchester United,Tottenham Hotspur,"Monday August 27, 2018",Craig Pawson,12,19,2,3,31,5
+Leicester City,Liverpool,"Saturday September 1, 2018",Paul Tierney,10,14,3,2,24,5
+Chelsea,Bournemouth,"Saturday September 1, 2018",Lee Mason,10,8,2,2,18,4
+Everton,Huddersfield Town,"Saturday September 1, 2018",Stuart Attwell,14,16,3,3,30,6
+Crystal Palace,Southampton,"Saturday September 1, 2018",Martin Atkinson,11,13,1,1,24,2
+Brighton & Hove Albion,Fulham,"Saturday September 1, 2018",Lee Probert,14,15,3,3,29,6
+West Ham United,Wolverhampton Wanderers,"Saturday September 1, 2018",Chris Kavanagh,15,13,2,1,28,3
+Manchester City,Newcastle United,"Saturday September 1, 2018",Kevin Friend,5,17,0,0,22,0
+Cardiff City,Arsenal,"Sunday September 2, 2018",Anthony Taylor,17,19,3,4,36,7
+Burnley,Manchester United,"Sunday September 2, 2018",Jonathan Moss,10,15,2,3,25,5
+Watford,Tottenham Hotspur,"Sunday September 2, 2018",Andre Marriner,10,12,2,1,22,3
+Tottenham Hotspur,Liverpool,"Saturday September 15, 2018",Michael Oliver,20,16,0,0,36,0
+Huddersfield Town,Crystal Palace,"Saturday September 15, 2018",Lee Mason,12,18,1,2,30,3
+Newcastle United,Arsenal,"Saturday September 15, 2018",Lee Probert,17,16,0,0,33,0
+Chelsea,Cardiff City,"Saturday September 15, 2018",Jonathan Moss,9,13,0,0,22,0
+Manchester City,Fulham,"Saturday September 15, 2018",Stuart Attwell,6,12,0,0,18,0
+Bournemouth,Leicester City,"Saturday September 15, 2018",Craig Pawson,13,15,3,5,28,8
+Watford,Manchester United,"Saturday September 15, 2018",Mike Dean,14,11,2,4,25,6
+Wolverhampton Wanderers,Burnley,"Sunday September 16, 2018",Andre Marriner,11,13,2,4,24,6
+Everton,West Ham United,"Sunday September 16, 2018",Martin Atkinson,19,12,2,5,31,7
+Southampton,Brighton & Hove Albion,"Monday September 17, 2018",Anthony Taylor,14,20,2,3,34,5
+Fulham,Watford,"Saturday September 22, 2018",Martin Atkinson,12,9,2,1,21,3
+Crystal Palace,Newcastle United,"Saturday September 22, 2018",Andre Marriner,10,14,1,1,24,2
+Leicester City,Huddersfield Town,"Saturday September 22, 2018",David Coote,12,17,2,1,29,3
+Burnley,Bournemouth,"Saturday September 22, 2018",Anthony Taylor,19,8,2,0,27,2
+Manchester United,Wolverhampton Wanderers,"Saturday September 22, 2018",Kevin Friend,7,18,1,1,25,2
+Liverpool,Southampton,"Saturday September 22, 2018",Paul Tierney,7,14,0,2,21,2
+Cardiff City,Manchester City,"Saturday September 22, 2018",Michael Oliver,10,6,1,1,16,2
+Brighton & Hove Albion,Tottenham Hotspur,"Saturday September 22, 2018",Chris Kavanagh,17,11,2,1,28,3
+West Ham United,Chelsea,"Sunday September 23, 2018",Mike Dean,13,9,2,1,22,3
+Arsenal,Everton,"Sunday September 23, 2018",Jonathan Moss,22,16,2,1,38,3
+West Ham United,Manchester United,"Saturday September 29, 2018",Michael Oliver,12,15,0,1,27,1
+Huddersfield Town,Tottenham Hotspur,"Saturday September 29, 2018",Craig Pawson,19,17,2,2,36,4
+Newcastle United,Leicester City,"Saturday September 29, 2018",Simon Hooper,15,8,0,0,23,0
+Everton,Fulham,"Saturday September 29, 2018",Roger East,15,15,0,3,30,3
+Arsenal,Watford,"Saturday September 29, 2018",Anthony Taylor,13,20,2,2,33,4
+Manchester City,Brighton & Hove Albion,"Saturday September 29, 2018",Lee Mason,4,12,0,3,16,3
+Wolverhampton Wanderers,Southampton,"Saturday September 29, 2018",Stuart Attwell,15,8,3,1,23,4
+Chelsea,Liverpool,"Saturday September 29, 2018",Andre Marriner,10,10,0,2,20,2
+Cardiff City,Burnley,"Sunday September 30, 2018",Martin Atkinson,11,15,1,3,26,4
+Bournemouth,Crystal Palace,"Monday October 1, 2018",Mike Dean,11,12,3,4,23,7
+Brighton & Hove Albion,West Ham United,"Friday October 5, 2018",Kevin Friend,13,10,3,2,23,5
+Watford,Bournemouth,"Saturday October 6, 2018",Jonathan Moss,11,12,6,1,23,7
+Burnley,Huddersfield Town,"Saturday October 6, 2018",Chris Kavanagh,11,13,2,2,24,4
+Crystal Palace,Wolverhampton Wanderers,"Saturday October 6, 2018",Michael Oliver,11,19,3,4,30,7
+Tottenham Hotspur,Cardiff City,"Saturday October 6, 2018",Mike Dean,8,12,3,1,20,4
+Leicester City,Everton,"Saturday October 6, 2018",Andre Marriner,11,13,5,1,24,6
+Manchester United,Newcastle United,"Saturday October 6, 2018",Anthony Taylor,17,11,2,2,28,4
+Fulham,Arsenal,"Sunday October 7, 2018",Paul Tierney,13,13,2,0,26,2
+Southampton,Chelsea,"Sunday October 7, 2018",Craig Pawson,16,11,6,0,27,6
+Liverpool,Manchester City,"Sunday October 7, 2018",Martin Atkinson,11,11,1,3,22,4
+Chelsea,Manchester United,"Saturday October 20, 2018",Mike Dean,11,21,2,5,32,7
+Cardiff City,Fulham,"Saturday October 20, 2018",Kevin Friend,15,16,3,3,31,6
+Wolverhampton Wanderers,Watford,"Saturday October 20, 2018",Lee Mason,23,14,3,1,37,4
+Newcastle United,Brighton & Hove Albion,"Saturday October 20, 2018",Andre Marriner,13,20,0,2,33,2
+Bournemouth,Southampton,"Saturday October 20, 2018",Lee Probert,11,15,1,2,26,3
+West Ham United,Tottenham Hotspur,"Saturday October 20, 2018",Martin Atkinson,10,12,3,0,22,3
+Manchester City,Burnley,"Saturday October 20, 2018",Jonathan Moss,10,5,2,2,15,4
+Huddersfield Town,Liverpool,"Saturday October 20, 2018",Michael Oliver,12,8,0,2,20,2
+Everton,Crystal Palace,"Sunday October 21, 2018",Anthony Taylor,14,21,2,1,35,3
+Arsenal,Leicester City,"Monday October 22, 2018",Chris Kavanagh,12,13,2,2,25,4
+Southampton,Newcastle United,"Saturday October 27, 2018",Chris Kavanagh,9,12,0,1,21,1
+Fulham,Bournemouth,"Saturday October 27, 2018",Andre Marriner,15,3,5,1,18,6
+Liverpool,Cardiff City,"Saturday October 27, 2018",Stuart Attwell,7,5,0,0,12,0
+Watford,Huddersfield Town,"Saturday October 27, 2018",Mike Dean,10,13,1,2,23,3
+Brighton & Hove Albion,Wolverhampton Wanderers,"Saturday October 27, 2018",Anthony Taylor,14,11,3,0,25,3
+Leicester City,West Ham United,"Saturday October 27, 2018",Michael Oliver,19,9,1,1,28,2
+Crystal Palace,Arsenal,"Sunday October 28, 2018",Martin Atkinson,12,19,1,2,31,3
+Burnley,Chelsea,"Sunday October 28, 2018",Craig Pawson,15,9,4,2,24,6
+Manchester United,Everton,"Sunday October 28, 2018",Jonathan Moss,20,15,2,1,35,3
+Tottenham Hotspur,Manchester City,"Monday October 29, 2018",Kevin Friend,13,14,2,2,27,4
+Bournemouth,Manchester United,"Saturday November 3, 2018",Paul Tierney,14,12,4,3,26,7
+Newcastle United,Watford,"Saturday November 3, 2018",Craig Pawson,14,13,1,5,27,6
+Everton,Brighton & Hove Albion,"Saturday November 3, 2018",David Coote,9,19,0,1,28,1
+West Ham United,Burnley,"Saturday November 3, 2018",Roger East,8,11,1,4,19,5
+Cardiff City,Leicester City,"Saturday November 3, 2018",Lee Probert,14,13,2,2,27,4
+Arsenal,Liverpool,"Saturday November 3, 2018",Andre Marriner,7,9,1,1,16,2
+Wolverhampton Wanderers,Tottenham Hotspur,"Saturday November 3, 2018",Mike Dean,17,8,1,2,25,3
+Manchester City,Southampton,"Sunday November 4, 2018",Lee Mason,14,10,1,1,24,2
+Chelsea,Crystal Palace,"Sunday November 4, 2018",Michael Oliver,6,18,0,1,24,1
+Huddersfield Town,Fulham,"Monday November 5, 2018",Anthony Taylor,11,11,1,2,22,3
+Cardiff City,Brighton & Hove Albion,"Saturday November 10, 2018",Martin Atkinson,8,23,2,1,31,3
+Newcastle United,Bournemouth,"Saturday November 10, 2018",Lee Probert,10,12,2,1,22,3
+Southampton,Watford,"Saturday November 10, 2018",Simon Hooper,15,14,3,2,29,5
+Leicester City,Burnley,"Saturday November 10, 2018",Mike Dean,13,11,2,0,24,2
+Huddersfield Town,West Ham United,"Saturday November 10, 2018",Chris Kavanagh,10,9,1,1,19,2
+Crystal Palace,Tottenham Hotspur,"Saturday November 10, 2018",Jonathan Moss,13,12,1,1,25,2
+Liverpool,Fulham,"Sunday November 11, 2018",Paul Tierney,13,13,1,1,26,2
+Chelsea,Everton,"Sunday November 11, 2018",Kevin Friend,10,14,4,3,24,7
+Arsenal,Wolverhampton Wanderers,"Sunday November 11, 2018",Stuart Attwell,10,16,2,2,26,4
+Manchester City,Manchester United,"Sunday November 11, 2018",Anthony Taylor,13,13,1,1,26,2
+Everton,Cardiff City,"Saturday November 24, 2018",Paul Tierney,13,17,0,3,30,3
+Brighton & Hove Albion,Leicester City,"Saturday November 24, 2018",Chris Kavanagh,11,6,3,4,17,7
+Fulham,Southampton,"Saturday November 24, 2018",Michael Oliver,12,7,2,3,19,5
+Manchester United,Crystal Palace,"Saturday November 24, 2018",Lee Mason,17,13,1,2,30,3
+West Ham United,Manchester City,"Saturday November 24, 2018",Andre Marriner,9,5,0,0,14,0
+Watford,Liverpool,"Saturday November 24, 2018",Jonathan Moss,11,13,0,3,24,3
+Tottenham Hotspur,Chelsea,"Saturday November 24, 2018",Martin Atkinson,19,13,0,3,32,3
+Bournemouth,Arsenal,"Sunday November 25, 2018",Craig Pawson,9,9,2,1,18,3
+Wolverhampton Wanderers,Huddersfield Town,"Sunday November 25, 2018",Kevin Friend,10,9,1,2,19,3
+Burnley,Newcastle United,"Monday November 26, 2018",Anthony Taylor,6,12,0,1,18,1
+Cardiff City,Wolverhampton Wanderers,"Friday November 30, 2018",Andre Marriner,6,15,1,2,21,3
+Huddersfield Town,Brighton & Hove Albion,"Saturday December 1, 2018",Michael Oliver,13,13,0,2,26,2
+Crystal Palace,Burnley,"Saturday December 1, 2018",Lee Probert,9,12,1,1,21,2
+Leicester City,Watford,"Saturday December 1, 2018",Graham Scott,7,7,2,1,14,3
+Manchester City,Bournemouth,"Saturday December 1, 2018",Stuart Attwell,10,4,0,0,14,0
+Newcastle United,West Ham United,"Saturday December 1, 2018",Paul Tierney,12,12,3,3,24,6
+Southampton,Manchester United,"Saturday December 1, 2018",Kevin Friend,15,17,4,4,32,8
+Chelsea,Fulham,"Sunday December 2, 2018",Craig Pawson,9,18,2,1,27,3
+Arsenal,Tottenham Hotspur,"Sunday December 2, 2018",Mike Dean,16,17,3,6,33,9
+Liverpool,Everton,"Sunday December 2, 2018",Chris Kavanagh,13,10,3,2,23,5
+West Ham United,Cardiff City,"Tuesday December 4, 2018",Graham Scott,10,12,1,2,22,3
+Brighton & Hove Albion,Crystal Palace,"Tuesday December 4, 2018",Kevin Friend,17,13,2,3,30,5
+Bournemouth,Huddersfield Town,"Tuesday December 4, 2018",Roger East,15,10,4,2,25,6
+Watford,Manchester City,"Tuesday December 4, 2018",Paul Tierney,6,8,0,1,14,1
+Fulham,Leicester City,"Wednesday December 5, 2018",David Coote,12,8,0,0,20,0
+Wolverhampton Wanderers,Chelsea,"Wednesday December 5, 2018",Jonathan Moss,23,11,4,4,34,8
+Burnley,Liverpool,"Wednesday December 5, 2018",Stuart Attwell,14,3,1,0,17,1
+Everton,Newcastle United,"Wednesday December 5, 2018",Lee Mason,7,20,0,5,27,5
+Manchester United,Arsenal,"Wednesday December 5, 2018",Andre Marriner,18,13,3,3,31,6
+Tottenham Hotspur,Southampton,"Wednesday December 5, 2018",Anthony Taylor,7,5,0,0,12,0
+Bournemouth,Liverpool,"Saturday December 8, 2018",Lee Mason,10,12,2,1,22,3
+Burnley,Brighton & Hove Albion,"Saturday December 8, 2018",Martin Atkinson,11,11,2,0,22,2
+Cardiff City,Southampton,"Saturday December 8, 2018",Jonathan Moss,12,12,2,2,24,4
+Manchester United,Fulham,"Saturday December 8, 2018",Lee Probert,13,16,1,4,29,5
+Arsenal,Huddersfield Town,"Saturday December 8, 2018",Paul Tierney,10,22,5,4,32,9
+West Ham United,Crystal Palace,"Saturday December 8, 2018",Anthony Taylor,10,12,1,1,22,2
+Chelsea,Manchester City,"Saturday December 8, 2018",Michael Oliver,14,13,2,0,27,2
+Leicester City,Tottenham Hotspur,"Saturday December 8, 2018",Craig Pawson,14,9,3,1,23,4
+Newcastle United,Wolverhampton Wanderers,"Sunday December 9, 2018",Mike Dean,12,20,2,5,32,7
+Everton,Watford,"Monday December 10, 2018",Kevin Friend,15,16,1,2,31,3
+Manchester City,Everton,"Saturday December 15, 2018",Craig Pawson,8,9,1,2,17,3
+Wolverhampton Wanderers,Bournemouth,"Saturday December 15, 2018",Simon Hooper,17,7,1,2,24,3
+Huddersfield Town,Newcastle United,"Saturday December 15, 2018",Anthony Taylor,6,14,1,1,20,2
+Watford,Cardiff City,"Saturday December 15, 2018",Andy Madley,8,5,0,0,13,0
+Crystal Palace,Leicester City,"Saturday December 15, 2018",Michael Oliver,11,11,2,1,22,3
+Tottenham Hotspur,Burnley,"Saturday December 15, 2018",Graham Scott,6,8,0,2,14,2
+Fulham,West Ham United,"Saturday December 15, 2018",Mike Dean,15,12,2,1,27,3
+Brighton & Hove Albion,Chelsea,"Sunday December 16, 2018",Stuart Attwell,19,7,2,2,26,4
+Southampton,Arsenal,"Sunday December 16, 2018",Chris Kavanagh,16,11,3,1,27,4
+Liverpool,Manchester United,"Sunday December 16, 2018",Martin Atkinson,6,18,0,2,24,2
+Wolverhampton Wanderers,Liverpool,"Friday December 21, 2018",Craig Pawson,10,4,0,0,14,0
+Arsenal,Burnley,"Saturday December 22, 2018",Kevin Friend,9,16,2,5,25,7
+Chelsea,Leicester City,"Saturday December 22, 2018",Lee Probert,10,11,0,2,21,2
+West Ham United,Watford,"Saturday December 22, 2018",Lee Mason,9,11,3,2,20,5
+Bournemouth,Brighton & Hove Albion,"Saturday December 22, 2018",Mike Dean,10,19,2,3,29,5
+Newcastle United,Fulham,"Saturday December 22, 2018",Martin Atkinson,14,15,1,2,29,3
+Huddersfield Town,Southampton,"Saturday December 22, 2018",Stuart Attwell,14,9,2,3,23,5
+Manchester City,Crystal Palace,"Saturday December 22, 2018",Andre Marriner,7,7,0,4,14,4
+Cardiff City,Manchester United,"Saturday December 22, 2018",Michael Oliver,18,13,2,1,31,3
+Everton,Tottenham Hotspur,"Sunday December 23, 2018",Paul Tierney,16,10,0,2,26,2
+Fulham,Wolverhampton Wanderers,"Wednesday December 26, 2018",Andre Marriner,11,7,2,1,18,3
+Crystal Palace,Cardiff City,"Wednesday December 26, 2018",Lee Probert,9,14,0,3,23,3
+Burnley,Everton,"Wednesday December 26, 2018",Michael Oliver,14,21,2,4,35,6
+Manchester United,Huddersfield Town,"Wednesday December 26, 2018",Jonathan Moss,10,19,1,1,29,2
+Tottenham Hotspur,Bournemouth,"Wednesday December 26, 2018",Chris Kavanagh,7,10,2,1,17,3
+Leicester City,Manchester City,"Wednesday December 26, 2018",Mike Dean,7,8,2,2,15,4
+Liverpool,Newcastle United,"Wednesday December 26, 2018",Graham Scott,7,9,0,0,16,0
+Brighton & Hove Albion,Arsenal,"Wednesday December 26, 2018",Anthony Taylor,11,5,2,1,16,3
+Watford,Chelsea,"Wednesday December 26, 2018",Martin Atkinson,18,5,1,0,23,1
+Southampton,West Ham United,"Thursday December 27, 2018",Craig Pawson,14,7,2,0,21,2
+Tottenham Hotspur,Wolverhampton Wanderers,"Saturday December 29, 2018",Stuart Attwell,7,9,3,2,16,5
+Leicester City,Cardiff City,"Saturday December 29, 2018",Simon Hooper,14,18,0,2,32,2
+Watford,Newcastle United,"Saturday December 29, 2018",Roger East,18,21,1,2,39,3
+Fulham,Huddersfield Town,"Saturday December 29, 2018",Kevin Friend,13,11,3,1,24,4
+Brighton & Hove Albion,Everton,"Saturday December 29, 2018",Andy Madley,13,11,0,2,24,2
+Liverpool,Arsenal,"Saturday December 29, 2018",Michael Oliver,10,16,1,2,26,3
+Crystal Palace,Chelsea,"Sunday December 30, 2018",Craig Pawson,12,10,0,1,22,1
+Southampton,Manchester City,"Sunday December 30, 2018",Paul Tierney,11,11,2,3,22,5
+Burnley,West Ham United,"Sunday December 30, 2018",David Coote,17,16,1,4,33,5
+Manchester United,Bournemouth,"Sunday December 30, 2018",Lee Mason,11,7,2,0,18,2
+Everton,Leicester City,"Tuesday January 1, 2019",Martin Atkinson,7,9,3,1,16,4
+Arsenal,Fulham,"Tuesday January 1, 2019",Graham Scott,8,14,0,1,22,1
+Cardiff City,Tottenham Hotspur,"Tuesday January 1, 2019",Kevin Friend,8,7,1,0,15,1
+Huddersfield Town,Burnley,"Wednesday January 2, 2019",Mike Dean,14,9,3,4,23,7
+Bournemouth,Watford,"Wednesday January 2, 2019",David Coote,8,20,1,4,28,5
+Chelsea,Southampton,"Wednesday January 2, 2019",Jonathan Moss,9,14,1,2,23,3
+West Ham United,Brighton & Hove Albion,"Wednesday January 2, 2019",Chris Kavanagh,11,14,0,1,25,1
+Wolverhampton Wanderers,Crystal Palace,"Wednesday January 2, 2019",Roger East,13,7,4,1,20,5
+Newcastle United,Manchester United,"Wednesday January 2, 2019",Andre Marriner,11,10,1,2,21,3
+Manchester City,Liverpool,"Thursday January 3, 2019",Anthony Taylor,13,8,4,2,21,6
+West Ham United,Arsenal,"Saturday January 12, 2019",Jonathan Moss,8,14,0,2,22,2
+Cardiff City,Huddersfield Town,"Saturday January 12, 2019",Lee Mason,13,16,3,1,29,4
+Burnley,Fulham,"Saturday January 12, 2019",Martin Atkinson,7,13,1,2,20,3
+Crystal Palace,Watford,"Saturday January 12, 2019",Paul Tierney,15,14,1,4,29,5
+Leicester City,Southampton,"Saturday January 12, 2019",Michael Oliver,7,11,2,4,18,6
+Brighton & Hove Albion,Liverpool,"Saturday January 12, 2019",Kevin Friend,16,5,0,0,21,0
+Chelsea,Newcastle United,"Saturday January 12, 2019",Chris Kavanagh,9,16,1,1,25,2
+Everton,Bournemouth,"Sunday January 13, 2019",Anthony Taylor,19,8,5,0,27,5
+Tottenham Hotspur,Manchester United,"Sunday January 13, 2019",Mike Dean,8,15,1,2,23,3
+Manchester City,Wolverhampton Wanderers,"Monday January 14, 2019",Craig Pawson,7,2,1,0,9,1
+Wolverhampton Wanderers,Leicester City,"Saturday January 19, 2019",Chris Kavanagh,15,12,3,3,27,6
+Newcastle United,Cardiff City,"Saturday January 19, 2019",Stuart Attwell,13,6,0,1,19,1
+Watford,Burnley,"Saturday January 19, 2019",Michael Oliver,15,11,1,2,26,3
+Manchester United,Brighton & Hove Albion,"Saturday January 19, 2019",Paul Tierney,12,11,1,0,23,1
+Bournemouth,West Ham United,"Saturday January 19, 2019",Simon Hooper,8,11,0,1,19,1
+Southampton,Everton,"Saturday January 19, 2019",Graham Scott,16,11,2,1,27,3
+Liverpool,Crystal Palace,"Saturday January 19, 2019",Jonathan Moss,7,9,3,1,16,4
+Arsenal,Chelsea,"Saturday January 19, 2019",Anthony Taylor,14,17,0,2,31,2
+Huddersfield Town,Manchester City,"Sunday January 20, 2019",Andre Marriner,12,9,2,2,21,4
+Fulham,Tottenham Hotspur,"Sunday January 20, 2019",Craig Pawson,11,7,2,3,18,5
+Wolverhampton Wanderers,West Ham United,"Tuesday January 29, 2019",David Coote,11,11,4,1,22,5
+Arsenal,Cardiff City,"Tuesday January 29, 2019",Mike Dean,13,15,3,3,28,6
+Huddersfield Town,Everton,"Tuesday January 29, 2019",Stuart Attwell,14,10,1,4,24,5
+Fulham,Brighton & Hove Albion,"Tuesday January 29, 2019",Lee Probert,11,7,2,3,18,5
+Manchester United,Burnley,"Tuesday January 29, 2019",Jonathan Moss,12,13,1,3,25,4
+Newcastle United,Manchester City,"Tuesday January 29, 2019",Paul Tierney,13,8,2,3,21,5
+Southampton,Crystal Palace,"Wednesday January 30, 2019",Andre Marriner,12,10,2,5,22,7
+Bournemouth,Chelsea,"Wednesday January 30, 2019",Roger East,10,6,1,0,16,1
+Tottenham Hotspur,Watford,"Wednesday January 30, 2019",Graham Scott,7,10,0,4,17,4
+Liverpool,Leicester City,"Wednesday January 30, 2019",Martin Atkinson,14,8,1,3,22,4
+Tottenham Hotspur,Newcastle United,"Saturday February 2, 2019",Andre Marriner,6,10,0,1,16,1
+Everton,Wolverhampton Wanderers,"Saturday February 2, 2019",Lee Mason,12,15,3,1,27,4
+Chelsea,Huddersfield Town,"Saturday February 2, 2019",Paul Tierney,10,10,0,0,20,0
+Crystal Palace,Fulham,"Saturday February 2, 2019",Michael Oliver,11,13,2,3,24,5
+Brighton & Hove Albion,Watford,"Saturday February 2, 2019",Simon Hooper,15,11,1,0,26,1
+Burnley,Southampton,"Saturday February 2, 2019",Anthony Taylor,10,10,3,1,20,4
+Cardiff City,Bournemouth,"Saturday February 2, 2019",Jonathan Moss,24,19,1,2,43,3
+Leicester City,Manchester United,"Sunday February 3, 2019",Mike Dean,15,11,4,4,26,8
+Manchester City,Arsenal,"Sunday February 3, 2019",Martin Atkinson,10,11,1,1,21,2
+West Ham United,Liverpool,"Monday February 4, 2019",Kevin Friend,11,13,1,1,24,2
+Everton,Manchester City,"Wednesday February 6, 2019",Craig Pawson,11,6,1,1,17,2
+Fulham,Manchester United,"Saturday February 9, 2019",Paul Tierney,21,9,3,2,30,5
+Huddersfield Town,Arsenal,"Saturday February 9, 2019",Jonathan Moss,18,13,3,2,31,5
+Crystal Palace,West Ham United,"Saturday February 9, 2019",Craig Pawson,14,10,3,0,24,3
+Watford,Everton,"Saturday February 9, 2019",Lee Probert,22,11,2,3,33,5
+Liverpool,Bournemouth,"Saturday February 9, 2019",Anthony Taylor,15,7,2,2,22,4
+Southampton,Cardiff City,"Saturday February 9, 2019",Martin Atkinson,16,14,3,3,30,6
+Brighton & Hove Albion,Burnley,"Saturday February 9, 2019",Stuart Attwell,10,6,1,1,16,2
+Tottenham Hotspur,Leicester City,"Sunday February 10, 2019",Michael Oliver,17,6,3,1,23,4
+Manchester City,Chelsea,"Sunday February 10, 2019",Mike Dean,12,16,1,2,28,3
+Wolverhampton Wanderers,Newcastle United,"Monday February 11, 2019",Graham Scott,10,11,1,3,21,4
+West Ham United,Fulham,"Friday February 22, 2019",Lee Mason,13,13,1,1,26,2
+Cardiff City,Watford,"Friday February 22, 2019",Simon Hooper,10,14,1,2,24,3
+Burnley,Tottenham Hotspur,"Saturday February 23, 2019",Mike Dean,12,12,1,3,24,4
+Bournemouth,Wolverhampton Wanderers,"Saturday February 23, 2019",Roger East,9,16,4,6,25,10
+Newcastle United,Huddersfield Town,"Saturday February 23, 2019",Kevin Friend,13,8,2,0,21,2
+Leicester City,Crystal Palace,"Saturday February 23, 2019",Anthony Taylor,8,14,2,1,22,3
+Manchester United,Liverpool,"Sunday February 24, 2019",Michael Oliver,15,17,1,3,32,4
+Arsenal,Southampton,"Sunday February 24, 2019",Graham Scott,7,16,0,0,23,0
+Huddersfield Town,Wolverhampton Wanderers,"Tuesday February 26, 2019",David Coote,11,12,2,2,23,4
+Cardiff City,Everton,"Tuesday February 26, 2019",Kevin Friend,15,12,3,1,27,4
+Leicester City,Brighton & Hove Albion,"Tuesday February 26, 2019",Lee Probert,7,8,1,1,15,2
+Newcastle United,Burnley,"Tuesday February 26, 2019",Craig Pawson,9,9,1,3,18,4
+Arsenal,Bournemouth,"Wednesday February 27, 2019",Chris Kavanagh,11,13,2,2,24,4
+Southampton,Fulham,"Wednesday February 27, 2019",Anthony Taylor,15,13,0,1,28,1
+Crystal Palace,Manchester United,"Wednesday February 27, 2019",Martin Atkinson,10,12,2,3,22,5
+Liverpool,Watford,"Wednesday February 27, 2019",Graham Scott,7,10,0,2,17,2
+Manchester City,West Ham United,"Wednesday February 27, 2019",Stuart Attwell,4,7,0,2,11,2
+Chelsea,Tottenham Hotspur,"Wednesday February 27, 2019",Andre Marriner,8,15,1,1,23,2
+Tottenham Hotspur,Arsenal,"Saturday March 2, 2019",Anthony Taylor,19,14,3,2,33,5
+Wolverhampton Wanderers,Cardiff City,"Saturday March 2, 2019",Andre Marriner,12,7,1,2,19,3
+Bournemouth,Manchester City,"Saturday March 2, 2019",Kevin Friend,7,7,1,2,14,3
+Manchester United,Southampton,"Saturday March 2, 2019",Stuart Attwell,9,11,2,1,20,3
+Burnley,Crystal Palace,"Saturday March 2, 2019",Lee Probert,13,11,1,2,24,3
+Brighton & Hove Albion,Huddersfield Town,"Saturday March 2, 2019",Mike Dean,11,8,2,2,19,4
+West Ham United,Newcastle United,"Saturday March 2, 2019",Chris Kavanagh,10,16,3,4,26,7
+Watford,Leicester City,"Sunday March 3, 2019",Jonathan Moss,15,13,5,1,28,6
+Fulham,Chelsea,"Sunday March 3, 2019",Graham Scott,12,10,2,1,22,3
+Everton,Liverpool,"Sunday March 3, 2019",Martin Atkinson,13,11,1,2,24,3
+Crystal Palace,Brighton & Hove Albion,"Saturday March 9, 2019",Craig Pawson,8,20,1,5,28,6
+Southampton,Tottenham Hotspur,"Saturday March 9, 2019",Kevin Friend,18,9,4,2,27,6
+Huddersfield Town,Bournemouth,"Saturday March 9, 2019",Anthony Taylor,17,12,3,1,29,4
+Leicester City,Fulham,"Saturday March 9, 2019",David Coote,11,17,0,2,28,2
+Cardiff City,West Ham United,"Saturday March 9, 2019",Graham Scott,8,13,2,1,21,3
+Newcastle United,Everton,"Saturday March 9, 2019",Lee Mason,14,11,3,1,25,4
+Manchester City,Watford,"Saturday March 9, 2019",Paul Tierney,11,10,1,1,21,2
+Liverpool,Burnley,"Sunday March 10, 2019",Andre Marriner,4,8,2,0,12,2
+Chelsea,Wolverhampton Wanderers,"Sunday March 10, 2019",Michael Oliver,8,17,1,4,25,5
+Arsenal,Manchester United,"Sunday March 10, 2019",Jonathan Moss,14,20,2,2,34,4
+West Ham United,Huddersfield Town,"Saturday March 16, 2019",Jonathan Moss,8,15,0,2,23,2
+Bournemouth,Newcastle United,"Saturday March 16, 2019",Mike Dean,9,13,3,2,22,5
+Burnley,Leicester City,"Saturday March 16, 2019",Michael Oliver,10,9,1,1,19,2
+Fulham,Liverpool,"Sunday March 17, 2019",Craig Pawson,12,9,2,1,21,3
+Everton,Chelsea,"Sunday March 17, 2019",Anthony Taylor,20,10,1,2,30,3
+Fulham,Manchester City,"Saturday March 30, 2019",Kevin Friend,5,13,2,0,18,2
+Crystal Palace,Huddersfield Town,"Saturday March 30, 2019",Lee Probert,10,9,0,0,19,0
+Brighton & Hove Albion,Southampton,"Saturday March 30, 2019",Michael Oliver,8,14,1,2,22,3
+Burnley,Wolverhampton Wanderers,"Saturday March 30, 2019",Chris Kavanagh,15,11,1,1,26,2
+Leicester City,Bournemouth,"Saturday March 30, 2019",Lee Mason,8,13,0,2,21,2
+Manchester United,Watford,"Saturday March 30, 2019",Stuart Attwell,15,10,1,2,25,3
+West Ham United,Everton,"Saturday March 30, 2019",Paul Tierney,10,14,1,1,24,2
+Cardiff City,Chelsea,"Sunday March 31, 2019",Craig Pawson,14,14,2,3,28,5
+Liverpool,Tottenham Hotspur,"Sunday March 31, 2019",Martin Atkinson,6,8,0,1,14,1
+Arsenal,Newcastle United,"Monday April 1, 2019",Anthony Taylor,13,12,2,0,25,2
+Watford,Fulham,"Tuesday April 2, 2019",Roger East,13,7,3,2,20,5
+Wolverhampton Wanderers,Manchester United,"Tuesday April 2, 2019",Mike Dean,5,11,1,5,16,6
+Chelsea,Brighton & Hove Albion,"Wednesday April 3, 2019",Graham Scott,5,10,0,0,15,0
+Tottenham Hotspur,Crystal Palace,"Wednesday April 3, 2019",Andre Marriner,9,5,1,0,14,1
+Manchester City,Cardiff City,"Wednesday April 3, 2019",Jonathan Moss,3,9,0,3,12,3
+Southampton,Liverpool,"Friday April 5, 2019",Paul Tierney,9,7,2,4,16,6
+Newcastle United,Crystal Palace,"Saturday April 6, 2019",Stuart Attwell,13,14,1,2,27,3
+Huddersfield Town,Leicester City,"Saturday April 6, 2019",David Coote,15,12,3,0,27,3
+Bournemouth,Burnley,"Saturday April 6, 2019",Martin Atkinson,12,17,2,3,29,5
+Everton,Arsenal,"Sunday April 7, 2019",Kevin Friend,11,11,1,4,22,5
+Chelsea,West Ham United,"Monday April 8, 2019",Chris Kavanagh,9,8,2,1,17,3
+Leicester City,Newcastle United,"Friday April 12, 2019",Chris Kavanagh,8,11,2,3,19,5
+Tottenham Hotspur,Huddersfield Town,"Saturday April 13, 2019",Lee Mason,11,14,2,2,25,4
+Burnley,Cardiff City,"Saturday April 13, 2019",Mike Dean,8,11,2,4,19,6
+Fulham,Everton,"Saturday April 13, 2019",Lee Probert,9,12,2,1,21,3
+Southampton,Wolverhampton Wanderers,"Saturday April 13, 2019",Jonathan Moss,15,8,1,3,23,4
+Brighton & Hove Albion,Bournemouth,"Saturday April 13, 2019",Kevin Friend,9,7,2,4,16,6
+Manchester United,West Ham United,"Saturday April 13, 2019",Graham Scott,17,5,1,1,22,2
+Crystal Palace,Manchester City,"Sunday April 14, 2019",Martin Atkinson,7,11,0,0,18,0
+Liverpool,Chelsea,"Sunday April 14, 2019",Michael Oliver,6,11,0,1,17,1
+Watford,Arsenal,"Monday April 15, 2019",Craig Pawson,11,10,2,0,21,2
+Brighton & Hove Albion,Cardiff City,"Tuesday April 16, 2019",Andre Marriner,13,14,0,1,27,1
+Manchester City,Tottenham Hotspur,"Saturday April 20, 2019",Michael Oliver,12,15,1,2,27,3
+Wolverhampton Wanderers,Brighton & Hove Albion,"Saturday April 20, 2019",Craig Pawson,0,10,0,1,10,1
+Bournemouth,Fulham,"Saturday April 20, 2019",David Coote,11,19,1,3,30,4
+West Ham United,Leicester City,"Saturday April 20, 2019",Lee Probert,10,11,2,0,21,2
+Huddersfield Town,Watford,"Saturday April 20, 2019",Roger East,15,10,2,2,25,4
+Newcastle United,Southampton,"Saturday April 20, 2019",Anthony Taylor,5,12,0,2,17,2
+Everton,Manchester United,"Sunday April 21, 2019",Paul Tierney,13,7,1,1,20,2
+Cardiff City,Liverpool,"Sunday April 21, 2019",Martin Atkinson,9,5,1,1,14,2
+Arsenal,Crystal Palace,"Sunday April 21, 2019",Jonathan Moss,15,15,4,1,30,5
+Chelsea,Burnley,"Monday April 22, 2019",Kevin Friend,9,6,2,1,15,3
+Watford,Southampton,"Tuesday April 23, 2019",Mike Dean,12,15,5,2,27,7
+Tottenham Hotspur,Brighton & Hove Albion,"Tuesday April 23, 2019",Chris Kavanagh,7,17,1,2,24,3
+Wolverhampton Wanderers,Arsenal,"Wednesday April 24, 2019",Stuart Attwell,13,9,2,3,22,5
+Manchester United,Manchester City,"Wednesday April 24, 2019",Andre Marriner,10,13,2,2,23,4
+Liverpool,Huddersfield Town,"Friday April 26, 2019",Kevin Friend,5,13,0,0,18,0
+Tottenham Hotspur,West Ham United,"Saturday April 27, 2019",Anthony Taylor,3,8,0,2,11,2
+Crystal Palace,Everton,"Saturday April 27, 2019",Lee Mason,11,16,2,0,27,2
+Watford,Wolverhampton Wanderers,"Saturday April 27, 2019",Simon Hooper,11,13,3,2,24,5
+Southampton,Bournemouth,"Saturday April 27, 2019",Graham Scott,9,11,2,1,20,3
+Fulham,Cardiff City,"Saturday April 27, 2019",Chris Kavanagh,12,11,0,0,23,0
+Brighton & Hove Albion,Newcastle United,"Saturday April 27, 2019",Mike Dean,8,11,2,3,19,5
+Leicester City,Arsenal,"Sunday April 28, 2019",Michael Oliver,17,17,3,4,34,7
+Burnley,Manchester City,"Sunday April 28, 2019",Paul Tierney,6,6,1,1,12,2
+Manchester United,Chelsea,"Sunday April 28, 2019",Martin Atkinson,10,15,3,2,25,5
+Everton,Burnley,"Friday May 3, 2019",Chris Kavanagh,9,13,0,2,22,2
+Bournemouth,Tottenham Hotspur,"Saturday May 4, 2019",Craig Pawson,12,11,1,5,23,6
+Wolverhampton Wanderers,Fulham,"Saturday May 4, 2019",Jonathan Moss,13,16,1,3,29,4
+West Ham United,Southampton,"Saturday May 4, 2019",Stuart Attwell,4,13,1,1,17,2
+Cardiff City,Crystal Palace,"Saturday May 4, 2019",Michael Oliver,19,11,0,0,30,0
+Newcastle United,Liverpool,"Saturday May 4, 2019",Andre Marriner,9,5,1,1,14,2
+Huddersfield Town,Manchester United,"Sunday May 5, 2019",Lee Mason,14,11,1,1,25,2
+Chelsea,Watford,"Sunday May 5, 2019",Paul Tierney,9,18,0,1,27,1
+Arsenal,Brighton & Hove Albion,"Sunday May 5, 2019",Anthony Taylor,9,15,5,2,24,7
+Manchester City,Leicester City,"Monday May 6, 2019",Mike Dean,12,8,3,2,20,5
+Liverpool,Wolverhampton Wanderers,"Sunday May 12, 2019",Martin Atkinson,3,14,0,2,17,2
+Fulham,Newcastle United,"Sunday May 12, 2019",Kevin Friend,7,9,1,0,16,1
+Crystal Palace,Bournemouth,"Sunday May 12, 2019",Roger East,14,13,3,0,27,3
+Southampton,Huddersfield Town,"Sunday May 12, 2019",Lee Probert,11,6,0,1,17,1
+Tottenham Hotspur,Everton,"Sunday May 12, 2019",Andre Marriner,12,16,0,2,28,2
+Burnley,Arsenal,"Sunday May 12, 2019",Mike Dean,15,4,5,1,19,6
+Watford,West Ham United,"Sunday May 12, 2019",Chris Kavanagh,9,10,1,0,19,1
+Brighton & Hove Albion,Manchester City,"Sunday May 12, 2019",Michael Oliver,14,8,0,0,22,0
+Leicester City,Chelsea,"Sunday May 12, 2019",Anthony Taylor,14,10,0,1,24,1
+Manchester United,Cardiff City,"Sunday May 12, 2019",Jonathan Moss,10,7,3,3,17,6
+Arsenal,Leicester City,"Friday August 11, 2017",Mike Dean,10,13,0,1,23,1
+Watford,Liverpool,"Saturday August 12, 2017",Anthony Taylor,16,10,0,3,26,3
+Southampton,Swansea City,"Saturday August 12, 2017",Mike Jones,11,14,2,1,25,3
+Chelsea,Burnley,"Saturday August 12, 2017",Craig Pawson,15,13,6,3,28,9
+West Bromwich Albion,Bournemouth,"Saturday August 12, 2017",Robert Madley,19,5,3,1,24,4
+Everton,Stoke City,"Saturday August 12, 2017",Niel Swarbrick,15,11,1,1,26,2
+Crystal Palace,Huddersfield Town,"Saturday August 12, 2017",Jonathan Moss,7,20,1,3,27,4
+Brighton & Hove Albion,Manchester City,"Saturday August 12, 2017",Michael Oliver,8,9,0,2,17,2
+Newcastle United,Tottenham Hotspur,"Sunday August 13, 2017",Andre Marriner,9,12,1,2,21,3
+Manchester United,West Ham United,"Sunday August 13, 2017",Martin Atkinson,18,10,2,2,28,4
+Swansea City,Manchester United,"Saturday August 19, 2017",Jonathan Moss,14,11,1,1,25,2
+Leicester City,Brighton & Hove Albion,"Saturday August 19, 2017",Lee Probert,9,10,1,0,19,1
+Burnley,West Bromwich Albion,"Saturday August 19, 2017",Martin Atkinson,11,12,1,0,23,1
+Liverpool,Crystal Palace,"Saturday August 19, 2017",Kevin Friend,13,15,1,3,28,4
+Bournemouth,Watford,"Saturday August 19, 2017",Roger East,7,15,1,3,22,4
+Southampton,West Ham United,"Saturday August 19, 2017",Lee Mason,20,9,1,1,29,2
+Stoke City,Arsenal,"Saturday August 19, 2017",Andre Marriner,9,11,0,0,20,0
+Huddersfield Town,Newcastle United,"Sunday August 20, 2017",Craig Pawson,15,12,3,4,27,7
+Tottenham Hotspur,Chelsea,"Sunday August 20, 2017",Anthony Taylor,16,22,4,3,38,7
+Manchester City,Everton,"Monday August 21, 2017",Robert Madley,8,12,4,5,20,9
+Bournemouth,Manchester City,"Saturday August 26, 2017",Mike Dean,16,14,5,7,30,12
+Watford,Brighton & Hove Albion,"Saturday August 26, 2017",Graham Scott,8,22,0,1,30,1
+Newcastle United,West Ham United,"Saturday August 26, 2017",Niel Swarbrick,18,12,1,3,30,4
+Crystal Palace,Swansea City,"Saturday August 26, 2017",Andre Marriner,10,8,4,1,18,5
+Huddersfield Town,Southampton,"Saturday August 26, 2017",Stuart Attwell,12,10,0,1,22,1
+Manchester United,Leicester City,"Saturday August 26, 2017",Michael Oliver,11,11,1,2,22,3
+West Bromwich Albion,Stoke City,"Sunday August 27, 2017",Anthony Taylor,12,10,2,2,22,4
+Chelsea,Everton,"Sunday August 27, 2017",Jonathan Moss,13,11,2,2,24,4
+Liverpool,Arsenal,"Sunday August 27, 2017",Craig Pawson,8,16,2,4,24,6
+Tottenham Hotspur,Burnley,"Sunday August 27, 2017",Lee Mason,9,10,0,0,19,0
+Manchester City,Liverpool,"Saturday September 9, 2017",Jonathan Moss,12,10,2,2,22,4
+Southampton,Watford,"Saturday September 9, 2017",Lee Probert,10,11,0,0,21,0
+Everton,Tottenham Hotspur,"Saturday September 9, 2017",Graham Scott,16,14,3,1,30,4
+Brighton & Hove Albion,West Bromwich Albion,"Saturday September 9, 2017",Chris Kavanagh,11,6,2,0,17,2
+Leicester City,Chelsea,"Saturday September 9, 2017",Lee Mason,13,8,1,0,21,1
+Arsenal,Bournemouth,"Saturday September 9, 2017",Anthony Taylor,18,10,0,1,28,1
+Stoke City,Manchester United,"Saturday September 9, 2017",Niel Swarbrick,11,10,0,0,21,0
+Burnley,Crystal Palace,"Sunday September 10, 2017",Michael Oliver,13,16,1,1,29,2
+Swansea City,Newcastle United,"Sunday September 10, 2017",Mike Jones,13,16,2,3,29,5
+West Ham United,Huddersfield Town,"Monday September 11, 2017",Kevin Friend,12,16,1,2,28,3
+Bournemouth,Brighton & Hove Albion,"Friday September 15, 2017",Craig Pawson,6,14,0,0,20,0
+Crystal Palace,Southampton,"Saturday September 16, 2017",Robert Madley,15,15,5,1,30,6
+West Bromwich Albion,West Ham United,"Saturday September 16, 2017",Paul Tierney,15,8,2,2,23,4
+Liverpool,Burnley,"Saturday September 16, 2017",Roger East,8,13,1,2,21,3
+Newcastle United,Stoke City,"Saturday September 16, 2017",Stuart Attwell,14,12,3,1,26,4
+Watford,Manchester City,"Saturday September 16, 2017",Anthony Taylor,11,8,2,0,19,2
+Huddersfield Town,Leicester City,"Saturday September 16, 2017",Jonathan Moss,7,9,1,1,16,2
+Tottenham Hotspur,Swansea City,"Saturday September 16, 2017",Mike Dean,10,9,1,3,19,4
+Chelsea,Arsenal,"Sunday September 17, 2017",Michael Oliver,11,19,2,3,30,5
+Manchester United,Everton,"Sunday September 17, 2017",Andre Marriner,17,17,1,1,34,2
+West Ham United,Tottenham Hotspur,"Saturday September 23, 2017",Michael Oliver,10,22,4,5,32,9
+Manchester City,Crystal Palace,"Saturday September 23, 2017",Niel Swarbrick,8,12,3,1,20,4
+Everton,Bournemouth,"Saturday September 23, 2017",Martin Atkinson,15,11,3,1,26,4
+Burnley,Huddersfield Town,"Saturday September 23, 2017",Chris Kavanagh,12,14,3,2,26,5
+Swansea City,Watford,"Saturday September 23, 2017",Lee Mason,9,19,1,3,28,4
+Southampton,Manchester United,"Saturday September 23, 2017",Craig Pawson,14,12,1,4,26,5
+Stoke City,Chelsea,"Saturday September 23, 2017",Mike Dean,7,14,2,2,21,4
+Leicester City,Liverpool,"Saturday September 23, 2017",Anthony Taylor,16,15,3,3,31,6
+Brighton & Hove Albion,Newcastle United,"Sunday September 24, 2017",Andre Marriner,6,8,2,1,14,3
+Arsenal,West Bromwich Albion,"Monday September 25, 2017",Robert Madley,9,18,1,4,27,5
+Huddersfield Town,Tottenham Hotspur,"Saturday September 30, 2017",Niel Swarbrick,8,3,1,1,11,2
+West Ham United,Swansea City,"Saturday September 30, 2017",Roger East,14,13,3,2,27,5
+West Bromwich Albion,Watford,"Saturday September 30, 2017",Michael Oliver,14,13,3,0,27,3
+Bournemouth,Leicester City,"Saturday September 30, 2017",Graham Scott,7,11,1,0,18,1
+Manchester United,Crystal Palace,"Saturday September 30, 2017",Mike Dean,8,11,0,0,19,0
+Stoke City,Southampton,"Saturday September 30, 2017",Mike Jones,12,10,1,2,22,3
+Chelsea,Manchester City,"Saturday September 30, 2017",Martin Atkinson,9,16,0,2,25,2
+Arsenal,Brighton & Hove Albion,"Sunday October 1, 2017",Kevin Friend,8,10,0,2,18,2
+Everton,Burnley,"Sunday October 1, 2017",Jonathan Moss,14,10,2,2,24,4
+Newcastle United,Liverpool,"Sunday October 1, 2017",Craig Pawson,12,7,1,1,19,2
+Liverpool,Manchester United,"Saturday October 14, 2017",Martin Atkinson,7,21,0,2,28,2
+Tottenham Hotspur,Bournemouth,"Saturday October 14, 2017",Robert Madley,9,9,1,3,18,4
+Manchester City,Stoke City,"Saturday October 14, 2017",Craig Pawson,7,10,0,1,17,1
+Crystal Palace,Chelsea,"Saturday October 14, 2017",Andre Marriner,9,8,2,1,17,3
+Burnley,West Ham United,"Saturday October 14, 2017",Stuart Attwell,12,13,2,5,25,7
+Swansea City,Huddersfield Town,"Saturday October 14, 2017",Paul Tierney,13,21,1,5,34,6
+Watford,Arsenal,"Saturday October 14, 2017",Niel Swarbrick,9,13,1,0,22,1
+Brighton & Hove Albion,Everton,"Sunday October 15, 2017",Michael Oliver,17,10,4,1,27,5
+Southampton,Newcastle United,"Sunday October 15, 2017",Kevin Friend,12,12,1,2,24,3
+Leicester City,West Bromwich Albion,"Monday October 16, 2017",Mike Dean,14,7,2,2,21,4
+West Ham United,Brighton & Hove Albion,"Friday October 20, 2017",Martin Atkinson,5,13,1,0,18,1
+Chelsea,Watford,"Saturday October 21, 2017",Jonathan Moss,14,20,2,3,34,5
+Huddersfield Town,Manchester United,"Saturday October 21, 2017",Lee Mason,11,13,4,2,24,6
+Newcastle United,Crystal Palace,"Saturday October 21, 2017",Stuart Attwell,14,14,4,2,28,6
+Swansea City,Leicester City,"Saturday October 21, 2017",Michael Oliver,10,13,0,1,23,1
+Stoke City,Bournemouth,"Saturday October 21, 2017",Lee Probert,19,12,0,1,31,1
+Manchester City,Burnley,"Saturday October 21, 2017",Roger East,11,7,2,3,18,5
+Southampton,West Bromwich Albion,"Saturday October 21, 2017",Graham Scott,14,9,0,1,23,1
+Everton,Arsenal,"Sunday October 22, 2017",Craig Pawson,14,16,4,1,30,5
+Tottenham Hotspur,Liverpool,"Sunday October 22, 2017",Andre Marriner,2,9,0,1,11,1
+Manchester United,Tottenham Hotspur,"Saturday October 28, 2017",Jonathan Moss,12,18,1,0,30,1
+Watford,Stoke City,"Saturday October 28, 2017",Michael Oliver,12,10,4,4,22,8
+Arsenal,Swansea City,"Saturday October 28, 2017",Lee Mason,12,9,0,0,21,0
+Crystal Palace,West Ham United,"Saturday October 28, 2017",Robert Madley,22,16,1,2,38,3
+West Bromwich Albion,Manchester City,"Saturday October 28, 2017",Mike Jones,16,8,2,3,24,5
+Liverpool,Huddersfield Town,"Saturday October 28, 2017",Kevin Friend,11,11,0,1,22,1
+Bournemouth,Chelsea,"Saturday October 28, 2017",Craig Pawson,6,5,2,0,11,2
+Brighton & Hove Albion,Southampton,"Sunday October 29, 2017",Niel Swarbrick,11,12,3,1,23,4
+Leicester City,Everton,"Sunday October 29, 2017",Andre Marriner,8,15,0,2,23,2
+Burnley,Newcastle United,"Monday October 30, 2017",Mike Dean,10,11,3,0,21,3
+Stoke City,Leicester City,"Saturday November 4, 2017",Robert Madley,13,10,0,0,23,0
+Southampton,Burnley,"Saturday November 4, 2017",Lee Probert,3,4,0,0,7,0
+Swansea City,Brighton & Hove Albion,"Saturday November 4, 2017",Mike Dean,14,14,2,1,28,3
+Newcastle United,Bournemouth,"Saturday November 4, 2017",Paul Tierney,14,12,2,2,26,4
+Huddersfield Town,West Bromwich Albion,"Saturday November 4, 2017",Roger East,8,14,4,4,22,8
+West Ham United,Liverpool,"Saturday November 4, 2017",Niel Swarbrick,9,15,3,0,24,3
+Tottenham Hotspur,Crystal Palace,"Sunday November 5, 2017",Kevin Friend,7,13,0,2,20,2
+Manchester City,Arsenal,"Sunday November 5, 2017",Michael Oliver,18,21,1,6,39,7
+Everton,Watford,"Sunday November 5, 2017",Graham Scott,15,17,0,2,32,2
+Chelsea,Manchester United,"Sunday November 5, 2017",Anthony Taylor,18,23,1,3,41,4
+Arsenal,Tottenham Hotspur,"Saturday November 18, 2017",Mike Dean,16,18,4,1,34,5
+Burnley,Swansea City,"Saturday November 18, 2017",Martin Atkinson,13,12,1,1,25,2
+Crystal Palace,Everton,"Saturday November 18, 2017",Anthony Taylor,9,25,2,3,34,5
+Bournemouth,Huddersfield Town,"Saturday November 18, 2017",Lee Probert,13,10,6,2,23,8
+Liverpool,Southampton,"Saturday November 18, 2017",Mike Jones,15,13,1,1,28,2
+West Bromwich Albion,Chelsea,"Saturday November 18, 2017",Jonathan Moss,16,12,2,3,28,5
+Leicester City,Manchester City,"Saturday November 18, 2017",Graham Scott,12,11,1,1,23,2
+Manchester United,Newcastle United,"Saturday November 18, 2017",Craig Pawson,11,9,1,1,20,2
+Watford,West Ham United,"Sunday November 19, 2017",Andre Marriner,15,12,1,4,27,5
+Brighton & Hove Albion,Stoke City,"Monday November 20, 2017",Lee Mason,13,7,1,0,20,1
+West Ham United,Leicester City,"Friday November 24, 2017",Martin Atkinson,12,14,1,1,26,2
+Swansea City,Bournemouth,"Saturday November 25, 2017",Stuart Attwell,20,6,4,2,26,6
+Tottenham Hotspur,West Bromwich Albion,"Saturday November 25, 2017",Mike Jones,10,20,1,4,30,5
+Manchester United,Brighton & Hove Albion,"Saturday November 25, 2017",Niel Swarbrick,12,15,0,2,27,2
+Crystal Palace,Stoke City,"Saturday November 25, 2017",Mike Dean,11,7,1,1,18,2
+Newcastle United,Watford,"Saturday November 25, 2017",Chris Kavanagh,10,14,1,2,24,3
+Liverpool,Chelsea,"Saturday November 25, 2017",Michael Oliver,14,11,0,0,25,0
+Southampton,Everton,"Sunday November 26, 2017",Kevin Friend,6,16,0,0,22,0
+Burnley,Arsenal,"Sunday November 26, 2017",Lee Mason,9,17,2,0,26,2
+Huddersfield Town,Manchester City,"Sunday November 26, 2017",Craig Pawson,14,10,2,3,24,5
+Brighton & Hove Albion,Crystal Palace,"Tuesday November 28, 2017",Andre Marriner,15,9,2,0,24,2
+Leicester City,Tottenham Hotspur,"Tuesday November 28, 2017",Anthony Taylor,9,14,1,2,23,3
+Watford,Manchester United,"Tuesday November 28, 2017",Jonathan Moss,17,13,2,1,30,3
+West Bromwich Albion,Newcastle United,"Tuesday November 28, 2017",Lee Probert,14,13,0,0,27,0
+Arsenal,Huddersfield Town,"Wednesday November 29, 2017",Graham Scott,12,16,0,1,28,1
+Chelsea,Swansea City,"Wednesday November 29, 2017",Niel Swarbrick,9,8,1,0,17,1
+Bournemouth,Burnley,"Wednesday November 29, 2017",Roger East,9,13,0,1,22,1
+Manchester City,Southampton,"Wednesday November 29, 2017",Paul Tierney,13,13,1,1,26,2
+Everton,West Ham United,"Wednesday November 29, 2017",Michael Oliver,19,8,2,1,27,3
+Stoke City,Liverpool,"Wednesday November 29, 2017",Martin Atkinson,9,11,1,5,20,6
+Chelsea,Newcastle United,"Saturday December 2, 2017",Kevin Friend,9,16,0,1,25,1
+Everton,Huddersfield Town,"Saturday December 2, 2017",Chris Kavanagh,13,10,2,1,23,3
+Stoke City,Swansea City,"Saturday December 2, 2017",Craig Pawson,16,13,2,0,29,2
+Watford,Tottenham Hotspur,"Saturday December 2, 2017",Martin Atkinson,17,7,4,1,24,5
+Leicester City,Burnley,"Saturday December 2, 2017",Paul Tierney,5,13,0,2,18,2
+West Bromwich Albion,Crystal Palace,"Saturday December 2, 2017",Michael Oliver,15,14,3,1,29,4
+Brighton & Hove Albion,Liverpool,"Saturday December 2, 2017",Graham Scott,9,7,1,0,16,1
+Arsenal,Manchester United,"Saturday December 2, 2017",Andre Marriner,10,11,3,2,21,5
+Bournemouth,Southampton,"Sunday December 3, 2017",Jonathan Moss,9,13,2,1,22,3
+Manchester City,West Ham United,"Sunday December 3, 2017",Mike Dean,6,8,2,2,14,4
+West Ham United,Chelsea,"Saturday December 9, 2017",Anthony Taylor,13,14,6,1,27,7
+Swansea City,West Bromwich Albion,"Saturday December 9, 2017",Mike Dean,10,21,2,5,31,7
+Tottenham Hotspur,Stoke City,"Saturday December 9, 2017",Roger East,13,11,1,0,24,1
+Crystal Palace,Bournemouth,"Saturday December 9, 2017",Kevin Friend,14,15,5,2,29,7
+Burnley,Watford,"Saturday December 9, 2017",Lee Probert,10,11,1,0,21,1
+Huddersfield Town,Brighton & Hove Albion,"Saturday December 9, 2017",Stuart Attwell,7,12,0,0,19,0
+Newcastle United,Leicester City,"Saturday December 9, 2017",Niel Swarbrick,11,8,2,1,19,3
+Southampton,Arsenal,"Sunday December 10, 2017",Robert Madley,13,12,2,2,25,4
+Liverpool,Everton,"Sunday December 10, 2017",Craig Pawson,8,19,1,3,27,4
+Manchester United,Manchester City,"Sunday December 10, 2017",Michael Oliver,18,15,4,2,33,6
+Burnley,Stoke City,"Tuesday December 12, 2017",Mike Jones,6,16,0,0,22,0
+Huddersfield Town,Chelsea,"Tuesday December 12, 2017",Andre Marriner,12,5,0,0,17,0
+Crystal Palace,Watford,"Tuesday December 12, 2017",Lee Mason,15,18,2,4,33,6
+Southampton,Leicester City,"Wednesday December 13, 2017",Chris Kavanagh,14,10,1,0,24,1
+Swansea City,Manchester City,"Wednesday December 13, 2017",Anthony Taylor,12,11,0,0,23,0
+Newcastle United,Everton,"Wednesday December 13, 2017",Martin Atkinson,11,11,4,2,22,6
+Manchester United,Bournemouth,"Wednesday December 13, 2017",Graham Scott,16,15,1,2,31,3
+Tottenham Hotspur,Brighton & Hove Albion,"Wednesday December 13, 2017",Robert Madley,6,13,1,1,19,2
+Liverpool,West Bromwich Albion,"Wednesday December 13, 2017",Paul Tierney,16,11,1,1,27,2
+West Ham United,Arsenal,"Wednesday December 13, 2017",Jonathan Moss,15,9,2,0,24,2
+Leicester City,Crystal Palace,"Saturday December 16, 2017",Martin Atkinson,15,13,5,2,28,7
+Brighton & Hove Albion,Burnley,"Saturday December 16, 2017",Chris Kavanagh,16,16,4,2,32,6
+Chelsea,Southampton,"Saturday December 16, 2017",Roger East,8,19,1,3,27,4
+Arsenal,Newcastle United,"Saturday December 16, 2017",Stuart Attwell,15,9,2,1,24,3
+Watford,Huddersfield Town,"Saturday December 16, 2017",Michael Oliver,13,17,2,4,30,6
+Stoke City,West Ham United,"Saturday December 16, 2017",Graham Scott,14,16,2,1,30,3
+Manchester City,Tottenham Hotspur,"Saturday December 16, 2017",Craig Pawson,14,20,2,4,34,6
+West Bromwich Albion,Manchester United,"Sunday December 17, 2017",Anthony Taylor,15,7,1,3,22,4
+Bournemouth,Liverpool,"Sunday December 17, 2017",Andre Marriner,5,10,1,1,15,2
+Everton,Swansea City,"Monday December 18, 2017",Jonathan Moss,11,16,2,3,27,5
+Arsenal,Liverpool,"Friday December 22, 2017",Martin Atkinson,13,12,1,0,25,1
+Everton,Chelsea,"Saturday December 23, 2017",Robert Madley,13,6,3,0,19,3
+Southampton,Huddersfield Town,"Saturday December 23, 2017",Lee Probert,17,9,2,1,26,3
+Brighton & Hove Albion,Watford,"Saturday December 23, 2017",Paul Tierney,11,13,0,0,24,0
+Stoke City,West Bromwich Albion,"Saturday December 23, 2017",Niel Swarbrick,10,13,1,0,23,1
+Swansea City,Crystal Palace,"Saturday December 23, 2017",Craig Pawson,18,13,2,3,31,5
+West Ham United,Newcastle United,"Saturday December 23, 2017",Lee Mason,10,13,1,1,23,2
+Manchester City,Bournemouth,"Saturday December 23, 2017",Mike Jones,12,8,0,1,20,1
+Burnley,Tottenham Hotspur,"Saturday December 23, 2017",Michael Oliver,13,12,1,2,25,3
+Leicester City,Manchester United,"Saturday December 23, 2017",Jonathan Moss,20,9,5,2,29,7
+Tottenham Hotspur,Southampton,"Tuesday December 26, 2017",Graham Scott,9,16,0,2,25,2
+Manchester United,Burnley,"Tuesday December 26, 2017",Martin Atkinson,11,16,3,7,27,10
+Chelsea,Brighton & Hove Albion,"Tuesday December 26, 2017",Mike Dean,9,12,0,1,21,1
+Watford,Leicester City,"Tuesday December 26, 2017",Chris Kavanagh,11,16,3,3,27,6
+West Bromwich Albion,Everton,"Tuesday December 26, 2017",Roger East,15,13,2,0,28,2
+Huddersfield Town,Stoke City,"Tuesday December 26, 2017",Anthony Taylor,9,14,2,4,23,6
+Bournemouth,West Ham United,"Tuesday December 26, 2017",Stuart Attwell,13,17,3,4,30,7
+Liverpool,Swansea City,"Tuesday December 26, 2017",Kevin Friend,6,15,0,1,21,1
+Newcastle United,Manchester City,"Wednesday December 27, 2017",Andre Marriner,11,9,1,0,20,1
+Crystal Palace,Arsenal,"Thursday December 28, 2017",Michael Oliver,14,10,1,1,24,2
+Newcastle United,Brighton & Hove Albion,"Saturday December 30, 2017",Anthony Taylor,11,12,2,2,23,4
+Liverpool,Leicester City,"Saturday December 30, 2017",Niel Swarbrick,9,4,3,2,13,5
+Chelsea,Stoke City,"Saturday December 30, 2017",Kevin Friend,4,12,1,1,16,2
+Huddersfield Town,Burnley,"Saturday December 30, 2017",Paul Tierney,16,14,2,1,30,3
+Watford,Swansea City,"Saturday December 30, 2017",Martin Atkinson,18,17,4,2,35,6
+Bournemouth,Everton,"Saturday December 30, 2017",Lee Probert,9,15,0,0,24,0
+Manchester United,Southampton,"Saturday December 30, 2017",Craig Pawson,13,18,2,4,31,6
+Crystal Palace,Manchester City,"Sunday December 31, 2017",Jonathan Moss,16,12,5,4,28,9
+West Bromwich Albion,Arsenal,"Sunday December 31, 2017",Mike Dean,16,10,3,3,26,6
+Brighton & Hove Albion,Bournemouth,"Monday January 1, 2018",Michael Oliver,17,12,2,1,29,3
+Burnley,Liverpool,"Monday January 1, 2018",Roger East,6,14,0,0,20,0
+Leicester City,Huddersfield Town,"Monday January 1, 2018",Graham Scott,9,10,1,1,19,2
+Stoke City,Newcastle United,"Monday January 1, 2018",Chris Kavanagh,13,13,3,1,26,4
+Everton,Manchester United,"Monday January 1, 2018",Andre Marriner,15,11,2,0,26,2
+Southampton,Crystal Palace,"Tuesday January 2, 2018",Stuart Attwell,10,13,0,1,23,1
+West Ham United,West Bromwich Albion,"Tuesday January 2, 2018",Mike Jones,15,19,3,2,34,5
+Swansea City,Tottenham Hotspur,"Tuesday January 2, 2018",Robert Madley,16,12,2,2,28,4
+Manchester City,Watford,"Tuesday January 2, 2018",Lee Mason,8,13,1,1,21,2
+Arsenal,Chelsea,"Wednesday January 3, 2018",Anthony Taylor,14,14,3,2,28,5
+Tottenham Hotspur,West Ham United,"Thursday January 4, 2018",Mike Dean,10,9,0,2,19,2
+Newcastle United,Swansea City,"Saturday January 13, 2018",Graham Scott,14,12,0,3,26,3
+Crystal Palace,Burnley,"Saturday January 13, 2018",Michael Oliver,20,11,0,3,31,3
+Watford,Southampton,"Saturday January 13, 2018",Roger East,11,14,0,5,25,5
+Chelsea,Leicester City,"Saturday January 13, 2018",Mike Jones,16,12,2,5,28,7
+West Bromwich Albion,Brighton & Hove Albion,"Saturday January 13, 2018",Martin Atkinson,9,17,0,0,26,0
+Huddersfield Town,West Ham United,"Saturday January 13, 2018",Jonathan Moss,13,9,1,1,22,2
+Tottenham Hotspur,Everton,"Saturday January 13, 2018",Craig Pawson,13,20,0,2,33,2
+Bournemouth,Arsenal,"Sunday January 14, 2018",Kevin Friend,9,11,2,2,20,4
+Liverpool,Manchester City,"Sunday January 14, 2018",Andre Marriner,13,10,2,3,23,5
+Manchester United,Stoke City,"Monday January 15, 2018",Anthony Taylor,15,13,2,1,28,3
+Brighton & Hove Albion,Chelsea,"Saturday January 20, 2018",Jonathan Moss,13,6,3,0,19,3
+Everton,West Bromwich Albion,"Saturday January 20, 2018",Stuart Attwell,16,12,2,1,28,3
+Burnley,Manchester United,"Saturday January 20, 2018",Mike Dean,9,15,3,3,24,6
+Arsenal,Crystal Palace,"Saturday January 20, 2018",Chris Kavanagh,9,16,0,0,25,0
+Leicester City,Watford,"Saturday January 20, 2018",Lee Probert,12,11,0,0,23,0
+West Ham United,Bournemouth,"Saturday January 20, 2018",Martin Atkinson,11,9,3,1,20,4
+Stoke City,Huddersfield Town,"Saturday January 20, 2018",Michael Oliver,18,12,1,1,30,2
+Manchester City,Newcastle United,"Saturday January 20, 2018",Paul Tierney,6,11,0,1,17,1
+Southampton,Tottenham Hotspur,"Sunday January 21, 2018",Kevin Friend,9,18,2,3,27,5
+Swansea City,Liverpool,"Monday January 22, 2018",Niel Swarbrick,5,9,0,2,14,2
+Swansea City,Arsenal,"Tuesday January 30, 2018",Lee Mason,5,9,0,3,14,3
+West Ham United,Crystal Palace,"Tuesday January 30, 2018",Niel Swarbrick,11,17,1,3,28,4
+Huddersfield Town,Liverpool,"Tuesday January 30, 2018",Kevin Friend,9,9,0,0,18,0
+Southampton,Brighton & Hove Albion,"Wednesday January 31, 2018",Mike Dean,9,15,3,1,24,4
+Chelsea,Bournemouth,"Wednesday January 31, 2018",Lee Probert,5,16,1,0,21,1
+Everton,Leicester City,"Wednesday January 31, 2018",Chris Kavanagh,9,12,0,2,21,2
+Newcastle United,Burnley,"Wednesday January 31, 2018",Simon Hooper,17,16,1,2,33,3
+Stoke City,Watford,"Wednesday January 31, 2018",Jonathan Moss,14,14,4,3,28,7
+Manchester City,West Bromwich Albion,"Wednesday January 31, 2018",Robert Madley,12,19,1,3,31,4
+Tottenham Hotspur,Manchester United,"Wednesday January 31, 2018",Andre Marriner,12,19,2,2,31,4
+Burnley,Manchester City,"Saturday February 3, 2018",Martin Atkinson,12,4,4,1,16,5
+Leicester City,Swansea City,"Saturday February 3, 2018",Anthony Taylor,11,10,1,0,21,1
+Bournemouth,Stoke City,"Saturday February 3, 2018",Paul Tierney,14,23,2,3,37,5
+West Bromwich Albion,Southampton,"Saturday February 3, 2018",Michael Oliver,13,11,2,1,24,3
+Manchester United,Huddersfield Town,"Saturday February 3, 2018",Stuart Attwell,6,21,2,4,27,6
+Brighton & Hove Albion,West Ham United,"Saturday February 3, 2018",Roger East,11,8,3,1,19,4
+Arsenal,Everton,"Saturday February 3, 2018",Niel Swarbrick,9,11,2,0,20,2
+Crystal Palace,Newcastle United,"Sunday February 4, 2018",Andre Marriner,15,10,1,1,25,2
+Liverpool,Tottenham Hotspur,"Sunday February 4, 2018",Jonathan Moss,15,11,3,1,26,4
+Watford,Chelsea,"Monday February 5, 2018",Mike Dean,15,8,2,5,23,7
+Tottenham Hotspur,Arsenal,"Saturday February 10, 2018",Anthony Taylor,15,13,2,1,28,3
+Everton,Crystal Palace,"Saturday February 10, 2018",Jonathan Moss,17,19,1,1,36,2
+Stoke City,Brighton & Hove Albion,"Saturday February 10, 2018",Robert Madley,8,12,0,0,20,0
+Swansea City,Burnley,"Saturday February 10, 2018",Andre Marriner,10,11,2,1,21,3
+West Ham United,Watford,"Saturday February 10, 2018",Graham Scott,11,7,1,1,18,2
+Manchester City,Leicester City,"Saturday February 10, 2018",Mike Jones,11,16,2,3,27,5
+Huddersfield Town,Bournemouth,"Sunday February 11, 2018",Michael Oliver,14,13,0,3,27,3
+Newcastle United,Manchester United,"Sunday February 11, 2018",Craig Pawson,13,15,0,2,28,2
+Southampton,Liverpool,"Sunday February 11, 2018",Martin Atkinson,6,9,1,2,15,3
+Chelsea,West Bromwich Albion,"Monday February 12, 2018",Lee Mason,12,13,0,2,25,2
+Leicester City,Stoke City,"Saturday February 24, 2018",Michael Oliver,12,18,1,3,30,4
+Burnley,Southampton,"Saturday February 24, 2018",Robert Madley,9,17,1,0,26,1
+West Bromwich Albion,Huddersfield Town,"Saturday February 24, 2018",Jonathan Moss,14,12,1,1,26,2
+Liverpool,West Ham United,"Saturday February 24, 2018",Stuart Attwell,7,7,0,2,14,2
+Bournemouth,Newcastle United,"Saturday February 24, 2018",Roger East,12,10,1,4,22,5
+Brighton & Hove Albion,Swansea City,"Saturday February 24, 2018",Mike Dean,18,6,1,0,24,1
+Watford,Everton,"Saturday February 24, 2018",Anthony Taylor,12,12,3,1,24,4
+Crystal Palace,Tottenham Hotspur,"Sunday February 25, 2018",Kevin Friend,14,7,0,1,21,1
+Manchester United,Chelsea,"Sunday February 25, 2018",Martin Atkinson,16,16,2,2,32,4
+Arsenal,Manchester City,"Thursday March 1, 2018",Andre Marriner,16,14,1,1,30,2
+Burnley,Everton,"Saturday March 3, 2018",Chris Kavanagh,13,14,1,1,27,2
+Swansea City,West Ham United,"Saturday March 3, 2018",Martin Atkinson,9,14,0,3,23,3
+Tottenham Hotspur,Huddersfield Town,"Saturday March 3, 2018",Kevin Friend,6,10,1,1,16,2
+Southampton,Stoke City,"Saturday March 3, 2018",Anthony Taylor,9,15,0,1,24,1
+Leicester City,Bournemouth,"Saturday March 3, 2018",Lee Probert,12,7,2,1,19,3
+Watford,West Bromwich Albion,"Saturday March 3, 2018",Paul Tierney,11,13,2,0,24,2
+Liverpool,Newcastle United,"Saturday March 3, 2018",Graham Scott,8,10,0,0,18,0
+Brighton & Hove Albion,Arsenal,"Sunday March 4, 2018",Stuart Attwell,19,12,3,3,31,6
+Manchester City,Chelsea,"Sunday March 4, 2018",Michael Oliver,9,10,2,1,19,3
+Crystal Palace,Manchester United,"Monday March 5, 2018",Niel Swarbrick,11,9,1,3,20,4
+Manchester United,Liverpool,"Saturday March 10, 2018",Craig Pawson,14,18,2,1,32,3
+Huddersfield Town,Swansea City,"Saturday March 10, 2018",Michael Oliver,9,9,2,3,18,5
+West Bromwich Albion,Leicester City,"Saturday March 10, 2018",Robert Madley,8,7,1,3,15,4
+Everton,Brighton & Hove Albion,"Saturday March 10, 2018",Roger East,10,13,0,1,23,1
+Newcastle United,Southampton,"Saturday March 10, 2018",Andre Marriner,11,12,0,2,23,2
+West Ham United,Burnley,"Saturday March 10, 2018",Lee Mason,13,10,2,2,23,4
+Chelsea,Crystal Palace,"Saturday March 10, 2018",Anthony Taylor,10,9,1,2,19,3
+Arsenal,Watford,"Sunday March 11, 2018",Martin Atkinson,13,12,2,1,25,3
+Bournemouth,Tottenham Hotspur,"Sunday March 11, 2018",Mike Dean,10,9,1,1,19,2
+Stoke City,Manchester City,"Monday March 12, 2018",Jonathan Moss,10,7,1,0,17,1
+Bournemouth,West Bromwich Albion,"Saturday March 17, 2018",Graham Scott,8,11,1,2,19,3
+Stoke City,Everton,"Saturday March 17, 2018",Martin Atkinson,16,13,1,1,29,2
+Huddersfield Town,Crystal Palace,"Saturday March 17, 2018",Mike Dean,15,17,3,2,32,5
+Liverpool,Watford,"Saturday March 17, 2018",Anthony Taylor,6,5,1,0,11,1
+Crystal Palace,Liverpool,"Saturday March 31, 2018",Niel Swarbrick,7,11,2,2,18,4
+Watford,Bournemouth,"Saturday March 31, 2018",Andy Madley,17,8,4,0,25,4
+Brighton & Hove Albion,Leicester City,"Saturday March 31, 2018",Chris Kavanagh,13,13,2,7,26,9
+West Bromwich Albion,Burnley,"Saturday March 31, 2018",Lee Probert,15,9,1,3,24,4
+Newcastle United,Huddersfield Town,"Saturday March 31, 2018",Martin Atkinson,10,10,1,4,20,5
+Manchester United,Swansea City,"Saturday March 31, 2018",Robert Madley,8,15,0,0,23,0
+West Ham United,Southampton,"Saturday March 31, 2018",Jonathan Moss,10,17,0,3,27,3
+Everton,Manchester City,"Saturday March 31, 2018",Paul Tierney,11,8,0,0,19,0
+Arsenal,Stoke City,"Sunday April 1, 2018",Craig Pawson,11,15,1,2,26,3
+Chelsea,Tottenham Hotspur,"Sunday April 1, 2018",Andre Marriner,9,15,0,1,24,1
+Everton,Liverpool,"Saturday April 7, 2018",Michael Oliver,14,8,0,0,22,0
+Leicester City,Newcastle United,"Saturday April 7, 2018",Stuart Attwell,7,14,1,3,21,4
+Brighton & Hove Albion,Huddersfield Town,"Saturday April 7, 2018",Anthony Taylor,16,9,1,0,25,1
+Stoke City,Tottenham Hotspur,"Saturday April 7, 2018",Graham Scott,26,9,4,3,35,7
+Bournemouth,Crystal Palace,"Saturday April 7, 2018",Jonathan Moss,10,12,2,2,22,4
+Watford,Burnley,"Saturday April 7, 2018",Paul Tierney,19,14,2,2,33,4
+West Bromwich Albion,Swansea City,"Saturday April 7, 2018",Roger East,16,7,3,2,23,5
+Manchester City,Manchester United,"Saturday April 7, 2018",Martin Atkinson,17,11,6,3,28,9
+Arsenal,Southampton,"Sunday April 8, 2018",Andre Marriner,12,8,2,1,20,3
+Chelsea,West Ham United,"Sunday April 8, 2018",Kevin Friend,9,12,0,1,21,1
+Southampton,Chelsea,"Saturday April 14, 2018",Mike Dean,15,15,5,3,30,8
+Burnley,Leicester City,"Saturday April 14, 2018",Martin Atkinson,14,13,2,1,27,3
+Crystal Palace,Brighton & Hove Albion,"Saturday April 14, 2018",Andre Marriner,13,17,3,2,30,5
+Swansea City,Everton,"Saturday April 14, 2018",Lee Mason,11,12,1,1,23,2
+Huddersfield Town,Watford,"Saturday April 14, 2018",Craig Pawson,10,8,2,2,18,4
+Liverpool,Bournemouth,"Saturday April 14, 2018",Chris Kavanagh,9,16,1,1,25,2
+Tottenham Hotspur,Manchester City,"Saturday April 14, 2018",Jonathan Moss,12,14,3,4,26,7
+Newcastle United,Arsenal,"Sunday April 15, 2018",Anthony Taylor,13,9,1,0,22,1
+Manchester United,West Bromwich Albion,"Sunday April 15, 2018",Paul Tierney,9,18,1,1,27,2
+West Ham United,Stoke City,"Monday April 16, 2018",Michael Oliver,15,22,2,3,37,5
+Brighton & Hove Albion,Tottenham Hotspur,"Tuesday April 17, 2018",Kevin Friend,14,5,1,0,19,1
+Bournemouth,Manchester United,"Wednesday April 18, 2018",Graham Scott,10,13,3,1,23,4
+Burnley,Chelsea,"Thursday April 19, 2018",Robert Madley,10,11,1,0,21,1
+Leicester City,Southampton,"Thursday April 19, 2018",Roger East,10,11,0,0,21,0
+West Bromwich Albion,Liverpool,"Saturday April 21, 2018",Stuart Attwell,14,5,0,1,19,1
+Watford,Crystal Palace,"Saturday April 21, 2018",Chris Kavanagh,25,13,3,5,38,8
+Stoke City,Burnley,"Sunday April 22, 2018",Mike Dean,19,8,2,1,27,3
+Arsenal,West Ham United,"Sunday April 22, 2018",Lee Mason,12,10,3,2,22,5
+Manchester City,Swansea City,"Sunday April 22, 2018",Craig Pawson,6,7,0,1,13,1
+Everton,Newcastle United,"Monday April 23, 2018",Robert Madley,13,16,2,1,29,3
+Liverpool,Stoke City,"Saturday April 28, 2018",Andre Marriner,5,14,1,2,19,3
+Burnley,Brighton & Hove Albion,"Saturday April 28, 2018",Roger East,5,19,0,2,24,2
+Huddersfield Town,Everton,"Saturday April 28, 2018",Lee Probert,14,8,1,0,22,1
+Southampton,Bournemouth,"Saturday April 28, 2018",Anthony Taylor,16,11,5,1,27,6
+Crystal Palace,Leicester City,"Saturday April 28, 2018",Mike Dean,15,15,1,1,30,2
+Newcastle United,West Bromwich Albion,"Saturday April 28, 2018",David Coote,8,13,1,3,21,4
+Swansea City,Chelsea,"Saturday April 28, 2018",Jonathan Moss,15,11,1,1,26,2
+West Ham United,Manchester City,"Sunday April 29, 2018",Niel Swarbrick,8,12,0,1,20,1
+Manchester United,Arsenal,"Sunday April 29, 2018",Kevin Friend,15,7,0,1,22,1
+Tottenham Hotspur,Watford,"Monday April 30, 2018",Michael Oliver,12,13,1,0,25,1
+Brighton & Hove Albion,Manchester United,"Friday May 4, 2018",Craig Pawson,8,3,2,0,11,2
+Stoke City,Crystal Palace,"Saturday May 5, 2018",Martin Atkinson,23,13,5,2,36,7
+Bournemouth,Swansea City,"Saturday May 5, 2018",Kevin Friend,12,11,1,4,23,5
+Watford,Newcastle United,"Saturday May 5, 2018",Roger East,10,14,2,1,24,3
+West Bromwich Albion,Tottenham Hotspur,"Saturday May 5, 2018",Mike Jones,15,13,4,1,28,5
+Leicester City,West Ham United,"Saturday May 5, 2018",Chris Kavanagh,14,11,1,2,25,3
+Everton,Southampton,"Saturday May 5, 2018",Jonathan Moss,19,13,2,7,32,9
+Manchester City,Huddersfield Town,"Sunday May 6, 2018",Mike Dean,9,5,0,3,14,3
+Chelsea,Liverpool,"Sunday May 6, 2018",Anthony Taylor,14,9,3,2,23,5
+Arsenal,Burnley,"Sunday May 6, 2018",Andre Marriner,8,10,0,1,18,1
+Swansea City,Southampton,"Tuesday May 8, 2018",Michael Oliver,9,17,2,1,26,3
+Leicester City,Arsenal,"Wednesday May 9, 2018",Graham Scott,8,13,2,2,21,4
+Chelsea,Huddersfield Town,"Wednesday May 9, 2018",Lee Mason,8,11,0,1,19,1
+Manchester City,Brighton & Hove Albion,"Wednesday May 9, 2018",Paul Tierney,5,10,0,1,15,1
+Tottenham Hotspur,Newcastle United,"Wednesday May 9, 2018",Niel Swarbrick,10,12,2,3,22,5
+West Ham United,Manchester United,"Thursday May 10, 2018",Jonathan Moss,17,14,1,1,31,2
+Southampton,Manchester City,"Sunday May 13, 2018",Andre Marriner,10,10,3,2,20,5
+Swansea City,Stoke City,"Sunday May 13, 2018",Anthony Taylor,13,10,1,2,23,3
+Manchester United,Watford,"Sunday May 13, 2018",Lee Mason,6,11,4,0,17,4
+Burnley,Bournemouth,"Sunday May 13, 2018",Paul Tierney,15,12,0,0,27,0
+Newcastle United,Chelsea,"Sunday May 13, 2018",Martin Atkinson,13,10,0,1,23,1
+West Ham United,Everton,"Sunday May 13, 2018",Graham Scott,11,13,0,1,24,1
+Huddersfield Town,Arsenal,"Sunday May 13, 2018",Michael Oliver,15,8,1,0,23,1
+Tottenham Hotspur,Leicester City,"Sunday May 13, 2018",Craig Pawson,11,16,1,2,27,3
+Crystal Palace,West Bromwich Albion,"Sunday May 13, 2018",Jonathan Moss,11,16,2,3,27,5
+Liverpool,Brighton & Hove Albion,"Sunday May 13, 2018",Kevin Friend,3,10,0,0,13,0
